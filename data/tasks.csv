@@ -1,0 +1,11 @@
+task_id,title,description,type_of_task,priority_level,due_date
+89182d03-b993-4cd2-a046-72334270db78,Task 1,Description for Task 1,Furniture Layout Plan,Neutral,2025-03-31
+e6fb1c4f-f973-47a1-a791-ca2081f20341,Task 2,Description for Task 2,Schematic Design,High,2025-04-12
+20b47965-259c-4f8c-aa65-95703444cd56,Task 3,Description for Task 3,Hardscape Plan,Low,2025-03-30
+faa57a46-b274-4d16-a9e1-41418d3886c9,Task 4,Description for Task 4,Reflected Ceiling Plan,Neutral,2025-04-27
+9c1ab681-9830-4f07-b50d-aa4ccaf6d171,Task 5,Description for Task 5,Reflected Ceiling Plan,Neutral,2025-04-03
+7f1622bc-e9d3-49a6-97e9-609772df2010,Task 6,Description for Task 6,Zoning & Building Code Compliance,High,2025-04-13
+f42e4ac6-7e3d-4193-9487-37704235925d,Task 7,Description for Task 7,Others,Low,2025-03-30
+cec39065-caf1-4e78-bc1e-339a6cea8a90,Task 8,Description for Task 8,Hardscape Plan,Low,2025-04-26
+3fd072d7-7378-4018-b0f4-6370601c3528,Task 9,Description for Task 9,Construction Document,Neutral,2025-04-21
+090ba070-3f00-4928-a7b5-cf93a8d8e296,Task 10,Description for Task 10,Door & Window Schedule,High,2025-04-26
