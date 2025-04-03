@@ -1,0 +1,401 @@
+task_id,title,description,type_of_task,priority_level,due_date
+a50a7ba0-0295-447a-862f-cb5fb8dde558,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Partition Plan,Neutral,2025-05-03
+da3bf33e-2372-4b1e-b533-5ceaca9944c5,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Technical Specification,Low,2025-04-28
+96c33dbd-433d-4d37-a96d-ecc096cce7bd,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,3D Render,High,2025-04-19
+a32387e7-7173-4710-90d5-7df145bb9db5,3D Model Development,Create a detailed 3D model for the client’s new residential project.,3D Render,High,2025-04-29
+9f7ecf72-d0e1-4586-b784-df7f4a28ea8b,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,3D Model,Low,2025-05-03
+afc281a5-b8e9-4302-883a-5a1f1782e9c8,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Elevation Drawing,High,2025-04-19
+9e531755-d4ad-4628-8e55-fcb2925d9e10,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Lighting & Fixture Plan,High,2025-04-21
+058018cb-0353-415b-bc50-6f739c42faf3,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Material Board,Neutral,2025-04-27
+3bb40450-4ce0-44fc-af85-6f9c11c84dbe,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Landscape Plan,Neutral,2025-04-09
+c1420b2b-c520-4898-9d53-af4dfcd28591,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Virtual Reality,Neutral,2025-05-02
+58b4a035-2b57-40cb-b78f-04502e5a6975,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Schematic Design,Low,2025-04-08
+31ea7347-f51a-4cf0-a03b-ce04dc0f2e11,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Custom Millwork & Joinery Drawing,Neutral,2025-04-11
+eba35601-8d4c-43fa-917b-0cd495c1acb3,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Reflected Ceiling Plan,High,2025-04-16
+fb0fd0a8-410e-48cf-bf0e-118127a4c424,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Interior Layout Plan,Neutral,2025-04-24
+a6634a84-e91e-42c1-bdef-432d12dfac6b,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Roof Plan,High,2025-04-29
+e34dd07d-36d7-4fb2-bc50-4b42c60d2e06,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Schematic Design,Low,2025-04-19
+fd5eae66-88c6-4477-a477-298c88b6ae34,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Roof Plan,High,2025-04-21
+d3a01483-c89e-4e11-9aa7-0466feaeac67,Technical Specifications,Compile technical specifications for the construction phase.,Others,Neutral,2025-04-20
+d4835e06-5668-4525-948c-65902425c2e7,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Hardscape Plan,High,2025-04-22
+1e8e9c0a-c54c-4983-bff9-aa20f4fd18e5,Structural Coordination,Coordinate with the structural engineer for beam placements.,General Specification,High,2025-05-02
+625856b9-566f-44a2-a594-95069e5b770b,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Material Board,High,2025-04-13
+98a2cd6a-6099-4426-a2b8-fae201f2be2f,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Material Board,Neutral,2025-04-28
+ef7397c4-90d6-4de0-ab20-aceb010a8672,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Lighting & Fixture Plan,High,2025-04-19
+339c7dbc-7152-4c24-aab1-8aae125b6307,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Section Drawing,Low,2025-04-09
+a35fedc8-6505-4977-a143-8e75eb33b2a3,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Lighting & Fixture Plan,Low,2025-04-11
+b822d1f7-800a-4bf1-9adb-5ff182d6ef98,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Site Plan,Neutral,2025-04-21
+fb5c5f11-7823-4680-a723-8db86ed6cb8c,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Technical Specification,Low,2025-04-23
+ac38a40c-9e5e-407e-9aae-5a0d80dd543c,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,3D Model,Neutral,2025-04-24
+edf995c2-74bc-4b6e-bcdc-e5e9646cff17,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Reflected Ceiling Plan,Low,2025-04-04
+a1c61aad-ede1-458a-9f31-63f890a1027f,Technical Specifications,Compile technical specifications for the construction phase.,Conceptual Design,High,2025-04-04
+e5ea373e-3efb-4378-9c71-753416649438,Structural Coordination,Coordinate with the structural engineer for beam placements.,Finish Schedule,Neutral,2025-04-29
+3552513c-0e87-43ea-9d37-c6af3fec7cd3,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,General Specification,Neutral,2025-04-15
+f03be926-620d-45d9-a9d8-e5e2f7c28d0f,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Reflected Ceiling Plan,High,2025-04-18
+ef7ebbf3-44a7-47a2-8497-819ec94f18c3,Technical Specifications,Compile technical specifications for the construction phase.,Schematic Design,Neutral,2025-04-08
+7103186b-bc91-4bfc-abd9-b0c986cc3cd5,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,3D Render,High,2025-04-10
+3bd45323-ca61-4d76-a9b7-e3c0471d1404,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,3D Model,Low,2025-04-23
+c9985516-ed1c-4982-af59-13ada771cc25,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Hardscape Plan,Neutral,2025-04-13
+6931ff61-8fb4-4dee-9cd8-39b261e80e55,Construction Documentation,Compile detailed construction drawings for city permit approval.,Hardscape Plan,Low,2025-04-05
+d5b3e08b-b59e-43cc-b389-7e64999f054c,Technical Specifications,Compile technical specifications for the construction phase.,3D Render,Neutral,2025-04-09
+b2678c26-add8-4211-bd22-b29c73cd7a2b,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Furniture Layout Plan,Neutral,2025-04-24
+05db84cd-7616-4050-b3f3-a1f472e5e7b7,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Landscape Plan,High,2025-05-01
+e2ed9dde-3c88-4d9f-a300-4ed4f1851a48,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Schematic Design,Neutral,2025-04-23
+95940815-c4f9-496d-9833-50cb479e556d,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Roof Plan,High,2025-04-08
+3baa429e-134b-4a3c-9ac2-a507bf6da505,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Reflected Ceiling Plan,Low,2025-04-27
+a6f75af7-2f7d-4051-a8c4-30540e574bde,Structural Coordination,Coordinate with the structural engineer for beam placements.,Material Board,Low,2025-04-22
+0fdf2028-1861-49b7-a53e-452440b2d1aa,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Others,Low,2025-04-19
+1106f301-cf57-4240-9595-b7f98215d76b,Structural Coordination,Coordinate with the structural engineer for beam placements.,Conceptual Design,Neutral,2025-04-06
+c83af860-af07-46e4-93a5-2f81b1478010,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Custom Millwork & Joinery Drawing,High,2025-04-28
+2bcbc14c-6968-406c-a15c-0fa1c0bbbc07,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Elevation Drawing,Low,2025-04-04
+731510b9-b764-4850-80dc-0bd20aef04fd,Construction Documentation,Compile detailed construction drawings for city permit approval.,Site Plan,Low,2025-04-11
+dfc3134f-759c-4af8-934a-5787fd6cc84c,Structural Coordination,Coordinate with the structural engineer for beam placements.,Zoning & Building Code Compliance,Low,2025-05-02
+00fb3a22-e82b-43df-a3d7-815dbb48748e,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Section Drawing,High,2025-04-21
+16bc2574-2c2e-4ae2-87b2-a987edb45bdf,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Landscape Plan,High,2025-05-01
+aa7f83c8-de1b-407a-a98a-e78f67f4a5b7,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Virtual Reality,Neutral,2025-05-02
+d4f31e9c-6cf9-46b5-8391-476736ac6522,Structural Coordination,Coordinate with the structural engineer for beam placements.,Custom Millwork & Joinery Drawing,Neutral,2025-04-19
+0e856334-d843-496e-9d54-6c879e9f3d8c,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Virtual Reality,Neutral,2025-04-15
+52f8e4f1-3c82-4941-a1fa-f220d5592ead,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Permit Drawing,Low,2025-05-01
+1acff96d-8d5c-4503-92c8-131214691456,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Site Plan,High,2025-04-10
+120cdbd1-c0d8-4419-959a-bb2e01dbdd12,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Zoning & Building Code Compliance,Neutral,2025-04-15
+2879b3d2-082b-48ea-97e7-aec7d68769d9,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Door & Window Schedule,Low,2025-04-27
+6e6b9ac4-3353-4537-83dd-0f72ba3a77c3,Technical Specifications,Compile technical specifications for the construction phase.,Interior Layout Plan,High,2025-04-26
+88159f10-936d-462d-b355-5017fa3e538d,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Hardscape Plan,High,2025-04-21
+3a88dfe5-d589-43e2-b351-6816c3c18f2e,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Interior Layout Plan,Low,2025-04-20
+034f81da-edf8-48eb-8b20-80a0d128b058,Construction Documentation,Compile detailed construction drawings for city permit approval.,Reflected Ceiling Plan,Low,2025-04-15
+e40496fe-a106-421e-8c78-6fa4bedc2291,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Partition Plan,Low,2025-04-24
+b234b9f0-3b37-4fa8-b692-f047f849c0cf,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Zoning & Building Code Compliance,Neutral,2025-04-27
+05e664bb-d436-44fd-9e31-ea9e5c9f5777,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Section Drawing,High,2025-04-05
+42e2d9c4-2ea7-4e72-bf22-32f79bdefc40,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Roof Plan,Neutral,2025-04-29
+c3dbe01b-12f9-4b99-93f8-f7945ff001b3,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Reflected Ceiling Plan,High,2025-05-03
+e42c3e13-4a44-49d5-83f5-4dc34f04eb86,Permit Drawing Submission,Prepare and submit permit drawings for approval.,General Specification,Neutral,2025-04-16
+b63efec7-fe0d-4eea-8595-94d2e90f8fe4,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Custom Millwork & Joinery Drawing,Neutral,2025-04-29
+cde091de-477c-45a3-8094-3f65aa19adaf,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Custom Millwork & Joinery Drawing,Neutral,2025-04-26
+80b1a599-89ac-448c-9a56-bc9f2d53b996,Construction Documentation,Compile detailed construction drawings for city permit approval.,Design Development,Neutral,2025-05-01
+7d47eaab-fcac-45e3-96a0-4794eb79cfbb,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Reflected Ceiling Plan,Neutral,2025-04-27
+161fc85d-35fe-485b-96d7-6cc181e0741a,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Landscape Plan,Low,2025-04-20
+6559a133-129e-4330-be9f-1ae6bd970556,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Technical Specification,Low,2025-04-18
+473400ca-e75b-419f-ac81-d1b922c1cdb6,Construction Documentation,Compile detailed construction drawings for city permit approval.,Schematic Design,Low,2025-04-19
+91c689e0-abdc-4b30-998c-2c809219a302,Technical Specifications,Compile technical specifications for the construction phase.,Reflected Ceiling Plan,Neutral,2025-04-26
+956cd724-4dd0-4a88-83f1-8428c033585b,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Design Development,Low,2025-04-09
+f6748b48-a68d-4b89-814d-e0d8c5800272,Structural Coordination,Coordinate with the structural engineer for beam placements.,Furniture Layout Plan,High,2025-04-05
+c2bc9db6-9152-4d59-a86b-4e40e77c3bb7,Technical Specifications,Compile technical specifications for the construction phase.,Floor Plan,High,2025-04-16
+0902e3e3-086e-4473-9fff-e2f6ab88a086,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Finish Schedule,Neutral,2025-04-08
+f6b36598-6e36-4086-a0be-e62c304bc985,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Elevation Drawing,Low,2025-04-15
+2851044c-fe3d-4b5f-a57b-78e714fbaa0b,Permit Drawing Submission,Prepare and submit permit drawings for approval.,General Specification,Neutral,2025-04-15
+97667fac-e76d-4b23-bd46-b664a0ff7590,Structural Coordination,Coordinate with the structural engineer for beam placements.,Elevation Drawing,Neutral,2025-04-17
+4205d49c-3baa-4101-ab00-322071ac4811,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Elevation Drawing,High,2025-04-12
+bcd14a38-29d3-42ac-a7f1-d60e832648ff,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Section Drawing,Low,2025-04-22
+d9a0cb30-4eb1-4964-ad19-32b7b3ad4f7a,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Door & Window Schedule,Neutral,2025-04-28
+8c083a5d-4aa8-4629-9638-2b0f3ee32467,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Schematic Design,Neutral,2025-04-05
+038d2bd2-8d26-4333-a1c7-84f7080bcec6,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Landscape Plan,High,2025-04-21
+ad66a596-0aac-409c-84a2-f1755548008d,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Hardscape Plan,High,2025-04-05
+ee9c6318-6f71-4a63-bb25-98d1627c6c40,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Permit Drawing,Neutral,2025-04-08
+63fe4360-e078-439d-b812-b7e3a3c64994,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,3D Render,High,2025-04-06
+78975f0d-444b-4229-b428-cc1ff30a5fe5,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Material Board,Neutral,2025-05-02
+b31c8bf7-8e48-49d8-af4d-99364916d973,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Site Plan,Low,2025-04-09
+7ad5c3bc-db4c-467c-8923-c1dc32c59ca7,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Permit Drawing,High,2025-04-16
+37f23f93-2e2a-46c0-aef3-3cdf58f6ddd8,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Furniture Layout Plan,Low,2025-04-14
+c129bbd3-39ed-4ed1-8ec0-ec6a7089851c,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Zoning & Building Code Compliance,Low,2025-04-20
+07b9b50a-b84b-4927-9be0-11963d25123a,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Lighting & Fixture Plan,Low,2025-04-20
+c0e4b081-9d09-4d7a-9731-1b396b392ab0,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Roof Plan,High,2025-04-04
+8f7d61e7-e638-4fa8-a251-4879a8a219d2,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Permit Drawing,Low,2025-04-26
+dc62f913-6801-4f81-8bee-5fc6aa459528,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Construction Document,Neutral,2025-04-04
+cf02ff31-d60e-4bf6-a572-b88e07ca2f70,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Lighting & Fixture Plan,High,2025-04-13
+a023bb5b-4d90-413e-ae94-893dfbfce70f,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Construction Document,High,2025-04-13
+e2161030-9f0c-4185-88ab-d630c0501ed7,Construction Documentation,Compile detailed construction drawings for city permit approval.,Site Plan,Low,2025-04-11
+3c4a238d-7179-4ded-97bf-9bf645815056,Structural Coordination,Coordinate with the structural engineer for beam placements.,Finish Schedule,High,2025-04-28
+7586e848-b322-49a9-9259-18a715ea5cb0,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Section Drawing,Neutral,2025-04-05
+42410f84-9854-40eb-ae11-5d4171022909,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Permit Drawing,Neutral,2025-04-10
+c6da64f2-28c1-428c-b635-91f392ea1300,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Landscape Plan,Low,2025-04-05
+a67b2c28-e173-4fef-a2b1-db52bb57226b,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Lighting & Fixture Plan,Neutral,2025-04-29
+c1b6ce04-644b-4966-91fc-7cbd24fae771,Structural Coordination,Coordinate with the structural engineer for beam placements.,General Specification,Neutral,2025-04-08
+11b1a8dc-c0fb-4951-9cd3-51a37d67d509,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Virtual Reality,High,2025-04-20
+6e826de6-c928-4d8e-bc70-95de1fc561ed,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Custom Millwork & Joinery Drawing,Neutral,2025-05-01
+cafd6f7f-3277-407d-bcdc-fd2b854f5545,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,3D Model,High,2025-04-10
+8161fa52-d776-42b0-a135-d7cd9f827c7a,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Hardscape Plan,Low,2025-05-03
+1d248afb-257d-4ad4-9949-6402ed784dcd,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Furniture Layout Plan,High,2025-04-25
+95538b43-d064-4b89-87d9-4aff76dfe6b4,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Lighting & Fixture Plan,Low,2025-04-10
+0a1ca1c5-e592-4cc6-9f08-b80dadb57f95,Structural Coordination,Coordinate with the structural engineer for beam placements.,Permit Drawing,High,2025-04-20
+64a5da14-cee9-4270-bf60-75c807e0e91f,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Technical Specification,Low,2025-04-26
+cdf25e6a-7461-4cb7-88cc-2db2ada3d9d9,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Custom Millwork & Joinery Drawing,Neutral,2025-04-15
+82dff48d-3aad-4897-bca1-46c82c984637,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Zoning & Building Code Compliance,Low,2025-04-11
+2e6975cf-5411-4063-a899-ddc0e62f4c5a,Permit Drawing Submission,Prepare and submit permit drawings for approval.,3D Render,Low,2025-04-24
+64751471-dcab-4269-9016-59bd187c8a22,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,3D Model,High,2025-04-27
+8268314a-0b53-4b93-b253-407a147b4e97,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,3D Render,High,2025-04-14
+f76146b1-09ab-49e5-842e-ec63ffa4c2b9,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Conceptual Design,Low,2025-04-16
+8ccf5ae5-6bb4-49a8-80fe-2381989997f6,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Virtual Reality,Low,2025-04-14
+cb81f152-87d6-48e5-8325-333b37995852,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Material Board,Neutral,2025-04-09
+1af3fce4-60ce-4d77-b96d-f3c00438dc39,Structural Coordination,Coordinate with the structural engineer for beam placements.,Virtual Reality,Low,2025-04-17
+ab3355b2-8120-417a-872f-0fdf4c16ba25,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Interior Layout Plan,High,2025-04-12
+30efe39d-48d7-42b1-a87b-b3f29673a52a,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Furniture Layout Plan,Neutral,2025-04-18
+e23b1012-faac-4dba-99ca-797c8276317c,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Custom Millwork & Joinery Drawing,Low,2025-04-06
+45c34051-bf5b-4374-8c8b-cc4c13c0fff8,Technical Specifications,Compile technical specifications for the construction phase.,Floor Plan,Neutral,2025-04-29
+0979fec3-4cc9-4bff-a25d-4e5611a424d3,Construction Documentation,Compile detailed construction drawings for city permit approval.,Section Drawing,Neutral,2025-04-23
+46d4cefd-7ab6-43ab-9347-27798711b6b0,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Landscape Plan,Neutral,2025-04-28
+da7f4623-8629-4388-97f9-834498d2f493,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Landscape Plan,Neutral,2025-04-12
+85edfc54-30aa-4015-886c-5995c6fa0346,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Floor Plan,Neutral,2025-04-30
+19cbe674-4dd0-4717-9055-0cb5b996361d,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Others,Neutral,2025-04-29
+3d954fd0-263c-4c7c-8c3c-cf49832d7e5a,Structural Coordination,Coordinate with the structural engineer for beam placements.,Material Board,High,2025-04-06
+ff4eb180-3533-4ce1-8911-ae0921d2fabc,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Floor Plan,High,2025-04-20
+7b7dfd71-e95c-41d3-a9fa-f3e8b7d6423b,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Section Drawing,Neutral,2025-04-25
+3cbbb5f6-842e-48ec-ae4f-eebdb9cd1c88,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Interior Layout Plan,High,2025-04-09
+1181f9fd-5673-4c1b-a6e2-3e4f8aec04d9,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Construction Document,Low,2025-04-08
+069e9683-a12f-4d3b-bb67-01a2a5731839,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Material Board,High,2025-04-27
+587a0098-7859-4e44-acf9-7287ef92dff9,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Material Board,Neutral,2025-04-07
+5385afb8-21bd-4d64-a920-ba86437679e6,Technical Specifications,Compile technical specifications for the construction phase.,Roof Plan,Low,2025-04-17
+42dd11f6-5aaf-4c62-bca8-2f339b33af4a,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Interior Layout Plan,High,2025-05-03
+28920706-09a2-47b7-81d5-31aaa5c15003,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,3D Model,Neutral,2025-04-06
+37c5e0e0-4668-4e1f-af26-92219b0f564a,Technical Specifications,Compile technical specifications for the construction phase.,3D Render,Neutral,2025-04-11
+14bfbce5-795a-4116-b2b9-0de8e52ee48b,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Conceptual Design,Low,2025-04-13
+7499c0da-0bbe-4276-b73c-8cc3da9e6232,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Landscape Plan,Neutral,2025-04-25
+219aa7f5-8be9-4f96-a818-868d2c73074f,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Door & Window Schedule,Low,2025-04-20
+2af93494-7be7-4f5a-a9ca-eaa60ca33756,Structural Coordination,Coordinate with the structural engineer for beam placements.,Construction Document,Neutral,2025-04-04
+c09dd542-ced8-4f5f-8ae2-3dfa95ea1c06,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Zoning & Building Code Compliance,Low,2025-04-25
+0dccd07a-8019-4f62-b939-25b711355549,Structural Coordination,Coordinate with the structural engineer for beam placements.,3D Render,Neutral,2025-05-03
+d2b14029-53f8-4dc7-b9b7-8d39835c0c74,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,General Specification,Neutral,2025-04-06
+e862e9c0-833d-414a-a43b-57fb3ae1a5da,Technical Specifications,Compile technical specifications for the construction phase.,Hardscape Plan,Neutral,2025-04-14
+565fab02-4dc2-4463-941d-d06e4ef60b79,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Zoning & Building Code Compliance,Low,2025-04-06
+806819b7-0f27-48fc-b838-86297451281c,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Door & Window Schedule,Neutral,2025-04-20
+37b99b5c-e90a-4466-8557-bab70387eeb6,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Door & Window Schedule,High,2025-04-20
+3e98936d-9e07-4642-b78f-8877eeda75d4,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Door & Window Schedule,Neutral,2025-04-12
+0aaddd0d-91f0-4bbc-9b4f-b4d3064bd950,Construction Documentation,Compile detailed construction drawings for city permit approval.,Finish Schedule,Neutral,2025-04-14
+952653e2-5b66-4832-807d-21587199aa9c,Construction Documentation,Compile detailed construction drawings for city permit approval.,Roof Plan,Neutral,2025-04-22
+1c5ec996-e3e8-4476-8c39-8d23ec2fb52e,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Conceptual Design,Neutral,2025-04-19
+44f07f27-5496-44ed-a8f2-a87e8d9d3fe4,Permit Drawing Submission,Prepare and submit permit drawings for approval.,3D Model,Neutral,2025-04-26
+848bab02-55a8-4950-afa9-846d0ebff568,Construction Documentation,Compile detailed construction drawings for city permit approval.,Site Plan,Low,2025-04-11
+bbd0f060-f07a-4295-86a8-f48a6cc3dbeb,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Elevation Drawing,Low,2025-04-07
+0123149e-8a91-4c81-86a7-67586ffa247c,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Virtual Reality,High,2025-04-14
+531aa066-58c0-4baa-aecf-7852b584d6e9,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Zoning & Building Code Compliance,Low,2025-04-12
+cf29688c-7e5b-4678-9ec2-fb0e3d0956ca,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Elevation Drawing,High,2025-04-12
+72a4e2da-0cfb-4709-ab57-2214b4300fa1,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Custom Millwork & Joinery Drawing,Neutral,2025-04-19
+f6b89e0e-5aa8-47d0-8519-27bfa134573b,Construction Documentation,Compile detailed construction drawings for city permit approval.,Custom Millwork & Joinery Drawing,Neutral,2025-04-12
+efd85912-1d9d-4fca-a274-bdbfbcba8b53,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Roof Plan,Low,2025-04-17
+2e0c610a-322b-4bdd-9f48-78693f14fc18,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,General Specification,High,2025-04-20
+599e56bd-4f60-4c31-8a0c-406101219948,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Interior Layout Plan,Neutral,2025-04-30
+e3533a7d-7260-486c-9b42-0e97d1f8f57f,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Others,Low,2025-04-23
+f8f98eeb-4af6-4209-9bfd-3d78af175982,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Material Board,Low,2025-04-12
+eb3c35e7-f8fa-42ad-b6f7-a340cdb187f4,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Elevation Drawing,Low,2025-04-13
+62995938-428e-493c-8003-376073063d15,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Finish Schedule,High,2025-04-30
+d28518ef-7f9a-4576-ae90-f2e382b7579d,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Roof Plan,High,2025-04-30
+d1a4c8f1-169d-44b4-a652-6f8f0dcb816c,Technical Specifications,Compile technical specifications for the construction phase.,Elevation Drawing,Neutral,2025-04-10
+a4b7a719-81d9-4e92-bb19-549bc61a0a4b,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Design Development,Neutral,2025-04-09
+bd578984-0292-4f96-82a5-09ae05506e13,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Others,Low,2025-04-21
+ce1f0b06-cc09-4b5e-be5e-9dd8c3461077,Construction Documentation,Compile detailed construction drawings for city permit approval.,Conceptual Design,Neutral,2025-04-17
+313b53ba-1d82-4cae-bd1d-f9dddc290ac1,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,General Specification,Neutral,2025-04-23
+9a160da2-fff6-4b99-a66b-a2a2f1379d9f,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Lighting & Fixture Plan,Low,2025-04-26
+031a42d2-66dd-4776-a9f4-d0c01351be96,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,General Specification,High,2025-04-17
+ae66faa4-451f-4a96-83ca-2449e7d6bc22,Structural Coordination,Coordinate with the structural engineer for beam placements.,Finish Schedule,Low,2025-04-27
+cff5eab2-cd44-4a43-a1f7-649a3d4056fe,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Door & Window Schedule,Low,2025-04-04
+1299297c-8c87-4e07-96ea-2321e8fc0317,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Partition Plan,High,2025-05-02
+c370cbe1-21ea-4c77-ae65-474fa0531726,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Elevation Drawing,Neutral,2025-04-29
+327f7866-3bbd-4f2e-ba38-858ec22d27d2,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Furniture Layout Plan,High,2025-04-20
+078c8941-f4a8-4e22-9331-7cd607ede1b4,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Material Board,Neutral,2025-04-29
+6e3a36b8-a42c-43ef-b137-ec1df56b3b10,Construction Documentation,Compile detailed construction drawings for city permit approval.,Floor Plan,High,2025-04-06
+7a26849c-f287-41aa-909b-5297b605966c,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Floor Plan,Low,2025-04-20
+9f80e4fb-ef9b-4933-9f36-420a3b176e89,Technical Specifications,Compile technical specifications for the construction phase.,Interior Layout Plan,High,2025-04-11
+2a583ed5-4c83-49d2-b9d4-e7e5b0a431b8,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Roof Plan,High,2025-04-29
+fc4fcc58-06d3-40a7-83aa-fb57b03510b8,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Zoning & Building Code Compliance,Low,2025-04-16
+a171665b-60ff-4b66-aec7-100c87315d55,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Partition Plan,Neutral,2025-04-17
+436fa7aa-b29d-4d32-b95a-88c8e20b809e,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Elevation Drawing,High,2025-04-13
+ae347ca8-abf0-4eaa-ac84-2270279ce7bb,Technical Specifications,Compile technical specifications for the construction phase.,Elevation Drawing,Neutral,2025-04-06
+0103f599-7211-4174-9932-1c75140ee67a,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,3D Model,High,2025-04-23
+cb0b797b-e611-4baa-a23e-38ac62e87a90,Technical Specifications,Compile technical specifications for the construction phase.,Zoning & Building Code Compliance,Low,2025-04-25
+1b14edd8-a07b-40f9-aeaa-14860eb500df,Technical Specifications,Compile technical specifications for the construction phase.,Site Plan,High,2025-04-09
+398382b5-c12e-437e-b5fe-3fd3732137f1,Construction Documentation,Compile detailed construction drawings for city permit approval.,Lighting & Fixture Plan,Neutral,2025-04-26
+7d017fea-4e54-44a7-9989-276090497f6e,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Reflected Ceiling Plan,Neutral,2025-04-20
+f0d1cc98-dc56-4a1d-bfd4-bb31cf26a966,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Hardscape Plan,Low,2025-04-15
+0a12d918-eaa8-4f7b-ba18-079f6b0af2f8,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Lighting & Fixture Plan,Low,2025-04-17
+5ebdf526-3baf-4dee-97ba-998cfc2f14ea,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Roof Plan,High,2025-04-07
+e6dcf70d-2627-45cf-b3a6-ac461e0e790d,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Others,Neutral,2025-04-23
+88b192be-97da-47ef-a44b-0ee4633d09da,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Lighting & Fixture Plan,High,2025-05-03
+86f8b0cd-03fd-437c-9731-a453a22496bd,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,General Specification,High,2025-04-10
+4bfcd156-7beb-49cc-83ef-9ca00a98dff0,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Lighting & Fixture Plan,Low,2025-04-11
+c740dc69-6860-4e9e-8ca3-99ce5d4d7119,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Door & Window Schedule,High,2025-04-08
+a4763353-0c08-43f6-808b-3626d398c62d,Structural Coordination,Coordinate with the structural engineer for beam placements.,Virtual Reality,High,2025-04-29
+0de82285-8378-48f8-9fe6-bea7bae8facc,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Landscape Plan,Low,2025-04-11
+dc18e811-25fa-4c1a-b21b-1757d3242ce8,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Others,Neutral,2025-04-08
+bacf36c4-ba40-4125-9cb6-05434f298340,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Technical Specification,High,2025-04-18
+1a885c88-49bd-4b10-b548-990f773e9e18,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Floor Plan,Low,2025-04-10
+b86ce971-6328-4b5f-a5bd-3975f589b89a,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Section Drawing,High,2025-04-19
+59ee98b0-d55b-4cce-a4ee-e547155656c9,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Interior Layout Plan,High,2025-04-27
+de21204d-d72e-48df-aa2b-cfb11d0e7ace,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Section Drawing,High,2025-04-15
+130ce6ce-9d4b-4f25-9024-39f13bedc94a,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Section Drawing,Neutral,2025-04-29
+12c72524-5d21-4a43-88a3-1fe68e137b2d,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Furniture Layout Plan,Low,2025-04-17
+655e636e-e185-435c-9bb3-26fd6153b800,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,3D Render,High,2025-05-02
+69be77b7-c302-431f-a750-7bbda529c31c,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Reflected Ceiling Plan,High,2025-04-16
+17621130-e979-4d29-9109-1f43ee7b3e0f,Technical Specifications,Compile technical specifications for the construction phase.,Material Board,High,2025-04-20
+1fa99398-0444-44f6-bd79-22009780522b,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Others,Low,2025-04-12
+8333f30b-688d-454d-9d5d-ff66d0fc946d,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Schematic Design,Neutral,2025-05-03
+fa0acfe7-5d8d-4db1-94e3-713867abdb1d,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Floor Plan,Low,2025-04-12
+1da86869-0545-41ee-a6a6-3a4aeab52c52,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,3D Model,Neutral,2025-04-25
+a13b9357-a1bc-443d-81af-62f7a4ada68f,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Permit Drawing,High,2025-04-30
+e933feb7-385a-44f1-a302-3eb04e5ae7ba,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Hardscape Plan,High,2025-04-10
+5fc62386-ebe9-4f9f-afba-df53a00f17ee,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Zoning & Building Code Compliance,Low,2025-04-24
+b7715449-060c-4886-819a-137c64ddd0be,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Section Drawing,Neutral,2025-04-19
+fcf8e2b3-00eb-44d8-8e28-7ee5b2234020,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Roof Plan,Low,2025-04-19
+1b82f694-90e1-46ef-bc8b-1781ebe107c9,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Material Board,Low,2025-04-30
+b7b808e5-5ec6-470a-8b46-02c7643951d0,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Schematic Design,Neutral,2025-04-13
+14adbccd-d9fd-4cac-99ef-da0de3162331,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Hardscape Plan,Neutral,2025-04-23
+18a3acd5-fcc8-4d11-83ac-0929033bd2b2,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Roof Plan,High,2025-04-07
+8cc22577-be08-4af8-b13c-a9696e0ebe35,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Zoning & Building Code Compliance,Low,2025-04-17
+7e1e6f86-0c41-4ff3-9d55-49a294abb686,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Partition Plan,Neutral,2025-05-02
+b828e342-f758-48fb-b7b4-a3732772a573,Structural Coordination,Coordinate with the structural engineer for beam placements.,Custom Millwork & Joinery Drawing,High,2025-04-24
+592d9899-a669-4c9a-863e-8963b741a1db,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Door & Window Schedule,Neutral,2025-04-04
+899973a5-8699-4c1b-bca3-37c5212d0522,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Landscape Plan,Low,2025-04-20
+65c96af2-e51e-4583-813b-4557bc505353,Construction Documentation,Compile detailed construction drawings for city permit approval.,Floor Plan,Neutral,2025-04-25
+50d07404-5f93-4076-8fe8-067208bcb68e,Technical Specifications,Compile technical specifications for the construction phase.,Roof Plan,High,2025-04-14
+14b767fc-13ec-4f84-ba0f-4a823dee7d88,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Permit Drawing,Low,2025-04-12
+49cf33fb-0474-4240-9058-b322f048fb4a,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Door & Window Schedule,Low,2025-05-03
+dd931b9a-e88a-4a5b-99c2-95d16b46dbb3,Construction Documentation,Compile detailed construction drawings for city permit approval.,Permit Drawing,Neutral,2025-04-06
+b2d53e3f-4a20-4cee-bcb6-ede3bf83c787,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Floor Plan,High,2025-04-21
+26c4c6af-9ebe-4894-a412-31abdcbf1119,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Floor Plan,Low,2025-04-13
+186d9f7b-7598-4308-800d-808bcc82df68,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Door & Window Schedule,High,2025-04-06
+94090ff0-2efd-448f-a33b-b69c47e2b597,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,3D Model,Neutral,2025-04-18
+49447d03-08ca-4f75-aa25-e500a40df08a,Construction Documentation,Compile detailed construction drawings for city permit approval.,Others,High,2025-04-05
+595d5299-b4f7-49e1-bb09-224bea0a3952,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Interior Layout Plan,Low,2025-04-25
+1c0af332-c6ea-4eec-af1c-3779ae29fe5b,Landscape Design Refinement,Enhance the planting layout for the residential garden.,3D Model,High,2025-04-24
+daf39079-473e-49c9-a8d0-285f3e3301ef,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Hardscape Plan,Low,2025-04-05
+29ea67e2-3ce6-49ae-b04a-c4a13b0dba76,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Door & Window Schedule,Neutral,2025-04-28
+2b91b88a-1a5f-4bd1-9e90-c318c738204b,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Hardscape Plan,Low,2025-05-02
+60d3be69-fc5d-4a10-9142-443b347b5585,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Floor Plan,Low,2025-04-06
+1b9b041d-121b-44bc-9d9d-5caf825e9046,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Roof Plan,High,2025-04-10
+b45c2e63-419a-4ccf-abc6-a07efb8c9055,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Lighting & Fixture Plan,Low,2025-04-27
+acba9a4d-bb33-459a-a28e-e493a98ff120,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Schematic Design,High,2025-04-08
+bf29f5a6-3b98-4f7a-82f3-fb56e70a3255,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Schematic Design,Low,2025-04-04
+d2bf39d7-fc18-4942-9ee9-5226c5cc17f5,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Elevation Drawing,High,2025-04-29
+c576de4d-90af-43c7-b988-609e9a80026d,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Section Drawing,High,2025-04-22
+f869e4be-b71c-4e9c-a483-2d43c1d29b88,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Furniture Layout Plan,High,2025-04-16
+6c8331bc-7526-4384-9522-a44579a898c7,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Landscape Plan,Low,2025-04-07
+d622f9d2-ad5a-421c-a680-957e634dd67a,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Conceptual Design,Low,2025-05-03
+37bd9583-0990-4ba0-a7dd-b55aec85a59b,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Construction Document,Neutral,2025-04-21
+ab69dba5-11d1-444a-84a0-b71c16e5277f,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Section Drawing,High,2025-04-26
+a932afe4-7b3d-4fbe-8906-b37ae8a3cbe6,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Others,Low,2025-04-09
+fd15446b-42cf-4fa5-a69e-90d12e26ad07,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Furniture Layout Plan,Neutral,2025-04-21
+aa85aabd-f8a2-4a31-9600-98ea2b7aa7cb,Structural Coordination,Coordinate with the structural engineer for beam placements.,Zoning & Building Code Compliance,High,2025-04-17
+671f6e95-8cbe-4100-82dd-c811d683e473,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Landscape Plan,Neutral,2025-04-09
+c3137876-e28d-4f4c-8243-6c61dbea3c04,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Section Drawing,High,2025-04-24
+00555a80-fb56-436c-9c2c-42d9381a1a01,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Site Plan,Low,2025-04-06
+4bc43ee8-0cd8-43c9-9ea5-434a53fe7cc0,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Design Development,Neutral,2025-04-22
+ab4aabac-23c6-4386-aa46-3fda9e367a57,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Lighting & Fixture Plan,Neutral,2025-04-30
+baf4d7f7-53f3-4a1c-a5f4-eed6db82de0a,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Virtual Reality,Low,2025-04-09
+3ba8eae1-64ce-430a-b4a1-3d546cb16661,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Custom Millwork & Joinery Drawing,Neutral,2025-04-14
+b9045c0d-49f9-4697-9714-e743bc865d17,Technical Specifications,Compile technical specifications for the construction phase.,General Specification,Low,2025-04-09
+f3ce5f58-e446-4197-bb44-ca15607b081a,Structural Coordination,Coordinate with the structural engineer for beam placements.,3D Model,Neutral,2025-04-04
+3fa92739-bba1-4583-aa79-c84842b41ff3,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Partition Plan,Low,2025-05-01
+08cc2da7-ca40-4265-acdf-fc9466125fb9,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Others,Neutral,2025-04-25
+58352528-5358-4f30-94b4-465044e02cba,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Technical Specification,High,2025-04-20
+682ba2e7-7923-4b57-80fa-bb6346d283b1,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Virtual Reality,High,2025-04-29
+b4c9abc5-b609-4332-9b07-ebdda486917d,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Technical Specification,Low,2025-04-09
+eb0d41b4-9b25-48d4-87b5-b5d6752f5541,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Door & Window Schedule,High,2025-04-11
+3953c353-eae4-4e5b-9145-ab90f1306190,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Hardscape Plan,Neutral,2025-04-05
+26a7ac03-7190-4635-89b9-f2bdb95d493e,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Reflected Ceiling Plan,Low,2025-04-07
+073e17c6-525c-4be7-896f-279d051bcc03,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Furniture Layout Plan,Neutral,2025-04-14
+8b36e45b-7bba-487b-a5c7-ec673c2fdf48,Technical Specifications,Compile technical specifications for the construction phase.,Hardscape Plan,High,2025-04-15
+18ab7f56-cc01-4ea5-ac29-b224abf25eeb,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Hardscape Plan,Neutral,2025-04-19
+722dd98c-7a6e-4e5c-9389-39052c58f253,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Design Development,High,2025-04-14
+69ee954f-0529-4f0c-a96b-a7f3b6953798,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Roof Plan,High,2025-04-05
+01dbbd14-c615-4631-86ca-dad57269b758,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Others,High,2025-04-19
+0c61b944-9e2e-432e-beaf-1db98d8a82e6,Structural Coordination,Coordinate with the structural engineer for beam placements.,3D Render,Neutral,2025-04-15
+140fad8e-53ae-4a14-bfa0-c5d0fb9646b9,Construction Documentation,Compile detailed construction drawings for city permit approval.,Elevation Drawing,Neutral,2025-04-08
+9dc78209-daf3-405d-9664-e49aced5f1eb,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Door & Window Schedule,High,2025-04-26
+c37b8a8e-9b0c-4753-98b9-a766374ad86a,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Material Board,High,2025-04-09
+5f6a288e-bdb5-4f81-9116-7ba292af6f82,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Interior Layout Plan,Low,2025-04-24
+0446e364-ba15-4460-9033-6b768bfe0134,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,3D Model,High,2025-04-14
+e25b4827-4611-46a9-a81b-77968c111421,Construction Documentation,Compile detailed construction drawings for city permit approval.,Material Board,Low,2025-04-04
+a1f1ed54-db41-4ca2-80cb-7f324a8fa11d,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Site Plan,Low,2025-04-21
+04c2acc1-fe7a-4a74-8495-73f5f0760592,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Floor Plan,Neutral,2025-04-08
+286643dc-b71c-454d-a25f-881d41852c40,Technical Specifications,Compile technical specifications for the construction phase.,Permit Drawing,High,2025-04-25
+44c192cf-21aa-46d2-830d-378c83adb4cc,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Roof Plan,Low,2025-04-06
+49f3030b-dfe0-4764-a92f-0edf1d1f367b,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Zoning & Building Code Compliance,High,2025-04-28
+ef02174c-0124-4e8c-8df9-c3800c812d94,Structural Coordination,Coordinate with the structural engineer for beam placements.,Design Development,High,2025-04-07
+b8d2bda8-65d3-43fa-8190-6c534121a79b,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Custom Millwork & Joinery Drawing,High,2025-04-11
+d1f84c22-929d-4d0d-a1a3-b9fbb7fc43f9,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Hardscape Plan,Low,2025-04-05
+06f8eae7-0068-4aba-bedf-8f5ba7d64605,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,3D Model,Low,2025-04-05
+351d8403-c472-4d60-b192-fc1947252b8f,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Technical Specification,Neutral,2025-04-14
+157a1801-c267-4779-bdff-9f53a22772e3,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Construction Document,High,2025-05-02
+e89f0277-9640-421c-8c64-a0129112a53d,Structural Coordination,Coordinate with the structural engineer for beam placements.,Schematic Design,High,2025-04-19
+59a19610-ffb5-402d-bf5e-67488e0d2a5c,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Schematic Design,High,2025-04-07
+5ab879c6-76be-41f0-acb0-d1603445ee66,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Elevation Drawing,High,2025-04-17
+b3fec94e-3c9f-41b4-8a85-2852794f5e69,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Schematic Design,High,2025-04-06
+824c4d49-a709-4211-8e01-133a13e41ca9,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Elevation Drawing,High,2025-05-03
+6ffdbb72-dea9-4ceb-bfaa-c8c0a67bea38,Technical Specifications,Compile technical specifications for the construction phase.,Lighting & Fixture Plan,Low,2025-04-14
+4af076da-7c39-47ec-93b7-33a3ab084804,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Interior Layout Plan,Low,2025-05-01
+91771dae-482a-489e-b486-c17e2fd4a05a,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Furniture Layout Plan,Neutral,2025-04-23
+17f3642b-b198-4e32-b50d-80c4e4665c4b,Construction Documentation,Compile detailed construction drawings for city permit approval.,Furniture Layout Plan,High,2025-04-30
+6f473d1b-6be7-4b5d-bf78-5af4121d7650,Technical Specifications,Compile technical specifications for the construction phase.,Permit Drawing,Neutral,2025-04-27
+5800a552-b17c-47eb-bcc0-952274b286b7,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Interior Layout Plan,High,2025-04-17
+b19ff8e7-20cd-4ad7-8de2-fc0b16c2cc4c,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Site Plan,Low,2025-04-10
+237467f1-bbc9-4542-bdc1-cb736d2ddf4d,Structural Coordination,Coordinate with the structural engineer for beam placements.,Hardscape Plan,Low,2025-04-04
+e72a3fe7-9b9a-47ad-8cd8-18b7a5b34451,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Partition Plan,High,2025-04-10
+4cea0187-5723-48c8-912a-6023b0e9f7c7,Technical Specifications,Compile technical specifications for the construction phase.,Material Board,High,2025-04-06
+a79e524b-f09a-4871-9960-ec230c8dafe4,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Section Drawing,Neutral,2025-04-14
+3bf60aa6-ec0d-48a6-af4d-7dcc4faa314b,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,3D Model,Low,2025-04-05
+bb01fcba-7b14-4e64-9bbb-750baabafdbb,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Elevation Drawing,High,2025-04-28
+c6fa4f96-b637-4cf1-a7c7-83bc95ad4a0f,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Schematic Design,High,2025-04-12
+d9fc627b-a8d6-4c29-9063-3ecd26a9bfaa,Structural Coordination,Coordinate with the structural engineer for beam placements.,Conceptual Design,Neutral,2025-04-07
+453ac049-766d-4f33-801b-4d8f5092b168,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Site Plan,Low,2025-04-07
+fce1be10-f8f7-4e38-b0d2-0296e3a8dcd5,Technical Specifications,Compile technical specifications for the construction phase.,General Specification,Low,2025-04-27
+78fd1148-4ae6-4fe4-b257-24dfa246f235,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Lighting & Fixture Plan,Low,2025-04-09
+f75e1239-3910-4f6d-b4c8-52460a3e3b1f,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Landscape Plan,High,2025-04-09
+bb4637b2-1e86-4500-b185-4de29cec73a9,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Zoning & Building Code Compliance,Neutral,2025-04-30
+5797800a-4c65-49fe-921a-822813fbaa12,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Section Drawing,Neutral,2025-04-28
+88a75b0c-20cf-4541-8908-66404dcc0d08,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Others,High,2025-04-16
+5989b59b-8123-4b89-830c-c754a520008f,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Lighting & Fixture Plan,Neutral,2025-04-27
+4b76f227-e866-4c7d-ae57-58b61f702ae1,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Landscape Plan,High,2025-05-01
+ed091bd2-f455-4a62-b733-e5e93d66dfb8,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Partition Plan,Neutral,2025-04-14
+62d3e5f4-243e-4785-bcd7-aea4fec057b2,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Conceptual Design,High,2025-04-15
+39bcfdb6-d3f8-401b-9226-637987cff1af,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Elevation Drawing,Low,2025-04-08
+e57d3e30-9b03-4123-8a89-08490b950baa,Construction Documentation,Compile detailed construction drawings for city permit approval.,3D Model,High,2025-04-11
+6391acdc-618b-445e-ac65-102cf61f3a97,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Virtual Reality,Low,2025-04-22
+0c2b0bab-973e-4edf-bce6-d81a36f6d04a,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Interior Layout Plan,Neutral,2025-04-24
+926e1249-1f72-4c5b-8b3f-fb16a88d7f20,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Hardscape Plan,Neutral,2025-04-07
+bf970053-258b-48c4-904e-bf3dd557a25d,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Custom Millwork & Joinery Drawing,Neutral,2025-04-23
+7133d891-6ae1-4234-b5d1-b04319b51239,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Material Board,High,2025-04-08
+7d90a81c-2c78-4bc7-824f-678ba6e70bb3,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Elevation Drawing,Low,2025-04-05
+292f6fff-5c66-447e-a065-40b30effcd9c,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,3D Render,Neutral,2025-04-23
+fffd8e52-dc7c-4c90-baa6-e0785b23e07e,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Design Development,Neutral,2025-04-19
+92a70daf-98f2-4e94-9b71-f1b41256ea99,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Design Development,Low,2025-04-21
+54044966-9aff-43c8-b649-0ca798ea8cc4,Construction Documentation,Compile detailed construction drawings for city permit approval.,Landscape Plan,Neutral,2025-04-22
+53d75580-b1bc-42ba-8516-f83f619bc205,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Finish Schedule,High,2025-04-25
+f4067e8d-5762-42fa-afe7-3666ccc3e041,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Technical Specification,Low,2025-04-29
+da8c80e8-7712-45e2-bdae-7e9fddc6b2fb,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,3D Render,High,2025-04-05
+f71a4daf-a3bb-4a8b-8b19-4aff281fa6ba,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Door & Window Schedule,Low,2025-05-02
+15f3e78e-8357-4b0d-a934-312d1c033447,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Furniture Layout Plan,High,2025-04-27
+4f516989-9b4f-4a8c-8d2d-1cf2bff63ebf,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Reflected Ceiling Plan,High,2025-04-29
+bd4391ee-62ae-43ca-9841-d113c83cb7b2,Lighting Plan Design,Create a lighting and fixture layout for the retail store.,Door & Window Schedule,Low,2025-04-15
+855c4af6-d337-4c70-9669-b252b6ed5ed1,Technical Specifications,Compile technical specifications for the construction phase.,Lighting & Fixture Plan,Low,2025-04-22
+9d52af73-32c8-45c9-81af-0c4f889f5198,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Others,High,2025-04-10
+0ba82309-28bd-4d5c-a602-5ecd7eeec145,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Technical Specification,High,2025-04-08
+0a77e7ef-2354-41ae-9fec-09550b01850f,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Site Plan,Low,2025-04-25
+d702da5b-cc36-4d2b-8872-245087a525f8,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Permit Drawing,Neutral,2025-04-19
+6075aa0d-db70-42f4-a421-2c9354d895e8,Custom Joinery Design,Develop detailed joinery drawings for the interior fit-out project.,Furniture Layout Plan,Low,2025-04-16
+d2cc7e05-3d68-46b3-91d2-05d545bca790,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Reflected Ceiling Plan,Low,2025-04-19
+216bf3e8-678c-48b3-94e3-18f714f339c1,Structural Coordination,Coordinate with the structural engineer for beam placements.,Finish Schedule,Neutral,2025-04-12
+92507fda-61d5-4179-bac0-d0009c166ea7,Construction Documentation,Compile detailed construction drawings for city permit approval.,Hardscape Plan,Neutral,2025-04-22
+3459a54d-20ca-4d54-a9d7-93b21ef965ac,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Elevation Drawing,Low,2025-04-18
+2e84829a-9ae3-45f7-9140-2fb2eb30cc0c,Interior Layout Planning,Optimize space planning for the luxury apartment interior.,Furniture Layout Plan,Low,2025-04-14
+d71b27cf-eb33-4329-891d-bab8a649ef8b,Material Selection & Specification,Curate materials and finishes for the sustainable home project.,Custom Millwork & Joinery Drawing,High,2025-04-07
+8820a439-77c7-4872-8a91-33082deb01db,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Partition Plan,Low,2025-04-25
+e38a5566-68c3-47f3-9a47-f7fd07959e40,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Furniture Layout Plan,Low,2025-05-02
+3b866d21-41ed-4fa2-81b3-54dce9b5cecd,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Design Development,Low,2025-04-11
+a32343cd-0467-4ce2-a48b-88c827cf14a9,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Custom Millwork & Joinery Drawing,High,2025-04-07
+c98df564-d1e3-4e30-a688-ff2de300512c,Technical Specifications,Compile technical specifications for the construction phase.,Reflected Ceiling Plan,Low,2025-04-18
+0816acb9-94a9-4383-ba24-2e0712b1a5c5,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Floor Plan,Neutral,2025-04-07
+be56ed97-d478-47e8-b898-678021ff0113,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Material Board,Low,2025-04-14
+51f991d7-8cee-48d9-bc62-ef0c999611a9,Landscape Design Refinement,Enhance the planting layout for the residential garden.,3D Model,High,2025-04-14
+83c205c6-46ce-4dbd-a2c6-75a58d71abcf,Site Plan Drafting,Prepare a site plan layout considering zoning and access.,Hardscape Plan,Neutral,2025-05-03
+344fea49-ed25-48ad-a9fc-889ae137f47d,Structural Coordination,Coordinate with the structural engineer for beam placements.,Interior Layout Plan,Low,2025-04-27
+ed37921f-665a-45cf-a919-cbbb7f532bcf,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Design Development,High,2025-04-27
+0fb1d295-3db9-4f59-8157-537d83bd929e,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Virtual Reality,High,2025-05-02
+e8c6fee6-7946-4429-9cb7-b0d8d5121181,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Virtual Reality,Neutral,2025-04-10
+a4085c74-24bb-4497-a2e1-394602f46682,Permit Drawing Submission,Prepare and submit permit drawings for approval.,Schematic Design,Low,2025-04-26
+4d7c9c1d-4714-4667-8a40-505a62a74db4,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Conceptual Design,Low,2025-04-20
+33d7ce99-c605-4bbb-bd22-7fc8b974e7c4,3D Model Development,Create a detailed 3D model for the client’s new residential project.,Section Drawing,Neutral,2025-04-19
+79127cd5-ac5f-4aa7-9db1-52da02adb998,Facade Elevation Detailing,Finalize the detailed elevation drawings for the high-rise building.,Hardscape Plan,High,2025-04-16
+bd127222-d153-4df6-ac9a-36f502b91423,Hardscape Design Execution,Design outdoor paving and seating areas for the commercial plaza.,Construction Document,Neutral,2025-04-29
+722e0893-9ba9-48a3-8b39-3f30476f18d5,Conceptual Design Drafting,Prepare an initial concept sketch for the urban park renovation.,Hardscape Plan,Low,2025-04-22
+57a4175d-e0a1-4c9f-be39-422b13dd7c3b,Structural Coordination,Coordinate with the structural engineer for beam placements.,Elevation Drawing,Low,2025-04-25
+feb2d39d-55f0-410f-a206-86d8206dffe6,Render Finalization,Enhance the 3D renders for the commercial building's presentation.,Custom Millwork & Joinery Drawing,Neutral,2025-04-13
+b220b4f4-6e06-4ebe-9eda-3120962aa0a2,Landscape Design Refinement,Enhance the planting layout for the residential garden.,Elevation Drawing,Neutral,2025-04-13
+aa0ab268-8ace-476d-a219-b588807a6232,Technical Specifications,Compile technical specifications for the construction phase.,Lighting & Fixture Plan,Low,2025-04-09
