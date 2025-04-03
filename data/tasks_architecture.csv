@@ -1,0 +1,2001 @@
+user_id,task_type,priority_level,completion_time,accuracy,quality_score,task_status,title,due_date
+User_14,Furniture Layout Plan,2,0.69,0.66,0.08,completed,,
+User_7,3D Render,2,0.38,0.28,0.27,completed,,
+User_12,Other,2,0.84,0.14,0.6,completed,,
+User_17,Other,1,0.61,0.65,0.81,completed,,
+User_4,Other,1,0.11,0.88,0.7,completed,,
+User_13,Landscape Plan,2,0.81,0.71,0.08,completed,,
+User_18,Conceptual Design,1,0.31,0.68,0.07,completed,,
+User_9,Site Plan,3,0.31,0.52,0.86,completed,,
+User_17,3D Render,1,0.65,0.07,0.65,completed,,
+User_12,Construction Document,2,0.75,0.77,0.69,completed,,
+User_7,Roof Plan,3,0.38,0.75,0.79,completed,,
+User_12,Landscape Plan,2,0.7,0.44,0.91,completed,,
+User_18,Elevation Drawing,3,0.26,0.68,0.83,completed,,
+User_5,Lighting & Fixture Plan,3,0.09,0.14,0.31,completed,,
+User_9,3D Render,2,0.1,0.22,0.19,completed,,
+User_14,3D Model,3,0.14,0.74,0.21,completed,,
+User_12,Reflected Ceiling Plan,2,0.62,0.87,0.56,completed,,
+User_2,Roof Plan,1,0.8,0.22,0.21,completed,,
+User_6,Finish Schedule,3,0.4,0.66,0.04,completed,,
+User_17,Lighting & Fixture Plan,1,0.26,0.67,0.98,completed,,
+User_2,Virtual Reality,1,0.05,0.7,0.33,completed,,
+User_6,Roof Plan,3,0.83,0.13,0.16,completed,,
+User_16,Partition Plan,2,0.99,0.89,0.17,completed,,
+User_8,3D Model,3,0.12,0.21,0.31,completed,,
+User_16,Section Drawing,1,0.39,0.93,0.56,completed,,
+User_20,Design Development,1,0.52,0.79,0.02,completed,,
+User_15,Hardscape Plan,1,0.54,0.44,0.07,completed,,
+User_10,Material Board,1,0.22,0.47,0.39,completed,,
+User_11,Landscape Plan,1,0.42,0.41,0.1,completed,,
+User_6,Schematic Design,2,0.14,0.53,0.68,completed,,
+User_12,Permit Drawing,1,0.54,0.28,0.84,completed,,
+User_11,Reflected Ceiling Plan,3,0.59,0.76,0.22,completed,,
+User_13,Partition Plan,2,0.33,0.91,0.49,completed,,
+User_5,Custom Millwork & Joinery Drawing,3,0.52,0.48,0.06,completed,,
+User_5,Furniture Layout Plan,2,0.94,0.81,0.48,completed,,
+User_12,Lighting & Fixture Plan,2,0.22,0.68,0.33,completed,,
+User_3,Furniture Layout Plan,2,0.5,0.96,0.56,completed,,
+User_16,Material Board,2,0.12,0.14,0.83,completed,,
+User_6,Elevation Drawing,2,0.66,0.96,0.63,completed,,
+User_20,Roof Plan,3,0.09,0.41,0.77,completed,,
+User_13,3D Model,3,0.09,0.71,0.64,completed,,
+User_19,General Specification,1,0.97,0.07,0.87,completed,,
+User_2,Roof Plan,2,0.64,0.58,0.05,completed,,
+User_1,Material Board,2,0.42,0.21,0.87,completed,,
+User_6,3D Render,1,0.75,0.26,0.91,completed,,
+User_18,3D Model,3,0.41,0.95,0.88,completed,,
+User_12,Construction Document,3,0.97,0.66,0.76,completed,,
+User_2,Conceptual Design,3,0.75,0.58,0.25,completed,,
+User_4,Technical Specification,1,0.69,0.44,0.41,completed,,
+User_20,Material Board,3,0.02,0.47,0.01,completed,,
+User_4,Other,2,0.68,0.86,0.37,completed,,
+User_7,Interior Layout Plan,3,0.54,0.46,0.57,completed,,
+User_2,Schematic Design,1,0.19,0.32,0.54,completed,,
+User_12,Roof Plan,3,0.55,0.37,0.84,completed,,
+User_17,Reflected Ceiling Plan,1,0.87,0.59,0.27,completed,,
+User_5,Conceptual Design,1,0.79,0.76,0.63,completed,,
+User_17,Design Development,1,0.07,0.03,1.0,completed,,
+User_2,3D Render,1,0.24,0.64,0.03,completed,,
+User_16,Lighting & Fixture Plan,3,0.19,0.32,0.16,completed,,
+User_1,Virtual Reality,2,0.93,0.82,0.34,completed,,
+User_11,Construction Document,1,0.48,0.52,0.83,completed,,
+User_12,Section Drawing,3,0.25,0.92,0.9,completed,,
+User_16,Site Plan,2,0.64,0.38,0.39,completed,,
+User_17,Floor Plan,3,0.35,0.16,0.6,completed,,
+User_13,Other,2,0.93,0.63,0.6,completed,,
+User_15,Conceptual Design,3,0.4,0.12,0.62,completed,,
+User_3,Zoning & Building Code Compliance,3,0.15,0.23,0.12,completed,,
+User_13,Roof Plan,3,0.44,0.5,0.85,completed,,
+User_15,Design Development,2,0.56,0.4,0.97,completed,,
+User_4,Other,2,0.59,0.14,0.13,completed,,
+User_12,Reflected Ceiling Plan,1,0.58,0.72,0.11,completed,,
+User_10,Custom Millwork & Joinery Drawing,2,0.03,0.04,0.79,completed,,
+User_15,Permit Drawing,2,0.44,0.09,0.81,completed,,
+User_2,Material Board,1,0.57,0.56,0.61,completed,,
+User_7,Door & Window Schedule,2,0.7,0.88,0.62,completed,,
+User_16,General Specification,3,0.37,0.67,0.31,completed,,
+User_13,Construction Document,3,0.17,0.88,0.07,completed,,
+User_5,Other,1,0.75,0.99,0.07,completed,,
+User_10,Landscape Plan,2,0.48,0.89,0.65,completed,,
+User_13,Other,3,0.32,0.87,0.22,completed,,
+User_16,Door & Window Schedule,3,0.77,0.38,0.53,completed,,
+User_10,Landscape Plan,2,0.64,0.35,0.82,completed,,
+User_16,Partition Plan,2,0.49,0.99,0.07,completed,,
+User_14,Design Development,2,0.67,0.61,0.42,completed,,
+User_5,Partition Plan,1,0.89,0.22,0.02,completed,,
+User_8,Schematic Design,2,0.39,0.89,0.32,completed,,
+User_16,Lighting & Fixture Plan,3,0.35,0.88,0.81,completed,,
+User_10,Roof Plan,3,0.81,0.57,0.86,completed,,
+User_18,Material Board,1,0.27,0.65,0.22,completed,,
+User_20,Permit Drawing,2,0.98,0.65,0.79,completed,,
+User_12,General Specification,3,0.72,0.42,0.06,completed,,
+User_16,Other,1,0.22,0.82,0.39,completed,,
+User_8,Floor Plan,3,0.13,0.63,0.36,completed,,
+User_2,General Specification,1,0.69,0.93,0.77,completed,,
+User_9,Finish Schedule,3,0.79,0.64,0.87,completed,,
+User_5,Permit Drawing,1,0.01,0.73,0.02,completed,,
+User_2,Floor Plan,3,0.92,0.69,0.67,completed,,
+User_12,Finish Schedule,1,0.69,0.74,0.87,completed,,
+User_2,Roof Plan,2,0.17,0.96,0.24,completed,,
+User_5,Interior Layout Plan,1,0.88,0.94,0.35,completed,,
+User_18,3D Render,1,0.97,0.76,0.87,completed,,
+User_16,Partition Plan,3,0.28,0.54,0.24,completed,,
+User_7,Hardscape Plan,2,0.84,0.26,0.58,completed,,
+User_1,Permit Drawing,3,0.06,0.77,0.16,completed,,
+User_8,Virtual Reality,1,0.61,0.03,0.89,completed,,
+User_17,Design Development,2,0.74,0.49,0.07,completed,,
+User_14,Roof Plan,1,0.7,0.52,0.01,completed,,
+User_20,Zoning & Building Code Compliance,1,0.24,0.89,0.66,completed,,
+User_8,Material Board,2,0.64,0.56,0.71,completed,,
+User_2,Custom Millwork & Joinery Drawing,3,0.04,0.89,0.49,completed,,
+User_19,Landscape Plan,3,0.43,0.98,0.28,completed,,
+User_2,Section Drawing,1,0.16,0.57,0.7,completed,,
+User_2,Permit Drawing,1,0.89,0.43,0.84,completed,,
+User_14,Site Plan,2,0.31,0.55,0.78,completed,,
+User_2,Schematic Design,3,0.99,0.45,0.3,completed,,
+User_2,Furniture Layout Plan,2,0.61,0.03,0.56,completed,,
+User_17,Design Development,1,0.97,0.96,0.32,completed,,
+User_7,Roof Plan,3,0.91,0.14,0.12,completed,,
+User_5,Section Drawing,3,0.49,0.66,0.57,completed,,
+User_1,Partition Plan,3,0.25,0.97,0.3,completed,,
+User_2,Interior Layout Plan,2,0.49,0.73,0.26,completed,,
+User_18,Permit Drawing,2,0.58,0.74,0.51,completed,,
+User_11,Reflected Ceiling Plan,2,0.81,0.02,0.27,completed,,
+User_3,Material Board,3,0.28,0.74,0.1,completed,,
+User_8,Partition Plan,3,0.23,0.08,0.48,completed,,
+User_4,Reflected Ceiling Plan,2,0.76,0.68,0.71,completed,,
+User_13,Partition Plan,2,0.22,0.74,0.83,completed,,
+User_7,Finish Schedule,1,0.77,0.56,0.46,completed,,
+User_6,Hardscape Plan,3,0.29,0.3,0.7,completed,,
+User_19,Conceptual Design,3,0.89,0.14,0.68,completed,,
+User_18,3D Model,1,0.8,0.68,0.4,completed,,
+User_14,Roof Plan,3,0.79,0.81,0.54,completed,,
+User_8,Elevation Drawing,2,0.43,0.76,0.04,completed,,
+User_19,Technical Specification,2,0.89,0.55,0.59,completed,,
+User_3,Door & Window Schedule,3,0.03,0.59,0.48,completed,,
+User_11,Permit Drawing,3,0.06,0.66,0.13,completed,,
+User_5,Schematic Design,2,0.82,0.68,0.52,completed,,
+User_1,Door & Window Schedule,2,0.37,0.88,0.28,completed,,
+User_10,Lighting & Fixture Plan,2,0.32,0.29,0.2,completed,,
+User_4,Lighting & Fixture Plan,3,0.4,0.5,0.53,completed,,
+User_6,Permit Drawing,3,0.37,0.24,0.92,completed,,
+User_7,Lighting & Fixture Plan,3,0.37,0.03,0.03,completed,,
+User_2,Reflected Ceiling Plan,2,0.14,0.81,0.28,completed,,
+User_15,Furniture Layout Plan,3,0.84,0.78,0.37,completed,,
+User_7,3D Model,1,0.26,0.15,0.01,completed,,
+User_18,Zoning & Building Code Compliance,3,0.98,0.38,0.98,completed,,
+User_20,3D Render,1,0.85,0.4,0.36,completed,,
+User_10,Other,1,0.5,0.24,0.41,completed,,
+User_5,Technical Specification,2,0.46,0.62,0.82,completed,,
+User_10,3D Render,3,0.82,0.12,0.11,completed,,
+User_10,Reflected Ceiling Plan,1,0.46,0.61,0.04,completed,,
+User_10,Custom Millwork & Joinery Drawing,2,0.45,0.06,0.26,completed,,
+User_1,Schematic Design,2,0.57,0.8,0.6,completed,,
+User_2,General Specification,1,0.03,0.2,0.52,completed,,
+User_20,Interior Layout Plan,1,0.78,0.68,0.73,completed,,
+User_14,3D Model,2,0.85,0.31,0.33,completed,,
+User_5,Construction Document,2,0.63,0.07,0.98,completed,,
+User_4,3D Model,3,0.99,0.75,0.32,completed,,
+User_6,Schematic Design,3,0.33,0.87,0.85,completed,,
+User_1,Hardscape Plan,3,0.82,0.94,0.31,completed,,
+User_19,Section Drawing,1,0.32,0.12,0.51,completed,,
+User_4,Reflected Ceiling Plan,2,0.18,0.83,0.63,completed,,
+User_8,Door & Window Schedule,1,0.72,0.78,0.23,completed,,
+User_18,Permit Drawing,1,0.98,0.54,0.57,completed,,
+User_17,Hardscape Plan,2,0.94,0.03,0.65,completed,,
+User_20,Hardscape Plan,2,0.26,0.55,0.29,completed,,
+User_6,Material Board,1,0.17,0.68,0.33,completed,,
+User_4,General Specification,3,0.95,0.99,0.81,completed,,
+User_15,Design Development,3,0.11,0.62,0.7,completed,,
+User_4,Other,3,0.49,0.25,0.79,completed,,
+User_3,3D Render,1,0.52,0.21,0.6,completed,,
+User_16,Furniture Layout Plan,1,0.96,0.1,0.53,completed,,
+User_14,Virtual Reality,2,0.89,0.27,0.25,completed,,
+User_1,Zoning & Building Code Compliance,3,0.66,0.11,0.04,completed,,
+User_19,3D Render,3,0.25,0.32,0.08,completed,,
+User_5,Roof Plan,3,0.27,0.78,0.55,completed,,
+User_19,Schematic Design,3,0.7,0.09,0.25,completed,,
+User_4,Schematic Design,1,0.67,0.78,0.46,completed,,
+User_5,Elevation Drawing,2,0.12,0.95,0.53,completed,,
+User_14,Interior Layout Plan,3,0.99,0.89,0.9,completed,,
+User_20,Lighting & Fixture Plan,2,0.49,0.71,0.58,completed,,
+User_6,Partition Plan,1,0.46,0.09,0.75,completed,,
+User_3,Reflected Ceiling Plan,3,0.84,0.94,0.49,completed,,
+User_4,General Specification,1,0.2,0.83,0.45,completed,,
+User_17,Permit Drawing,1,0.95,0.55,0.23,completed,,
+User_3,Material Board,2,0.69,0.43,0.08,completed,,
+User_9,Design Development,2,0.23,0.76,0.23,completed,,
+User_1,Conceptual Design,2,0.31,0.96,0.38,completed,,
+User_19,Interior Layout Plan,3,0.99,0.01,0.44,completed,,
+User_16,Technical Specification,3,0.5,0.57,0.09,completed,,
+User_3,Construction Document,2,0.92,0.24,0.68,completed,,
+User_3,General Specification,3,0.88,0.36,0.25,completed,,
+User_13,Door & Window Schedule,2,0.88,0.33,0.15,completed,,
+User_18,3D Render,1,0.66,0.63,0.06,completed,,
+User_1,Partition Plan,3,0.51,0.39,0.91,completed,,
+User_5,Technical Specification,1,0.4,0.23,0.48,completed,,
+User_12,Other,3,0.33,0.23,0.13,completed,,
+User_6,Technical Specification,3,0.17,0.63,0.1,completed,,
+User_1,Lighting & Fixture Plan,3,0.52,0.44,0.01,completed,,
+User_4,Design Development,1,0.8,0.64,0.43,completed,,
+User_7,Schematic Design,1,0.64,0.46,0.71,completed,,
+User_17,Conceptual Design,3,0.41,0.8,0.8,completed,,
+User_8,Conceptual Design,2,0.95,0.7,0.87,completed,,
+User_19,Site Plan,2,0.06,0.96,0.68,completed,,
+User_4,Section Drawing,2,0.86,0.7,0.96,completed,,
+User_12,Elevation Drawing,2,0.66,0.41,0.35,completed,,
+User_20,Technical Specification,2,1.0,0.88,0.62,completed,,
+User_11,Material Board,2,0.63,0.55,0.26,completed,,
+User_20,Lighting & Fixture Plan,1,0.53,0.74,0.03,completed,,
+User_6,Floor Plan,1,0.6,0.11,0.97,completed,,
+User_15,Material Board,2,0.92,0.51,0.34,completed,,
+User_8,Floor Plan,3,0.74,0.04,0.15,completed,,
+User_10,Schematic Design,1,0.59,0.03,0.81,completed,,
+User_20,Design Development,1,0.46,0.93,0.76,completed,,
+User_12,Landscape Plan,1,0.23,0.67,0.38,completed,,
+User_18,Furniture Layout Plan,3,0.71,0.72,0.78,completed,,
+User_9,Door & Window Schedule,1,0.07,0.09,0.11,completed,,
+User_18,3D Model,3,0.79,0.12,0.62,completed,,
+User_18,Reflected Ceiling Plan,1,0.93,0.49,0.72,completed,,
+User_11,Door & Window Schedule,3,0.2,0.66,0.57,completed,,
+User_5,Hardscape Plan,3,0.35,0.28,0.84,completed,,
+User_10,Elevation Drawing,2,0.21,0.62,0.59,completed,,
+User_15,Furniture Layout Plan,1,0.56,0.39,0.23,completed,,
+User_19,Partition Plan,3,0.8,0.95,0.24,completed,,
+User_16,Furniture Layout Plan,2,0.88,0.28,0.2,completed,,
+User_12,Construction Document,1,0.87,0.45,0.29,completed,,
+User_7,Partition Plan,2,0.75,0.74,0.63,completed,,
+User_18,Design Development,2,0.65,0.96,0.13,completed,,
+User_6,Conceptual Design,1,0.38,0.12,0.01,completed,,
+User_9,Conceptual Design,1,0.81,0.38,0.99,completed,,
+User_11,Roof Plan,3,0.08,0.03,0.46,completed,,
+User_12,Permit Drawing,2,0.99,0.28,0.63,completed,,
+User_17,Technical Specification,1,0.61,0.61,0.74,completed,,
+User_2,Door & Window Schedule,3,0.09,0.11,0.14,completed,,
+User_5,Conceptual Design,3,0.65,0.22,0.26,completed,,
+User_1,Material Board,3,0.41,0.92,0.05,completed,,
+User_16,Material Board,1,0.01,0.78,0.86,completed,,
+User_19,Construction Document,2,0.87,0.96,0.56,completed,,
+User_10,Site Plan,2,0.56,0.7,0.46,completed,,
+User_11,Custom Millwork & Joinery Drawing,2,0.38,0.6,0.63,completed,,
+User_18,Zoning & Building Code Compliance,2,0.57,0.04,0.47,completed,,
+User_15,Virtual Reality,1,0.02,0.65,0.06,completed,,
+User_6,Furniture Layout Plan,2,0.38,0.6,0.26,completed,,
+User_13,Technical Specification,1,0.72,0.39,0.21,completed,,
+User_11,Construction Document,2,0.54,0.42,0.52,completed,,
+User_16,Construction Document,2,0.7,0.68,0.66,completed,,
+User_20,Permit Drawing,2,0.05,0.89,0.84,completed,,
+User_13,Site Plan,2,0.12,0.06,0.96,completed,,
+User_9,Floor Plan,3,0.87,0.3,0.67,completed,,
+User_8,Furniture Layout Plan,2,0.47,0.02,0.27,completed,,
+User_7,Furniture Layout Plan,3,0.45,0.47,0.42,completed,,
+User_20,3D Render,2,0.61,0.2,0.81,completed,,
+User_8,Custom Millwork & Joinery Drawing,1,0.04,0.75,0.23,completed,,
+User_12,Site Plan,1,0.11,0.3,0.07,completed,,
+User_18,Floor Plan,1,0.08,0.91,0.62,completed,,
+User_10,Material Board,3,0.35,0.71,0.09,completed,,
+User_9,Elevation Drawing,1,0.39,0.62,0.95,completed,,
+User_3,Construction Document,2,0.55,0.91,0.73,completed,,
+User_1,Reflected Ceiling Plan,1,0.09,0.72,0.26,completed,,
+User_6,Roof Plan,1,0.88,0.16,0.44,completed,,
+User_1,Schematic Design,1,0.4,0.58,0.42,completed,,
+User_16,Material Board,1,0.8,0.77,0.39,completed,,
+User_12,Zoning & Building Code Compliance,2,0.6,0.31,0.55,completed,,
+User_4,Furniture Layout Plan,1,0.81,0.8,0.87,completed,,
+User_17,Finish Schedule,3,0.85,0.61,0.6,completed,,
+User_14,Elevation Drawing,3,0.06,0.11,0.17,completed,,
+User_14,Permit Drawing,1,0.7,0.42,0.63,completed,,
+User_6,Technical Specification,2,0.06,0.19,0.13,completed,,
+User_16,Finish Schedule,1,0.71,0.38,0.45,completed,,
+User_2,Landscape Plan,2,0.57,0.92,0.67,completed,,
+User_6,Finish Schedule,3,0.6,0.73,0.33,completed,,
+User_13,Lighting & Fixture Plan,1,0.23,0.92,0.56,completed,,
+User_17,Technical Specification,3,0.64,0.04,0.65,completed,,
+User_4,Design Development,2,0.3,0.13,0.59,completed,,
+User_10,Conceptual Design,2,0.02,0.07,0.54,completed,,
+User_13,Furniture Layout Plan,3,0.53,0.73,0.38,completed,,
+User_16,Finish Schedule,2,0.89,0.69,0.68,completed,,
+User_19,Floor Plan,2,0.11,0.79,0.14,completed,,
+User_20,Conceptual Design,1,0.73,0.52,0.24,completed,,
+User_8,Floor Plan,1,0.17,0.05,0.08,completed,,
+User_12,Hardscape Plan,1,0.76,0.99,0.18,completed,,
+User_4,Interior Layout Plan,1,0.35,0.69,0.32,completed,,
+User_8,Lighting & Fixture Plan,2,0.56,0.75,0.15,completed,,
+User_6,Site Plan,3,0.91,0.27,0.77,completed,,
+User_2,Roof Plan,1,0.21,0.91,0.55,completed,,
+User_7,Roof Plan,2,0.26,0.68,0.84,completed,,
+User_13,Zoning & Building Code Compliance,1,0.7,0.48,0.83,completed,,
+User_7,Virtual Reality,3,1.0,0.32,0.87,completed,,
+User_4,Material Board,1,0.97,0.54,0.07,completed,,
+User_13,Technical Specification,3,0.47,0.85,0.43,completed,,
+User_3,3D Model,1,0.8,0.74,0.77,completed,,
+User_5,Virtual Reality,1,0.31,0.29,0.22,completed,,
+User_10,Virtual Reality,1,0.04,0.77,0.72,completed,,
+User_8,Finish Schedule,2,0.67,0.77,0.11,completed,,
+User_7,Permit Drawing,1,0.42,0.84,0.62,completed,,
+User_16,3D Render,3,0.9,0.86,0.72,completed,,
+User_19,Landscape Plan,1,0.35,0.58,0.28,completed,,
+User_19,Interior Layout Plan,3,0.16,0.19,0.86,completed,,
+User_5,Furniture Layout Plan,1,0.79,0.44,0.63,completed,,
+User_12,Permit Drawing,3,0.88,0.31,0.32,completed,,
+User_2,Site Plan,2,0.25,0.17,0.07,completed,,
+User_11,Furniture Layout Plan,3,0.98,0.79,0.12,completed,,
+User_16,Interior Layout Plan,2,0.84,0.66,0.15,completed,,
+User_3,Lighting & Fixture Plan,3,0.29,0.11,0.17,completed,,
+User_9,Construction Document,1,0.54,0.47,0.31,completed,,
+User_6,Zoning & Building Code Compliance,2,0.02,0.73,0.04,completed,,
+User_13,Material Board,3,0.86,0.01,0.39,completed,,
+User_15,Floor Plan,3,0.42,0.24,0.48,completed,,
+User_17,3D Render,1,0.63,0.56,0.51,completed,,
+User_8,Interior Layout Plan,3,0.21,0.25,0.46,completed,,
+User_12,3D Model,2,0.11,0.37,0.25,completed,,
+User_17,Material Board,1,0.85,0.56,0.27,completed,,
+User_7,General Specification,1,0.76,0.87,0.57,completed,,
+User_3,Landscape Plan,3,0.94,0.26,0.74,completed,,
+User_3,Site Plan,2,0.12,0.97,0.33,completed,,
+User_16,Schematic Design,3,0.44,0.84,0.87,completed,,
+User_15,Finish Schedule,2,0.15,0.11,0.7,completed,,
+User_6,Hardscape Plan,2,0.57,0.18,0.73,completed,,
+User_5,Other,2,0.1,0.29,0.62,completed,,
+User_9,Lighting & Fixture Plan,3,0.79,0.77,0.71,completed,,
+User_8,Floor Plan,1,0.37,0.41,0.37,completed,,
+User_1,Schematic Design,2,0.4,0.22,0.54,completed,,
+User_16,Conceptual Design,3,0.63,0.18,0.64,completed,,
+User_19,Custom Millwork & Joinery Drawing,1,0.23,0.2,0.05,completed,,
+User_16,General Specification,2,0.98,0.28,0.1,completed,,
+User_8,Lighting & Fixture Plan,3,0.34,0.43,0.3,completed,,
+User_20,Material Board,1,0.05,0.96,0.51,completed,,
+User_9,Hardscape Plan,2,0.1,0.25,0.07,completed,,
+User_7,Hardscape Plan,3,0.99,0.24,0.59,completed,,
+User_10,General Specification,1,0.66,0.18,0.16,completed,,
+User_7,Roof Plan,3,0.98,0.51,0.7,completed,,
+User_20,Landscape Plan,1,0.58,0.29,0.46,completed,,
+User_4,Door & Window Schedule,1,0.1,0.5,0.13,completed,,
+User_14,Hardscape Plan,1,0.75,0.4,0.3,completed,,
+User_17,Reflected Ceiling Plan,3,0.99,0.16,0.11,completed,,
+User_15,3D Render,1,0.36,0.57,0.67,completed,,
+User_11,Door & Window Schedule,2,0.58,0.68,0.11,completed,,
+User_12,Permit Drawing,1,0.62,0.55,0.17,completed,,
+User_12,3D Model,1,0.93,0.32,0.37,completed,,
+User_20,Site Plan,1,0.52,0.56,0.12,completed,,
+User_9,Site Plan,3,0.15,0.96,0.49,completed,,
+User_3,Floor Plan,3,0.21,0.98,0.76,completed,,
+User_3,Technical Specification,1,0.02,0.08,0.78,completed,,
+User_15,Partition Plan,1,0.58,0.74,0.61,completed,,
+User_14,Zoning & Building Code Compliance,1,0.98,0.27,0.39,completed,,
+User_9,Floor Plan,3,0.24,0.95,0.93,completed,,
+User_15,3D Model,3,0.76,0.32,0.7,completed,,
+User_5,3D Model,1,0.6,0.44,0.79,completed,,
+User_17,3D Render,3,0.66,0.25,0.33,completed,,
+User_9,Site Plan,3,0.93,0.2,0.07,completed,,
+User_9,Interior Layout Plan,2,0.97,0.88,0.55,completed,,
+User_12,Design Development,3,0.06,0.14,0.66,completed,,
+User_1,Door & Window Schedule,2,0.34,0.44,0.13,completed,,
+User_10,3D Model,1,0.8,0.4,0.15,completed,,
+User_7,Material Board,3,0.13,0.75,0.59,completed,,
+User_7,Section Drawing,2,0.9,0.72,0.06,completed,,
+User_8,Schematic Design,3,0.94,0.27,0.77,completed,,
+User_10,Zoning & Building Code Compliance,2,0.57,0.56,0.54,completed,,
+User_9,Roof Plan,3,0.66,0.72,0.56,completed,,
+User_6,Design Development,3,0.13,0.63,0.72,completed,,
+User_10,Interior Layout Plan,1,0.25,0.37,0.01,completed,,
+User_1,Reflected Ceiling Plan,1,0.92,0.48,0.69,completed,,
+User_2,Custom Millwork & Joinery Drawing,1,0.55,0.48,0.85,completed,,
+User_20,Other,3,0.35,0.04,0.49,completed,,
+User_8,Custom Millwork & Joinery Drawing,2,0.08,0.22,0.63,completed,,
+User_9,Finish Schedule,2,0.93,0.11,0.01,completed,,
+User_16,Reflected Ceiling Plan,1,0.7,0.5,0.83,completed,,
+User_6,Finish Schedule,1,0.48,0.1,0.21,completed,,
+User_20,Custom Millwork & Joinery Drawing,1,0.3,0.68,0.91,completed,,
+User_19,Schematic Design,2,0.86,0.93,0.41,completed,,
+User_8,Elevation Drawing,1,0.01,0.33,0.35,completed,,
+User_18,Door & Window Schedule,3,0.65,0.17,0.76,completed,,
+User_2,Section Drawing,3,0.02,0.52,0.8,completed,,
+User_18,Other,1,0.27,0.19,0.1,completed,,
+User_16,Design Development,1,0.3,0.94,0.03,completed,,
+User_2,Reflected Ceiling Plan,3,0.6,0.42,0.08,completed,,
+User_11,Custom Millwork & Joinery Drawing,2,0.82,0.13,0.56,completed,,
+User_10,3D Render,3,0.7,0.83,0.75,completed,,
+User_17,Construction Document,2,0.54,0.92,0.95,completed,,
+User_12,Conceptual Design,2,0.42,0.15,0.25,completed,,
+User_18,General Specification,2,0.15,0.29,0.96,completed,,
+User_17,Finish Schedule,3,1.0,0.78,0.55,completed,,
+User_1,Material Board,3,0.5,0.23,0.91,completed,,
+User_17,Hardscape Plan,1,0.65,0.66,0.91,completed,,
+User_12,Material Board,2,0.59,0.83,0.12,completed,,
+User_12,Furniture Layout Plan,1,0.54,0.15,0.23,completed,,
+User_1,Custom Millwork & Joinery Drawing,3,0.58,0.56,0.02,completed,,
+User_15,Finish Schedule,1,0.44,0.03,0.35,completed,,
+User_17,General Specification,1,0.02,0.15,0.21,completed,,
+User_17,Virtual Reality,1,0.81,0.5,0.76,completed,,
+User_7,Reflected Ceiling Plan,2,0.17,0.41,0.02,completed,,
+User_15,Schematic Design,2,0.86,0.89,0.17,completed,,
+User_12,Section Drawing,3,0.69,0.55,0.06,completed,,
+User_19,Construction Document,1,0.33,0.14,0.21,completed,,
+User_15,Permit Drawing,3,0.45,0.29,0.86,completed,,
+User_11,Technical Specification,2,0.3,0.74,0.38,completed,,
+User_7,Elevation Drawing,1,0.5,0.57,0.56,completed,,
+User_17,Floor Plan,2,0.68,0.03,0.41,completed,,
+User_1,3D Model,3,0.5,0.72,0.63,completed,,
+User_1,Elevation Drawing,3,0.2,0.13,0.49,completed,,
+User_9,3D Model,3,0.04,0.94,0.24,completed,,
+User_4,Reflected Ceiling Plan,3,0.11,0.4,0.83,completed,,
+User_18,Elevation Drawing,2,0.39,0.43,0.98,completed,,
+User_16,General Specification,3,0.17,0.59,0.19,completed,,
+User_15,Floor Plan,2,0.59,0.24,0.78,completed,,
+User_6,Permit Drawing,3,0.87,0.47,0.4,completed,,
+User_18,Design Development,3,0.77,0.74,0.84,completed,,
+User_6,Conceptual Design,3,0.72,0.26,0.29,completed,,
+User_6,Material Board,1,0.35,0.35,0.45,completed,,
+User_16,Floor Plan,3,0.38,0.61,0.39,completed,,
+User_2,Elevation Drawing,3,0.35,0.97,0.9,completed,,
+User_6,3D Model,1,0.38,0.8,0.86,completed,,
+User_18,Roof Plan,1,0.91,0.29,0.16,completed,,
+User_20,Floor Plan,1,0.49,0.86,0.15,completed,,
+User_10,Technical Specification,2,0.66,0.39,0.38,completed,,
+User_3,Material Board,2,0.35,0.74,0.92,completed,,
+User_10,Finish Schedule,3,0.81,0.85,0.88,completed,,
+User_8,Reflected Ceiling Plan,1,0.84,0.21,0.3,completed,,
+User_13,Conceptual Design,2,0.65,0.33,0.13,completed,,
+User_12,Technical Specification,2,0.98,0.69,0.35,completed,,
+User_20,Zoning & Building Code Compliance,1,0.45,0.27,0.06,completed,,
+User_7,Finish Schedule,2,0.05,0.03,0.04,completed,,
+User_1,Roof Plan,2,0.04,0.3,0.53,completed,,
+User_11,Permit Drawing,3,0.75,0.31,0.09,completed,,
+User_19,Partition Plan,1,0.68,0.49,0.97,completed,,
+User_19,Floor Plan,1,0.67,0.58,0.64,completed,,
+User_4,Other,1,0.29,0.86,0.51,completed,,
+User_7,Material Board,2,0.05,0.63,0.23,completed,,
+User_5,Zoning & Building Code Compliance,1,0.41,0.47,0.73,completed,,
+User_15,Lighting & Fixture Plan,1,0.93,0.66,0.95,completed,,
+User_10,Technical Specification,3,0.97,0.27,0.56,completed,,
+User_6,Site Plan,1,0.69,0.93,0.33,completed,,
+User_20,Partition Plan,2,0.08,0.65,0.42,completed,,
+User_5,Elevation Drawing,2,0.13,0.42,0.44,completed,,
+User_4,3D Render,1,0.54,0.12,0.06,completed,,
+User_15,Furniture Layout Plan,3,0.56,0.34,0.77,completed,,
+User_13,Hardscape Plan,3,0.46,0.86,0.49,completed,,
+User_7,Landscape Plan,2,0.28,0.27,0.05,completed,,
+User_18,Floor Plan,1,0.86,0.65,0.19,completed,,
+User_15,Landscape Plan,2,0.95,0.9,0.3,completed,,
+User_17,Landscape Plan,1,0.48,0.17,0.71,completed,,
+User_6,3D Model,3,0.9,0.67,0.93,completed,,
+User_18,3D Model,2,0.17,0.84,0.53,completed,,
+User_7,General Specification,3,0.08,0.2,0.24,completed,,
+User_3,Finish Schedule,2,0.68,0.25,0.11,completed,,
+User_13,Elevation Drawing,2,0.04,0.14,0.28,completed,,
+User_8,Material Board,1,0.59,0.14,0.85,completed,,
+User_4,Custom Millwork & Joinery Drawing,1,0.45,0.71,0.76,completed,,
+User_18,Elevation Drawing,1,0.8,0.14,0.57,completed,,
+User_1,Door & Window Schedule,1,0.16,0.5,0.53,completed,,
+User_20,Door & Window Schedule,1,0.83,0.41,0.7,completed,,
+User_2,Reflected Ceiling Plan,1,0.65,0.18,0.61,completed,,
+User_4,Technical Specification,1,0.73,0.56,0.03,completed,,
+User_10,Zoning & Building Code Compliance,1,0.95,0.94,0.45,completed,,
+User_20,Elevation Drawing,2,0.23,0.32,0.97,completed,,
+User_10,Reflected Ceiling Plan,1,0.33,0.32,0.77,completed,,
+User_11,Other,1,0.72,0.39,0.87,completed,,
+User_11,Zoning & Building Code Compliance,3,0.52,0.96,0.59,completed,,
+User_4,Custom Millwork & Joinery Drawing,2,0.34,0.37,0.18,completed,,
+User_5,3D Render,2,0.69,0.46,0.45,completed,,
+User_19,Construction Document,2,0.04,0.02,0.36,completed,,
+User_1,Partition Plan,1,0.16,0.26,0.08,completed,,
+User_2,Schematic Design,2,0.07,0.56,0.54,completed,,
+User_5,Finish Schedule,3,0.58,0.86,0.95,completed,,
+User_8,Hardscape Plan,1,0.88,0.52,0.9,completed,,
+User_7,Roof Plan,1,0.89,0.33,0.37,completed,,
+User_2,Permit Drawing,1,0.75,0.04,0.06,completed,,
+User_16,Conceptual Design,2,0.35,0.38,0.82,completed,,
+User_7,3D Render,1,0.98,0.89,0.03,completed,,
+User_19,3D Render,1,0.56,0.91,0.83,completed,,
+User_12,Permit Drawing,1,0.7,0.17,0.91,completed,,
+User_18,Floor Plan,2,0.63,0.76,0.17,completed,,
+User_20,Landscape Plan,2,0.06,0.79,0.36,completed,,
+User_11,Zoning & Building Code Compliance,2,0.06,0.96,0.4,completed,,
+User_12,Permit Drawing,2,0.14,0.46,0.45,completed,,
+User_14,Construction Document,1,0.16,0.25,0.03,completed,,
+User_16,Schematic Design,3,0.97,0.47,0.15,completed,,
+User_17,Floor Plan,1,0.58,0.53,0.51,completed,,
+User_13,Elevation Drawing,1,0.23,0.4,0.72,completed,,
+User_18,Permit Drawing,2,0.77,0.65,0.85,completed,,
+User_13,3D Model,3,0.04,0.26,0.28,completed,,
+User_6,Custom Millwork & Joinery Drawing,2,0.7,0.16,0.16,completed,,
+User_16,Conceptual Design,3,0.82,0.86,0.58,completed,,
+User_3,Other,1,0.87,0.55,0.22,completed,,
+User_5,Floor Plan,3,0.1,0.09,0.72,completed,,
+User_15,Hardscape Plan,1,0.67,0.64,0.04,completed,,
+User_7,Schematic Design,3,0.8,0.65,0.49,completed,,
+User_14,Material Board,2,0.14,0.95,1.0,completed,,
+User_15,Construction Document,3,0.68,0.49,0.77,completed,,
+User_3,Floor Plan,1,0.49,0.79,0.05,completed,,
+User_17,Site Plan,1,0.3,0.07,0.44,completed,,
+User_1,3D Model,1,0.12,0.45,0.81,completed,,
+User_2,Site Plan,3,0.63,0.77,0.28,completed,,
+User_9,Schematic Design,3,0.62,0.12,0.96,completed,,
+User_6,Finish Schedule,1,0.33,0.31,0.74,completed,,
+User_2,Furniture Layout Plan,1,0.81,0.4,0.28,completed,,
+User_13,Floor Plan,1,0.83,0.22,0.31,completed,,
+User_19,Zoning & Building Code Compliance,3,0.05,0.14,0.07,completed,,
+User_8,Zoning & Building Code Compliance,3,0.47,0.77,0.77,completed,,
+User_4,Other,2,0.99,0.35,0.62,completed,,
+User_18,Roof Plan,2,0.98,0.11,0.96,completed,,
+User_16,Conceptual Design,2,0.98,0.07,0.84,completed,,
+User_14,Interior Layout Plan,3,0.32,0.45,0.14,completed,,
+User_17,Technical Specification,2,0.36,0.38,0.92,completed,,
+User_2,Finish Schedule,2,0.14,0.17,0.97,completed,,
+User_12,Section Drawing,2,0.03,0.92,0.49,completed,,
+User_8,Schematic Design,2,0.15,0.39,0.14,completed,,
+User_19,Permit Drawing,3,0.44,0.56,0.46,completed,,
+User_13,3D Render,2,0.88,0.44,0.73,completed,,
+User_4,Site Plan,1,0.87,0.08,0.81,completed,,
+User_14,Lighting & Fixture Plan,2,0.78,0.64,0.53,completed,,
+User_4,Construction Document,3,0.86,0.06,0.69,completed,,
+User_17,Permit Drawing,2,0.94,0.28,0.06,completed,,
+User_17,Custom Millwork & Joinery Drawing,1,0.43,0.4,0.85,completed,,
+User_17,Interior Layout Plan,2,0.37,0.78,0.66,completed,,
+User_12,Elevation Drawing,3,0.11,0.18,0.64,completed,,
+User_2,Floor Plan,3,0.63,0.42,0.05,completed,,
+User_6,3D Model,2,0.54,0.51,0.97,completed,,
+User_14,3D Model,1,0.9,0.75,0.16,completed,,
+User_18,Virtual Reality,3,0.45,0.33,0.71,completed,,
+User_14,Technical Specification,1,0.37,0.97,0.24,completed,,
+User_7,Zoning & Building Code Compliance,2,0.56,0.96,0.5,completed,,
+User_19,Elevation Drawing,1,0.48,0.25,0.47,completed,,
+User_12,Floor Plan,1,0.71,0.67,0.9,completed,,
+User_1,General Specification,1,0.53,0.84,0.06,completed,,
+User_15,Floor Plan,3,0.97,0.44,0.89,completed,,
+User_2,Site Plan,1,0.33,0.64,0.14,completed,,
+User_2,Interior Layout Plan,2,0.02,0.87,0.74,completed,,
+User_10,Finish Schedule,2,0.18,0.5,0.74,completed,,
+User_14,Floor Plan,3,0.7,0.64,0.04,completed,,
+User_18,General Specification,1,0.86,0.31,0.21,completed,,
+User_12,Partition Plan,3,0.05,0.06,0.8,completed,,
+User_8,Section Drawing,3,0.47,0.17,0.68,completed,,
+User_19,Section Drawing,3,0.46,0.74,0.91,completed,,
+User_19,Custom Millwork & Joinery Drawing,2,0.15,0.24,0.99,completed,,
+User_15,Custom Millwork & Joinery Drawing,3,0.15,0.89,0.5,completed,,
+User_19,3D Model,1,0.47,0.73,0.81,completed,,
+User_3,Elevation Drawing,3,0.89,0.88,0.15,completed,,
+User_12,Construction Document,3,0.11,0.43,0.9,completed,,
+User_20,Construction Document,3,0.75,0.92,0.61,completed,,
+User_13,Section Drawing,2,0.3,0.16,0.51,completed,,
+User_13,General Specification,3,0.13,0.1,0.22,completed,,
+User_2,Finish Schedule,2,0.49,0.29,0.1,completed,,
+User_7,Reflected Ceiling Plan,1,0.42,0.02,0.19,completed,,
+User_3,Permit Drawing,2,0.1,0.67,0.7,completed,,
+User_15,Lighting & Fixture Plan,2,0.98,0.24,0.49,completed,,
+User_14,Furniture Layout Plan,2,0.25,0.48,0.81,completed,,
+User_9,Design Development,3,0.09,0.97,0.09,completed,,
+User_18,General Specification,2,0.89,0.71,0.6,completed,,
+User_18,Hardscape Plan,1,0.24,0.81,0.91,completed,,
+User_15,Reflected Ceiling Plan,1,0.95,0.38,0.05,completed,,
+User_5,Zoning & Building Code Compliance,3,0.29,0.76,0.65,completed,,
+User_18,Design Development,1,0.92,0.91,0.53,completed,,
+User_1,Partition Plan,1,0.32,0.88,0.28,completed,,
+User_8,Landscape Plan,3,0.44,0.19,0.11,completed,,
+User_17,Elevation Drawing,1,0.02,0.7,0.54,completed,,
+User_2,Reflected Ceiling Plan,3,1.0,0.03,0.25,completed,,
+User_14,Lighting & Fixture Plan,1,0.93,0.78,0.5,completed,,
+User_3,Reflected Ceiling Plan,3,0.48,0.43,0.44,completed,,
+User_15,Lighting & Fixture Plan,2,0.06,0.51,0.97,completed,,
+User_13,Door & Window Schedule,2,0.58,0.93,0.01,completed,,
+User_11,Virtual Reality,1,0.83,0.21,0.54,completed,,
+User_11,Door & Window Schedule,1,0.44,0.92,0.69,completed,,
+User_1,Reflected Ceiling Plan,3,0.96,0.06,0.07,completed,,
+User_13,Schematic Design,1,0.25,0.66,0.21,completed,,
+User_7,Partition Plan,1,0.83,0.08,0.52,completed,,
+User_9,Schematic Design,2,0.33,0.65,0.43,completed,,
+User_19,Interior Layout Plan,3,0.29,0.26,0.95,completed,,
+User_13,Custom Millwork & Joinery Drawing,3,0.13,0.61,0.5,completed,,
+User_6,General Specification,3,0.51,0.41,0.46,completed,,
+User_4,Technical Specification,3,0.59,0.43,0.55,completed,,
+User_20,Conceptual Design,1,0.43,0.91,0.19,completed,,
+User_10,Zoning & Building Code Compliance,3,0.84,0.15,0.21,completed,,
+User_17,Reflected Ceiling Plan,3,0.49,0.57,0.55,completed,,
+User_9,Landscape Plan,1,0.16,0.11,0.84,completed,,
+User_18,Permit Drawing,2,0.1,0.67,0.41,completed,,
+User_8,Reflected Ceiling Plan,2,0.03,0.58,0.55,completed,,
+User_10,Reflected Ceiling Plan,1,0.24,0.85,0.37,completed,,
+User_17,Landscape Plan,2,0.55,0.16,0.45,completed,,
+User_16,Material Board,2,0.82,0.89,0.28,completed,,
+User_2,Virtual Reality,2,0.14,0.04,0.95,completed,,
+User_9,Furniture Layout Plan,1,0.12,0.52,0.48,completed,,
+User_7,Interior Layout Plan,1,0.16,0.46,0.73,completed,,
+User_9,Interior Layout Plan,2,0.9,0.95,0.78,completed,,
+User_6,Permit Drawing,1,0.85,0.36,0.59,completed,,
+User_3,Roof Plan,2,0.64,0.77,0.27,completed,,
+User_18,Schematic Design,2,0.75,0.03,0.88,completed,,
+User_16,3D Model,2,0.65,0.63,0.43,completed,,
+User_12,Interior Layout Plan,1,0.01,0.91,0.33,completed,,
+User_14,Furniture Layout Plan,1,0.44,0.65,0.07,completed,,
+User_12,Technical Specification,1,0.59,0.71,0.86,completed,,
+User_8,Furniture Layout Plan,2,0.93,0.87,0.63,completed,,
+User_10,General Specification,2,0.52,0.94,0.32,completed,,
+User_2,Furniture Layout Plan,2,0.11,0.95,0.02,completed,,
+User_16,Partition Plan,3,0.82,0.94,0.2,completed,,
+User_15,Hardscape Plan,3,0.69,0.34,0.24,completed,,
+User_11,Finish Schedule,2,0.31,0.62,0.96,completed,,
+User_4,Landscape Plan,3,0.25,0.64,0.64,completed,,
+User_12,Schematic Design,2,0.39,0.33,0.49,completed,,
+User_19,Landscape Plan,1,0.4,0.68,0.33,completed,,
+User_13,Technical Specification,1,0.59,0.26,0.97,completed,,
+User_7,General Specification,3,0.4,0.56,0.95,completed,,
+User_1,Elevation Drawing,1,0.92,0.02,0.89,completed,,
+User_14,Elevation Drawing,3,0.2,0.84,0.58,completed,,
+User_3,Partition Plan,1,0.07,0.49,0.25,completed,,
+User_16,3D Render,2,0.24,0.38,0.08,completed,,
+User_20,Reflected Ceiling Plan,1,0.43,0.44,0.19,completed,,
+User_14,Landscape Plan,2,0.54,0.3,0.17,completed,,
+User_19,Technical Specification,3,0.44,0.68,0.64,completed,,
+User_7,Lighting & Fixture Plan,2,0.62,0.65,0.75,completed,,
+User_8,Reflected Ceiling Plan,1,0.37,0.52,0.64,completed,,
+User_20,Construction Document,3,0.69,0.94,0.46,completed,,
+User_3,Roof Plan,3,0.55,0.67,0.5,completed,,
+User_11,Construction Document,3,0.79,0.07,0.9,completed,,
+User_9,Landscape Plan,3,0.75,0.3,0.6,completed,,
+User_6,General Specification,2,0.04,0.99,0.36,completed,,
+User_6,Construction Document,2,0.58,0.33,0.84,completed,,
+User_5,Conceptual Design,1,0.71,0.02,0.24,completed,,
+User_5,Furniture Layout Plan,1,0.65,0.1,0.87,completed,,
+User_13,Roof Plan,3,0.66,0.72,0.39,completed,,
+User_5,Other,1,0.6,0.53,0.77,completed,,
+User_15,Hardscape Plan,3,0.04,0.06,0.04,completed,,
+User_3,Roof Plan,1,0.04,0.97,0.49,completed,,
+User_15,Interior Layout Plan,2,0.49,0.24,0.91,completed,,
+User_10,Hardscape Plan,3,0.48,0.78,0.54,completed,,
+User_11,Hardscape Plan,3,0.14,0.92,0.31,completed,,
+User_17,Landscape Plan,1,0.8,0.74,0.35,completed,,
+User_14,Floor Plan,1,0.82,0.02,0.59,completed,,
+User_3,Roof Plan,1,0.17,0.15,0.13,completed,,
+User_17,Finish Schedule,2,0.83,0.57,0.63,completed,,
+User_4,3D Render,1,0.43,0.98,0.46,completed,,
+User_11,Other,1,0.68,0.25,0.6,completed,,
+User_5,Schematic Design,2,0.81,0.33,0.34,completed,,
+User_4,3D Model,1,0.26,0.53,0.67,completed,,
+User_5,Technical Specification,2,0.86,0.42,0.9,completed,,
+User_5,Furniture Layout Plan,1,0.95,0.11,0.73,completed,,
+User_9,Lighting & Fixture Plan,3,0.86,0.79,0.43,completed,,
+User_10,Landscape Plan,3,0.58,0.84,0.53,completed,,
+User_17,Permit Drawing,3,0.57,0.79,0.35,completed,,
+User_3,Technical Specification,1,0.24,0.51,0.91,completed,,
+User_6,3D Model,3,0.71,0.11,0.97,completed,,
+User_19,Elevation Drawing,1,0.6,0.94,0.53,completed,,
+User_12,Site Plan,2,0.81,0.66,0.77,completed,,
+User_8,Other,1,0.95,0.42,0.63,completed,,
+User_13,Schematic Design,3,0.21,0.85,0.48,completed,,
+User_6,Hardscape Plan,1,0.22,0.48,0.51,completed,,
+User_8,Partition Plan,1,0.8,0.49,0.69,completed,,
+User_7,Partition Plan,2,0.25,0.96,0.86,completed,,
+User_1,Landscape Plan,2,0.82,0.23,0.99,completed,,
+User_13,Hardscape Plan,3,0.58,0.01,0.78,completed,,
+User_9,Landscape Plan,1,0.65,0.47,0.69,completed,,
+User_2,Site Plan,1,0.38,0.55,0.57,completed,,
+User_17,Conceptual Design,2,0.26,0.81,0.9,completed,,
+User_10,Virtual Reality,2,0.23,0.09,0.77,completed,,
+User_9,Lighting & Fixture Plan,2,0.17,0.13,0.9,completed,,
+User_2,General Specification,3,0.81,0.02,0.17,completed,,
+User_5,Other,3,0.75,0.92,0.98,completed,,
+User_6,Conceptual Design,2,0.36,0.4,0.04,completed,,
+User_1,Custom Millwork & Joinery Drawing,2,0.75,0.04,0.42,completed,,
+User_4,Partition Plan,1,0.65,0.08,0.25,completed,,
+User_20,Technical Specification,2,0.92,0.74,0.45,completed,,
+User_12,Custom Millwork & Joinery Drawing,3,0.4,0.1,0.1,completed,,
+User_14,Interior Layout Plan,1,0.46,0.79,0.77,completed,,
+User_20,3D Model,2,0.04,0.87,0.82,completed,,
+User_14,Schematic Design,1,0.32,0.77,0.43,completed,,
+User_17,Permit Drawing,1,0.92,0.65,0.53,completed,,
+User_20,Roof Plan,2,0.44,0.97,0.51,completed,,
+User_10,Section Drawing,2,0.43,0.74,0.5,completed,,
+User_20,Permit Drawing,3,0.13,0.68,0.36,completed,,
+User_20,Virtual Reality,1,0.18,0.09,0.75,completed,,
+User_17,Door & Window Schedule,2,0.62,0.85,0.23,completed,,
+User_18,Zoning & Building Code Compliance,2,0.54,0.36,0.61,completed,,
+User_1,Section Drawing,2,0.22,0.2,0.58,completed,,
+User_12,Design Development,1,0.62,0.68,0.18,completed,,
+User_13,3D Model,3,0.2,0.6,0.13,completed,,
+User_7,Section Drawing,1,0.55,0.23,0.07,completed,,
+User_5,Interior Layout Plan,3,0.91,0.11,0.68,completed,,
+User_13,Other,2,0.51,0.38,0.22,completed,,
+User_1,Construction Document,3,0.1,0.62,0.27,completed,,
+User_8,Custom Millwork & Joinery Drawing,3,0.46,0.82,0.99,completed,,
+User_7,Interior Layout Plan,2,0.74,0.93,0.97,completed,,
+User_7,Zoning & Building Code Compliance,1,0.27,0.02,0.34,completed,,
+User_17,Design Development,2,0.52,0.21,0.88,completed,,
+User_10,Conceptual Design,1,0.04,0.3,0.05,completed,,
+User_19,Elevation Drawing,1,0.24,0.36,0.3,completed,,
+User_1,Elevation Drawing,3,0.66,0.66,0.3,completed,,
+User_3,Roof Plan,1,0.85,0.16,0.69,completed,,
+User_8,Conceptual Design,3,0.75,0.23,0.48,completed,,
+User_12,Custom Millwork & Joinery Drawing,2,0.55,0.68,0.09,completed,,
+User_8,Floor Plan,3,0.38,0.99,0.54,completed,,
+User_15,Other,1,0.32,0.6,0.17,completed,,
+User_3,Landscape Plan,1,0.15,0.74,0.01,completed,,
+User_10,Furniture Layout Plan,3,0.9,0.06,0.7,completed,,
+User_1,Permit Drawing,1,0.57,0.85,0.43,completed,,
+User_15,Schematic Design,3,0.94,0.21,0.05,completed,,
+User_5,Custom Millwork & Joinery Drawing,3,0.47,0.31,0.73,completed,,
+User_18,Landscape Plan,3,0.39,0.97,0.29,completed,,
+User_11,Custom Millwork & Joinery Drawing,2,0.65,0.55,0.47,completed,,
+User_6,3D Render,2,0.39,0.18,0.55,completed,,
+User_2,Elevation Drawing,2,0.22,0.06,0.79,completed,,
+User_5,Hardscape Plan,2,0.55,0.76,0.32,completed,,
+User_14,Partition Plan,1,0.86,0.91,0.18,completed,,
+User_14,3D Render,3,0.3,0.29,0.71,completed,,
+User_9,Elevation Drawing,3,0.59,0.55,0.17,completed,,
+User_1,Interior Layout Plan,1,0.67,0.49,0.33,completed,,
+User_7,Elevation Drawing,1,0.47,0.27,0.79,completed,,
+User_11,Site Plan,3,0.65,0.44,0.22,completed,,
+User_10,Permit Drawing,3,0.09,0.63,0.37,completed,,
+User_15,Conceptual Design,3,0.51,0.1,0.88,completed,,
+User_19,Virtual Reality,2,0.49,0.78,0.43,completed,,
+User_3,Conceptual Design,2,0.11,0.6,0.92,completed,,
+User_7,Conceptual Design,2,0.8,0.16,0.49,completed,,
+User_20,Section Drawing,1,0.88,0.99,0.43,completed,,
+User_8,Interior Layout Plan,1,0.98,0.46,0.54,completed,,
+User_5,Finish Schedule,1,0.82,0.62,0.26,completed,,
+User_10,Design Development,2,0.76,0.15,0.91,completed,,
+User_13,Construction Document,1,0.15,0.14,0.17,completed,,
+User_16,Material Board,3,0.6,0.74,0.74,completed,,
+User_6,Lighting & Fixture Plan,3,0.03,0.87,0.15,completed,,
+User_17,Finish Schedule,2,0.81,0.96,0.7,completed,,
+User_19,Virtual Reality,1,0.5,0.4,0.54,completed,,
+User_16,Zoning & Building Code Compliance,3,0.79,0.27,0.37,completed,,
+User_3,Material Board,1,0.23,0.47,0.7,completed,,
+User_17,3D Render,1,0.41,0.77,0.52,completed,,
+User_12,Custom Millwork & Joinery Drawing,1,0.31,0.23,0.5,completed,,
+User_11,Design Development,1,0.77,0.17,0.5,completed,,
+User_20,3D Render,1,0.99,0.18,0.24,completed,,
+User_1,Interior Layout Plan,1,0.24,0.06,0.8,completed,,
+User_15,Schematic Design,1,0.32,0.73,0.58,completed,,
+User_4,Site Plan,2,0.51,0.8,0.07,completed,,
+User_8,Floor Plan,2,0.11,0.08,0.19,completed,,
+User_4,Design Development,3,0.08,0.43,0.9,completed,,
+User_18,Virtual Reality,3,0.77,0.75,0.21,completed,,
+User_15,Partition Plan,3,0.52,0.17,0.4,completed,,
+User_9,Material Board,3,0.85,0.26,0.12,completed,,
+User_3,Partition Plan,3,0.03,0.51,0.02,completed,,
+User_1,Design Development,1,0.73,0.12,0.6,completed,,
+User_7,Permit Drawing,1,0.27,0.4,0.44,completed,,
+User_2,Section Drawing,2,0.08,0.34,0.92,completed,,
+User_5,3D Render,1,0.99,0.98,0.55,completed,,
+User_14,Material Board,1,0.45,0.1,0.71,completed,,
+User_19,3D Model,3,0.92,0.99,0.16,completed,,
+User_18,Virtual Reality,3,0.5,0.69,0.71,completed,,
+User_16,Material Board,3,0.72,0.95,0.41,completed,,
+User_3,Interior Layout Plan,2,0.54,0.83,0.26,completed,,
+User_1,3D Render,1,0.91,0.66,0.54,completed,,
+User_18,Reflected Ceiling Plan,1,0.27,0.83,0.06,completed,,
+User_8,Landscape Plan,1,0.73,0.71,0.94,completed,,
+User_3,Schematic Design,3,0.14,0.5,0.53,completed,,
+User_16,Virtual Reality,2,1.0,0.4,0.84,completed,,
+User_16,Roof Plan,1,0.02,0.85,0.17,completed,,
+User_14,Technical Specification,2,0.56,0.28,0.19,completed,,
+User_5,3D Render,2,0.22,0.85,0.53,completed,,
+User_2,Roof Plan,1,0.02,0.56,0.07,completed,,
+User_1,Reflected Ceiling Plan,2,0.3,0.1,0.77,completed,,
+User_10,3D Model,2,0.74,0.87,0.46,completed,,
+User_16,Permit Drawing,1,0.46,0.97,0.06,completed,,
+User_12,Material Board,2,0.82,0.67,0.51,completed,,
+User_18,Permit Drawing,2,0.71,0.8,0.56,completed,,
+User_12,Conceptual Design,1,0.3,0.06,0.05,completed,,
+User_5,Finish Schedule,2,0.93,0.98,0.77,completed,,
+User_12,Floor Plan,2,0.49,0.45,0.89,completed,,
+User_18,Reflected Ceiling Plan,2,0.98,0.44,0.79,completed,,
+User_5,Custom Millwork & Joinery Drawing,2,0.6,0.61,0.25,completed,,
+User_17,Landscape Plan,1,0.16,0.33,0.92,completed,,
+User_5,Partition Plan,2,0.29,0.17,0.4,completed,,
+User_19,Partition Plan,2,0.57,0.21,0.6,completed,,
+User_1,Section Drawing,3,0.45,0.11,0.3,completed,,
+User_19,Conceptual Design,2,0.13,0.67,0.67,completed,,
+User_16,Material Board,2,0.71,0.55,0.41,completed,,
+User_2,Material Board,2,0.57,0.94,0.52,completed,,
+User_9,Door & Window Schedule,3,0.94,0.66,0.62,completed,,
+User_20,Permit Drawing,3,0.36,0.78,0.8,completed,,
+User_2,Zoning & Building Code Compliance,1,0.23,0.3,0.87,completed,,
+User_6,Construction Document,2,0.19,0.46,0.83,completed,,
+User_13,Virtual Reality,3,0.29,0.45,0.19,completed,,
+User_1,Permit Drawing,2,0.97,0.89,0.18,completed,,
+User_12,Hardscape Plan,1,0.06,0.11,0.88,completed,,
+User_7,Finish Schedule,2,0.45,0.95,0.77,completed,,
+User_10,Custom Millwork & Joinery Drawing,2,0.52,0.12,0.06,completed,,
+User_17,Custom Millwork & Joinery Drawing,3,0.66,0.93,0.03,completed,,
+User_12,Lighting & Fixture Plan,2,0.13,0.11,0.26,completed,,
+User_16,Construction Document,1,0.72,0.82,0.87,completed,,
+User_14,Custom Millwork & Joinery Drawing,1,0.99,0.49,0.22,completed,,
+User_6,Finish Schedule,2,0.94,0.31,0.86,completed,,
+User_5,Partition Plan,2,0.22,0.74,0.67,completed,,
+User_4,Reflected Ceiling Plan,1,0.05,0.52,0.48,completed,,
+User_6,3D Model,3,0.99,0.49,0.83,completed,,
+User_11,Construction Document,1,0.91,0.15,0.29,completed,,
+User_13,Permit Drawing,1,0.02,0.43,0.39,completed,,
+User_17,Schematic Design,2,0.73,0.93,0.66,completed,,
+User_19,Section Drawing,1,0.34,0.79,0.89,completed,,
+User_11,Lighting & Fixture Plan,2,0.93,0.77,0.6,completed,,
+User_13,Partition Plan,3,0.41,0.62,0.09,completed,,
+User_8,Door & Window Schedule,2,0.03,0.54,0.83,completed,,
+User_9,Finish Schedule,2,0.35,0.89,0.48,completed,,
+User_10,Schematic Design,2,0.72,0.44,0.94,completed,,
+User_3,Roof Plan,2,0.51,0.72,0.59,completed,,
+User_1,Design Development,3,0.91,0.84,0.81,completed,,
+User_13,Construction Document,1,0.08,0.74,0.62,completed,,
+User_5,General Specification,2,0.37,0.03,0.37,completed,,
+User_19,3D Render,3,0.21,0.69,0.36,completed,,
+User_1,Lighting & Fixture Plan,1,0.82,0.59,0.27,completed,,
+User_7,Material Board,2,0.03,0.5,0.22,completed,,
+User_6,Hardscape Plan,1,0.21,0.77,0.84,completed,,
+User_6,Roof Plan,1,0.07,0.35,0.82,completed,,
+User_14,Permit Drawing,1,0.5,0.89,0.92,completed,,
+User_12,Zoning & Building Code Compliance,3,0.31,0.75,0.35,completed,,
+User_3,Zoning & Building Code Compliance,2,0.02,0.83,0.01,completed,,
+User_16,Permit Drawing,1,0.57,0.48,0.08,completed,,
+User_7,Technical Specification,1,0.94,0.89,0.65,completed,,
+User_13,Virtual Reality,3,0.36,0.99,0.27,completed,,
+User_3,Interior Layout Plan,3,0.73,0.67,0.73,completed,,
+User_18,General Specification,3,0.87,0.99,0.7,completed,,
+User_5,Lighting & Fixture Plan,2,0.62,0.89,0.39,completed,,
+User_4,Other,2,0.62,0.29,0.14,completed,,
+User_20,3D Model,2,0.58,0.79,0.87,completed,,
+User_14,Interior Layout Plan,3,0.89,0.14,0.73,completed,,
+User_20,Partition Plan,2,0.41,0.08,0.98,completed,,
+User_11,Lighting & Fixture Plan,2,0.3,0.66,0.53,completed,,
+User_17,Landscape Plan,1,0.71,0.02,0.03,completed,,
+User_17,Virtual Reality,3,0.2,0.77,0.71,completed,,
+User_20,Door & Window Schedule,3,0.11,0.42,0.7,completed,,
+User_19,Permit Drawing,3,0.5,0.05,0.95,completed,,
+User_7,Technical Specification,3,0.47,1.0,0.84,completed,,
+User_3,Material Board,3,0.17,0.3,0.66,completed,,
+User_8,3D Model,2,0.46,0.14,0.33,completed,,
+User_2,Custom Millwork & Joinery Drawing,1,0.48,0.52,0.86,completed,,
+User_8,Furniture Layout Plan,2,0.54,0.66,0.1,completed,,
+User_4,Section Drawing,3,0.12,0.6,0.67,completed,,
+User_14,Lighting & Fixture Plan,1,0.1,0.17,0.82,completed,,
+User_8,3D Render,3,0.03,0.51,0.49,completed,,
+User_6,Zoning & Building Code Compliance,3,0.85,0.97,0.47,completed,,
+User_6,Roof Plan,3,0.96,0.15,0.02,completed,,
+User_1,Hardscape Plan,2,0.41,0.5,0.88,completed,,
+User_17,Partition Plan,1,0.81,0.43,0.29,completed,,
+User_1,Floor Plan,1,0.66,0.17,0.68,completed,,
+User_20,3D Model,3,0.03,0.95,0.94,completed,,
+User_3,3D Render,2,0.82,0.59,0.82,completed,,
+User_16,Landscape Plan,2,0.15,0.47,0.37,completed,,
+User_2,Finish Schedule,1,0.13,0.41,0.29,completed,,
+User_13,Door & Window Schedule,1,0.48,0.47,0.62,completed,,
+User_7,Reflected Ceiling Plan,1,0.25,0.17,0.87,completed,,
+User_4,Section Drawing,3,0.83,0.36,0.59,completed,,
+User_9,Reflected Ceiling Plan,3,0.21,0.32,0.38,completed,,
+User_12,Section Drawing,2,0.56,0.89,0.57,completed,,
+User_6,Permit Drawing,3,0.31,0.9,0.03,completed,,
+User_13,Roof Plan,3,0.96,0.46,0.83,completed,,
+User_9,Hardscape Plan,1,0.83,0.17,0.1,completed,,
+User_18,Roof Plan,1,0.28,0.98,0.31,completed,,
+User_17,Other,2,0.34,0.11,0.6,completed,,
+User_16,Custom Millwork & Joinery Drawing,1,0.28,0.84,0.14,completed,,
+User_20,Material Board,2,0.15,0.58,0.77,completed,,
+User_14,Schematic Design,2,0.94,0.36,0.82,completed,,
+User_18,Schematic Design,3,0.42,0.26,0.49,completed,,
+User_2,Floor Plan,2,0.71,0.98,0.84,completed,,
+User_5,Partition Plan,3,0.49,0.79,0.52,completed,,
+User_3,Hardscape Plan,1,0.21,0.16,0.81,completed,,
+User_9,Furniture Layout Plan,1,0.03,0.43,0.73,completed,,
+User_20,Partition Plan,1,0.86,0.1,0.63,completed,,
+User_3,Elevation Drawing,3,0.14,0.58,0.81,completed,,
+User_1,Landscape Plan,3,0.68,0.97,0.58,completed,,
+User_16,Finish Schedule,2,0.11,0.26,0.28,completed,,
+User_4,Lighting & Fixture Plan,3,0.28,0.49,0.2,completed,,
+User_1,Roof Plan,3,0.5,0.53,0.53,completed,,
+User_12,3D Render,3,0.88,0.26,0.44,completed,,
+User_20,Other,2,0.96,0.15,0.42,completed,,
+User_17,General Specification,2,0.77,0.86,0.89,completed,,
+User_8,Permit Drawing,3,0.22,0.45,0.06,completed,,
+User_8,3D Render,3,0.07,0.27,0.02,completed,,
+User_3,Section Drawing,2,0.05,0.57,0.38,completed,,
+User_19,Elevation Drawing,2,0.75,0.2,0.37,completed,,
+User_5,Door & Window Schedule,1,0.65,0.05,0.55,completed,,
+User_2,Construction Document,3,0.65,0.57,0.25,completed,,
+User_17,Custom Millwork & Joinery Drawing,3,0.24,0.2,0.26,completed,,
+User_7,Conceptual Design,2,0.05,0.71,0.61,completed,,
+User_19,Permit Drawing,2,0.96,0.04,0.28,completed,,
+User_14,Permit Drawing,3,0.08,0.33,0.14,completed,,
+User_6,Custom Millwork & Joinery Drawing,3,0.53,0.71,0.47,completed,,
+User_17,Reflected Ceiling Plan,2,0.29,0.49,0.53,completed,,
+User_20,Floor Plan,2,0.04,0.36,0.81,completed,,
+User_20,Technical Specification,1,0.84,0.75,0.45,completed,,
+User_17,Permit Drawing,3,0.04,0.9,0.29,completed,,
+User_20,Material Board,1,0.64,0.33,0.93,completed,,
+User_9,Landscape Plan,3,0.02,0.68,0.72,completed,,
+User_14,Roof Plan,1,0.75,0.96,0.06,completed,,
+User_19,Schematic Design,2,0.68,0.32,0.1,completed,,
+User_14,Site Plan,1,0.94,0.38,0.35,completed,,
+User_14,Interior Layout Plan,3,0.46,0.74,0.6,completed,,
+User_20,Schematic Design,1,0.91,0.76,0.62,completed,,
+User_12,Zoning & Building Code Compliance,2,0.1,0.57,0.68,completed,,
+User_4,3D Render,2,0.21,0.63,0.16,completed,,
+User_8,Landscape Plan,3,0.63,0.63,0.2,completed,,
+User_4,Zoning & Building Code Compliance,3,0.04,0.82,0.59,completed,,
+User_20,Door & Window Schedule,1,0.21,0.72,0.65,completed,,
+User_6,Furniture Layout Plan,2,0.86,0.14,0.93,completed,,
+User_17,Lighting & Fixture Plan,1,0.35,0.43,0.8,completed,,
+User_12,Technical Specification,1,0.22,0.83,0.83,completed,,
+User_3,Permit Drawing,2,0.7,0.62,0.05,completed,,
+User_8,Section Drawing,3,0.17,0.7,0.71,completed,,
+User_8,Door & Window Schedule,2,0.38,0.08,0.35,completed,,
+User_4,Furniture Layout Plan,1,0.11,0.71,0.6,completed,,
+User_8,Roof Plan,1,0.38,0.91,0.86,completed,,
+User_11,Floor Plan,3,0.19,0.51,0.97,completed,,
+User_16,Site Plan,3,0.88,0.22,0.31,completed,,
+User_13,Landscape Plan,2,0.64,0.57,0.22,completed,,
+User_1,Hardscape Plan,3,0.41,0.34,0.25,completed,,
+User_10,Lighting & Fixture Plan,2,0.19,0.64,0.29,completed,,
+User_17,Roof Plan,2,0.44,0.7,0.15,completed,,
+User_4,Section Drawing,1,0.49,0.6,0.31,completed,,
+User_14,Interior Layout Plan,3,0.59,0.66,0.32,completed,,
+User_13,Conceptual Design,3,0.17,0.06,0.65,completed,,
+User_18,Custom Millwork & Joinery Drawing,3,0.13,0.36,0.62,completed,,
+User_11,Material Board,1,0.22,0.29,0.97,completed,,
+User_19,Construction Document,3,0.61,0.16,0.98,completed,,
+User_18,Reflected Ceiling Plan,3,0.72,0.82,0.71,completed,,
+User_13,Custom Millwork & Joinery Drawing,3,0.83,0.37,0.85,completed,,
+User_1,Permit Drawing,1,0.09,0.69,0.46,completed,,
+User_10,Roof Plan,2,0.42,0.67,0.57,completed,,
+User_19,Furniture Layout Plan,3,0.45,0.52,0.26,completed,,
+User_3,Floor Plan,2,0.37,0.81,0.41,completed,,
+User_3,Landscape Plan,3,0.93,0.06,0.99,completed,,
+User_15,Technical Specification,1,0.89,0.24,0.93,completed,,
+User_19,Door & Window Schedule,1,0.02,0.27,0.05,completed,,
+User_11,Schematic Design,2,0.9,0.62,0.02,completed,,
+User_9,Reflected Ceiling Plan,3,0.39,0.75,0.09,completed,,
+User_5,Permit Drawing,3,0.47,0.3,0.49,completed,,
+User_6,Zoning & Building Code Compliance,1,0.7,0.76,0.5,completed,,
+User_14,Virtual Reality,2,0.17,0.96,0.27,completed,,
+User_10,Material Board,3,0.14,0.37,0.28,completed,,
+User_15,Door & Window Schedule,3,0.49,0.07,0.14,completed,,
+User_4,Conceptual Design,1,0.3,0.52,0.56,completed,,
+User_10,Interior Layout Plan,3,0.13,0.29,0.57,completed,,
+User_14,Floor Plan,1,0.48,0.33,0.27,completed,,
+User_3,Design Development,2,0.27,0.56,0.6,completed,,
+User_17,Door & Window Schedule,1,0.95,0.93,0.62,completed,,
+User_19,Schematic Design,3,0.72,0.09,0.07,completed,,
+User_16,Conceptual Design,1,0.12,0.52,0.43,completed,,
+User_8,Landscape Plan,1,0.3,0.55,0.35,completed,,
+User_5,Lighting & Fixture Plan,2,0.03,0.05,0.13,completed,,
+User_12,Zoning & Building Code Compliance,2,0.69,1.0,0.59,completed,,
+User_20,Material Board,2,0.06,0.48,0.85,completed,,
+User_5,Lighting & Fixture Plan,3,0.28,0.92,0.49,completed,,
+User_17,Lighting & Fixture Plan,1,0.91,0.25,0.7,completed,,
+User_15,Hardscape Plan,2,0.08,0.99,0.12,completed,,
+User_14,Zoning & Building Code Compliance,1,0.68,0.84,0.23,completed,,
+User_7,Furniture Layout Plan,1,0.96,0.38,0.74,completed,,
+User_4,Lighting & Fixture Plan,1,0.57,0.28,0.59,completed,,
+User_13,Site Plan,3,0.54,0.64,0.53,completed,,
+User_12,Virtual Reality,3,0.36,0.27,0.36,completed,,
+User_11,Section Drawing,1,0.73,0.02,0.05,completed,,
+User_8,Site Plan,2,0.33,0.49,0.98,completed,,
+User_2,Virtual Reality,3,0.91,1.0,0.47,completed,,
+User_9,Furniture Layout Plan,1,0.67,0.54,0.75,completed,,
+User_13,Elevation Drawing,1,0.71,0.84,0.99,completed,,
+User_9,Door & Window Schedule,1,0.37,0.53,0.92,completed,,
+User_14,Schematic Design,3,0.52,0.85,0.58,completed,,
+User_2,Interior Layout Plan,1,0.07,0.7,0.46,completed,,
+User_10,Site Plan,2,0.46,0.39,0.92,completed,,
+User_7,Construction Document,1,0.9,0.8,0.76,completed,,
+User_8,Construction Document,1,0.33,0.5,0.25,completed,,
+User_18,Roof Plan,2,0.76,0.42,0.02,completed,,
+User_9,Elevation Drawing,3,0.12,0.73,1.0,completed,,
+User_1,Interior Layout Plan,1,0.38,0.62,0.32,completed,,
+User_5,Reflected Ceiling Plan,3,0.5,0.88,0.64,completed,,
+User_18,Roof Plan,1,0.69,0.12,0.38,completed,,
+User_15,Hardscape Plan,3,0.43,0.33,0.12,completed,,
+User_3,Conceptual Design,1,0.69,0.96,0.64,completed,,
+User_7,Custom Millwork & Joinery Drawing,3,0.75,0.56,0.57,completed,,
+User_14,Elevation Drawing,3,0.68,0.41,0.79,completed,,
+User_12,Elevation Drawing,2,0.72,0.67,0.41,completed,,
+User_2,Schematic Design,1,0.7,0.75,0.74,completed,,
+User_7,Other,3,0.01,0.51,0.28,completed,,
+User_19,Furniture Layout Plan,1,0.9,0.69,0.13,completed,,
+User_19,3D Render,2,0.62,0.96,0.28,completed,,
+User_6,Material Board,2,0.87,0.86,0.9,completed,,
+User_3,Door & Window Schedule,1,0.51,0.93,0.01,completed,,
+User_8,General Specification,3,0.92,0.64,0.51,completed,,
+User_8,Roof Plan,1,0.69,0.89,0.54,completed,,
+User_8,Site Plan,3,0.09,0.5,0.82,completed,,
+User_18,General Specification,3,0.86,0.3,0.73,completed,,
+User_13,Conceptual Design,2,0.33,0.3,0.62,completed,,
+User_2,Permit Drawing,1,0.75,0.11,0.29,completed,,
+User_3,3D Render,2,0.19,0.59,0.74,completed,,
+User_13,Custom Millwork & Joinery Drawing,3,0.19,0.66,0.97,completed,,
+User_20,General Specification,3,0.51,0.65,0.7,completed,,
+User_14,Site Plan,1,0.77,0.98,0.75,completed,,
+User_12,3D Model,1,0.12,0.42,0.57,completed,,
+User_2,Permit Drawing,2,0.76,0.32,0.08,completed,,
+User_3,Interior Layout Plan,3,0.84,0.35,0.14,completed,,
+User_20,Conceptual Design,3,0.96,0.68,0.09,completed,,
+User_10,3D Render,1,0.14,0.82,0.79,completed,,
+User_17,Interior Layout Plan,2,0.37,0.61,0.51,completed,,
+User_13,Partition Plan,2,0.34,0.27,0.07,completed,,
+User_15,Material Board,2,0.21,0.86,0.79,completed,,
+User_4,Schematic Design,1,0.59,0.24,0.97,completed,,
+User_20,Roof Plan,1,0.19,0.92,0.11,completed,,
+User_18,Design Development,3,0.16,0.61,0.67,completed,,
+User_10,Site Plan,1,0.85,0.85,0.48,completed,,
+User_13,Furniture Layout Plan,2,0.39,0.65,0.73,completed,,
+,Virtual Reality,3,,,,unassigned,New Task 1,2025-05-5
+,Elevation Drawing,2,,,,unassigned,New Task 2,2025-05-19
+,Roof Plan,3,,,,unassigned,New Task 3,2025-05-15
+,Furniture Layout Plan,3,,,,unassigned,New Task 4,2025-05-24
+,Construction Document,2,,,,unassigned,New Task 5,
+,Furniture Layout Plan,1,,,,unassigned,New Task 6,2025-05-1
+,Roof Plan,1,,,,unassigned,New Task 7,
+,Virtual Reality,2,,,,unassigned,New Task 8,
+,Design Development,1,,,,unassigned,New Task 9,
+,Site Plan,3,,,,unassigned,New Task 10,
+,Schematic Design,2,,,,unassigned,New Task 11,2025-05-18
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 12,2025-05-10
+,Virtual Reality,2,,,,unassigned,New Task 13,
+,Interior Layout Plan,1,,,,unassigned,New Task 14,2025-05-15
+,Site Plan,3,,,,unassigned,New Task 15,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 16,2025-05-9
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 17,2025-05-27
+,General Specification,1,,,,unassigned,New Task 18,
+,Roof Plan,2,,,,unassigned,New Task 19,
+,Conceptual Design,2,,,,unassigned,New Task 20,
+,Hardscape Plan,2,,,,unassigned,New Task 21,
+,Schematic Design,2,,,,unassigned,New Task 22,2025-05-14
+,Schematic Design,1,,,,unassigned,New Task 23,
+,Section Drawing,2,,,,unassigned,New Task 24,
+,Permit Drawing,3,,,,unassigned,New Task 25,
+,Technical Specification,2,,,,unassigned,New Task 26,2025-05-10
+,Site Plan,3,,,,unassigned,New Task 27,
+,Furniture Layout Plan,3,,,,unassigned,New Task 28,2025-05-6
+,Floor Plan,3,,,,unassigned,New Task 29,
+,Elevation Drawing,1,,,,unassigned,New Task 30,
+,3D Model,3,,,,unassigned,New Task 31,2025-05-26
+,Furniture Layout Plan,3,,,,unassigned,New Task 32,
+,Other,2,,,,unassigned,New Task 33,
+,Permit Drawing,3,,,,unassigned,New Task 34,2025-05-10
+,Design Development,3,,,,unassigned,New Task 35,
+,3D Render,3,,,,unassigned,New Task 36,2025-05-17
+,Partition Plan,1,,,,unassigned,New Task 37,
+,Section Drawing,3,,,,unassigned,New Task 38,2025-05-1
+,3D Render,1,,,,unassigned,New Task 39,
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 40,2025-05-30
+,Elevation Drawing,1,,,,unassigned,New Task 41,
+,Interior Layout Plan,3,,,,unassigned,New Task 42,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 43,
+,Floor Plan,1,,,,unassigned,New Task 44,2025-05-7
+,Site Plan,2,,,,unassigned,New Task 45,2025-05-20
+,Door & Window Schedule,2,,,,unassigned,New Task 46,
+,Floor Plan,2,,,,unassigned,New Task 47,2025-05-10
+,Door & Window Schedule,1,,,,unassigned,New Task 48,
+,Partition Plan,3,,,,unassigned,New Task 49,2025-05-12
+,Hardscape Plan,3,,,,unassigned,New Task 50,2025-05-27
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 51,2025-05-28
+,3D Render,2,,,,unassigned,New Task 52,
+,Interior Layout Plan,3,,,,unassigned,New Task 53,
+,Section Drawing,3,,,,unassigned,New Task 54,2025-05-2
+,Finish Schedule,1,,,,unassigned,New Task 55,
+,Schematic Design,3,,,,unassigned,New Task 56,
+,Interior Layout Plan,2,,,,unassigned,New Task 57,
+,Floor Plan,3,,,,unassigned,New Task 58,
+,Door & Window Schedule,3,,,,unassigned,New Task 59,
+,Interior Layout Plan,2,,,,unassigned,New Task 60,
+,Furniture Layout Plan,2,,,,unassigned,New Task 61,2025-05-8
+,Finish Schedule,3,,,,unassigned,New Task 62,
+,Door & Window Schedule,2,,,,unassigned,New Task 63,2025-05-14
+,Roof Plan,1,,,,unassigned,New Task 64,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 65,2025-05-1
+,Door & Window Schedule,2,,,,unassigned,New Task 66,
+,Roof Plan,1,,,,unassigned,New Task 67,2025-05-12
+,Site Plan,3,,,,unassigned,New Task 68,2025-05-18
+,Permit Drawing,3,,,,unassigned,New Task 69,2025-05-3
+,3D Render,2,,,,unassigned,New Task 70,2025-05-5
+,Section Drawing,2,,,,unassigned,New Task 71,
+,Door & Window Schedule,2,,,,unassigned,New Task 72,
+,3D Render,1,,,,unassigned,New Task 73,
+,General Specification,3,,,,unassigned,New Task 74,2025-05-23
+,3D Render,3,,,,unassigned,New Task 75,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 76,2025-05-4
+,Section Drawing,3,,,,unassigned,New Task 77,2025-05-23
+,Door & Window Schedule,3,,,,unassigned,New Task 78,
+,Hardscape Plan,1,,,,unassigned,New Task 79,
+,Interior Layout Plan,1,,,,unassigned,New Task 80,2025-05-26
+,Virtual Reality,1,,,,unassigned,New Task 81,2025-05-20
+,Virtual Reality,1,,,,unassigned,New Task 82,2025-05-10
+,Furniture Layout Plan,3,,,,unassigned,New Task 83,
+,General Specification,3,,,,unassigned,New Task 84,
+,Door & Window Schedule,1,,,,unassigned,New Task 85,
+,Design Development,3,,,,unassigned,New Task 86,
+,Floor Plan,1,,,,unassigned,New Task 87,
+,Other,3,,,,unassigned,New Task 88,2025-05-7
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 89,2025-05-4
+,Other,2,,,,unassigned,New Task 90,2025-05-25
+,Interior Layout Plan,1,,,,unassigned,New Task 91,
+,Finish Schedule,1,,,,unassigned,New Task 92,2025-05-8
+,Floor Plan,2,,,,unassigned,New Task 93,2025-05-10
+,Schematic Design,2,,,,unassigned,New Task 94,
+,Furniture Layout Plan,2,,,,unassigned,New Task 95,2025-05-3
+,Elevation Drawing,1,,,,unassigned,New Task 96,2025-05-6
+,Door & Window Schedule,3,,,,unassigned,New Task 97,
+,Material Board,3,,,,unassigned,New Task 98,2025-05-17
+,Floor Plan,2,,,,unassigned,New Task 99,
+,Virtual Reality,2,,,,unassigned,New Task 100,2025-05-29
+,Material Board,2,,,,unassigned,New Task 101,
+,Conceptual Design,3,,,,unassigned,New Task 102,2025-05-27
+,Hardscape Plan,2,,,,unassigned,New Task 103,2025-05-16
+,Hardscape Plan,1,,,,unassigned,New Task 104,2025-05-7
+,Finish Schedule,1,,,,unassigned,New Task 105,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 106,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 107,2025-05-9
+,Technical Specification,3,,,,unassigned,New Task 108,
+,3D Render,2,,,,unassigned,New Task 109,
+,Site Plan,3,,,,unassigned,New Task 110,2025-05-12
+,Technical Specification,2,,,,unassigned,New Task 111,
+,Site Plan,1,,,,unassigned,New Task 112,2025-05-19
+,Floor Plan,1,,,,unassigned,New Task 113,2025-05-7
+,Site Plan,2,,,,unassigned,New Task 114,2025-05-4
+,Interior Layout Plan,1,,,,unassigned,New Task 115,2025-05-27
+,Other,3,,,,unassigned,New Task 116,2025-05-17
+,Conceptual Design,2,,,,unassigned,New Task 117,2025-05-14
+,Design Development,1,,,,unassigned,New Task 118,
+,3D Render,3,,,,unassigned,New Task 119,
+,Permit Drawing,1,,,,unassigned,New Task 120,2025-05-29
+,Interior Layout Plan,1,,,,unassigned,New Task 121,2025-05-9
+,Interior Layout Plan,1,,,,unassigned,New Task 122,2025-05-21
+,General Specification,3,,,,unassigned,New Task 123,
+,Construction Document,1,,,,unassigned,New Task 124,2025-05-28
+,Design Development,2,,,,unassigned,New Task 125,2025-05-26
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 126,2025-05-13
+,Partition Plan,2,,,,unassigned,New Task 127,
+,3D Model,1,,,,unassigned,New Task 128,
+,Design Development,1,,,,unassigned,New Task 129,2025-05-23
+,Site Plan,1,,,,unassigned,New Task 130,
+,Roof Plan,2,,,,unassigned,New Task 131,2025-05-8
+,3D Render,1,,,,unassigned,New Task 132,
+,Roof Plan,1,,,,unassigned,New Task 133,
+,Partition Plan,3,,,,unassigned,New Task 134,
+,Roof Plan,1,,,,unassigned,New Task 135,
+,Hardscape Plan,1,,,,unassigned,New Task 136,
+,Landscape Plan,3,,,,unassigned,New Task 137,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 138,
+,3D Model,1,,,,unassigned,New Task 139,
+,Landscape Plan,1,,,,unassigned,New Task 140,
+,3D Render,1,,,,unassigned,New Task 141,2025-05-6
+,Permit Drawing,1,,,,unassigned,New Task 142,2025-05-26
+,Virtual Reality,1,,,,unassigned,New Task 143,2025-05-30
+,Landscape Plan,1,,,,unassigned,New Task 144,
+,Floor Plan,3,,,,unassigned,New Task 145,2025-05-1
+,General Specification,2,,,,unassigned,New Task 146,2025-05-19
+,Furniture Layout Plan,1,,,,unassigned,New Task 147,
+,Furniture Layout Plan,2,,,,unassigned,New Task 148,2025-05-21
+,Hardscape Plan,2,,,,unassigned,New Task 149,2025-05-19
+,Permit Drawing,1,,,,unassigned,New Task 150,2025-05-12
+,Furniture Layout Plan,3,,,,unassigned,New Task 151,
+,Material Board,1,,,,unassigned,New Task 152,2025-05-25
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 153,
+,Elevation Drawing,2,,,,unassigned,New Task 154,2025-05-12
+,Permit Drawing,1,,,,unassigned,New Task 155,2025-05-19
+,Site Plan,3,,,,unassigned,New Task 156,
+,Site Plan,1,,,,unassigned,New Task 157,2025-05-12
+,Virtual Reality,1,,,,unassigned,New Task 158,
+,Construction Document,2,,,,unassigned,New Task 159,
+,Finish Schedule,1,,,,unassigned,New Task 160,
+,Finish Schedule,1,,,,unassigned,New Task 161,
+,Roof Plan,3,,,,unassigned,New Task 162,2025-05-7
+,Site Plan,1,,,,unassigned,New Task 163,
+,Construction Document,2,,,,unassigned,New Task 164,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 165,2025-05-14
+,Virtual Reality,2,,,,unassigned,New Task 166,2025-05-21
+,Technical Specification,2,,,,unassigned,New Task 167,2025-05-14
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 168,2025-05-7
+,Material Board,3,,,,unassigned,New Task 169,2025-05-20
+,Door & Window Schedule,1,,,,unassigned,New Task 170,
+,Construction Document,1,,,,unassigned,New Task 171,2025-05-26
+,Construction Document,2,,,,unassigned,New Task 172,
+,Material Board,2,,,,unassigned,New Task 173,2025-05-16
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 174,2025-05-24
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 175,
+,Interior Layout Plan,2,,,,unassigned,New Task 176,
+,Section Drawing,3,,,,unassigned,New Task 177,
+,Interior Layout Plan,2,,,,unassigned,New Task 178,
+,Furniture Layout Plan,3,,,,unassigned,New Task 179,
+,Design Development,1,,,,unassigned,New Task 180,2025-05-19
+,Roof Plan,3,,,,unassigned,New Task 181,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 182,
+,Schematic Design,3,,,,unassigned,New Task 183,
+,Site Plan,1,,,,unassigned,New Task 184,2025-05-24
+,Roof Plan,1,,,,unassigned,New Task 185,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 186,
+,General Specification,3,,,,unassigned,New Task 187,2025-05-15
+,Interior Layout Plan,3,,,,unassigned,New Task 188,
+,Conceptual Design,2,,,,unassigned,New Task 189,
+,Virtual Reality,3,,,,unassigned,New Task 190,
+,Section Drawing,1,,,,unassigned,New Task 191,
+,Conceptual Design,3,,,,unassigned,New Task 192,2025-05-3
+,Technical Specification,1,,,,unassigned,New Task 193,2025-05-29
+,Schematic Design,1,,,,unassigned,New Task 194,
+,Hardscape Plan,2,,,,unassigned,New Task 195,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 196,
+,Furniture Layout Plan,1,,,,unassigned,New Task 197,
+,Roof Plan,3,,,,unassigned,New Task 198,2025-05-25
+,Virtual Reality,1,,,,unassigned,New Task 199,
+,Other,1,,,,unassigned,New Task 200,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 201,2025-05-14
+,Roof Plan,1,,,,unassigned,New Task 202,
+,Virtual Reality,1,,,,unassigned,New Task 203,
+,3D Model,2,,,,unassigned,New Task 204,2025-05-3
+,Roof Plan,3,,,,unassigned,New Task 205,2025-05-15
+,Landscape Plan,3,,,,unassigned,New Task 206,
+,General Specification,2,,,,unassigned,New Task 207,
+,3D Model,2,,,,unassigned,New Task 208,2025-05-8
+,Finish Schedule,3,,,,unassigned,New Task 209,2025-05-9
+,Material Board,1,,,,unassigned,New Task 210,2025-05-14
+,Permit Drawing,1,,,,unassigned,New Task 211,
+,Elevation Drawing,1,,,,unassigned,New Task 212,2025-05-23
+,Landscape Plan,1,,,,unassigned,New Task 213,
+,Roof Plan,3,,,,unassigned,New Task 214,
+,Material Board,3,,,,unassigned,New Task 215,
+,General Specification,2,,,,unassigned,New Task 216,
+,Conceptual Design,2,,,,unassigned,New Task 217,2025-05-16
+,Elevation Drawing,2,,,,unassigned,New Task 218,
+,Furniture Layout Plan,2,,,,unassigned,New Task 219,2025-05-2
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 220,
+,3D Render,1,,,,unassigned,New Task 221,2025-05-8
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 222,
+,Construction Document,1,,,,unassigned,New Task 223,
+,Door & Window Schedule,1,,,,unassigned,New Task 224,2025-05-3
+,Door & Window Schedule,3,,,,unassigned,New Task 225,2025-05-18
+,Landscape Plan,2,,,,unassigned,New Task 226,2025-05-1
+,Section Drawing,1,,,,unassigned,New Task 227,
+,Elevation Drawing,3,,,,unassigned,New Task 228,2025-05-10
+,Door & Window Schedule,1,,,,unassigned,New Task 229,2025-05-24
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 230,2025-05-21
+,3D Model,3,,,,unassigned,New Task 231,2025-05-25
+,Finish Schedule,1,,,,unassigned,New Task 232,
+,Door & Window Schedule,2,,,,unassigned,New Task 233,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 234,
+,Design Development,3,,,,unassigned,New Task 235,2025-05-7
+,Partition Plan,2,,,,unassigned,New Task 236,
+,Elevation Drawing,2,,,,unassigned,New Task 237,2025-05-7
+,3D Model,1,,,,unassigned,New Task 238,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 239,2025-05-9
+,Design Development,3,,,,unassigned,New Task 240,2025-05-5
+,Conceptual Design,3,,,,unassigned,New Task 241,2025-05-24
+,Design Development,2,,,,unassigned,New Task 242,
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 243,2025-05-16
+,Virtual Reality,1,,,,unassigned,New Task 244,
+,Design Development,1,,,,unassigned,New Task 245,2025-05-18
+,Design Development,2,,,,unassigned,New Task 246,2025-05-17
+,Landscape Plan,1,,,,unassigned,New Task 247,2025-05-4
+,Permit Drawing,2,,,,unassigned,New Task 248,2025-05-15
+,Furniture Layout Plan,2,,,,unassigned,New Task 249,
+,Technical Specification,3,,,,unassigned,New Task 250,2025-05-22
+,3D Render,1,,,,unassigned,New Task 251,
+,Finish Schedule,2,,,,unassigned,New Task 252,2025-05-22
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 253,2025-05-23
+,Conceptual Design,2,,,,unassigned,New Task 254,2025-05-25
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 255,2025-05-26
+,Door & Window Schedule,2,,,,unassigned,New Task 256,
+,Virtual Reality,3,,,,unassigned,New Task 257,
+,Floor Plan,2,,,,unassigned,New Task 258,
+,Virtual Reality,3,,,,unassigned,New Task 259,
+,Partition Plan,1,,,,unassigned,New Task 260,2025-05-18
+,Finish Schedule,3,,,,unassigned,New Task 261,2025-05-14
+,Roof Plan,2,,,,unassigned,New Task 262,
+,Technical Specification,1,,,,unassigned,New Task 263,2025-05-26
+,Schematic Design,3,,,,unassigned,New Task 264,
+,Design Development,1,,,,unassigned,New Task 265,
+,Hardscape Plan,2,,,,unassigned,New Task 266,
+,Virtual Reality,3,,,,unassigned,New Task 267,2025-05-8
+,Finish Schedule,2,,,,unassigned,New Task 268,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 269,2025-05-25
+,3D Render,1,,,,unassigned,New Task 270,2025-05-25
+,3D Model,2,,,,unassigned,New Task 271,
+,Permit Drawing,2,,,,unassigned,New Task 272,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 273,
+,Partition Plan,2,,,,unassigned,New Task 274,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 275,
+,General Specification,3,,,,unassigned,New Task 276,2025-05-13
+,Virtual Reality,3,,,,unassigned,New Task 277,
+,Finish Schedule,2,,,,unassigned,New Task 278,
+,3D Model,3,,,,unassigned,New Task 279,2025-05-14
+,Design Development,2,,,,unassigned,New Task 280,2025-05-5
+,3D Model,2,,,,unassigned,New Task 281,2025-05-24
+,3D Render,1,,,,unassigned,New Task 282,
+,Conceptual Design,1,,,,unassigned,New Task 283,2025-05-2
+,Schematic Design,3,,,,unassigned,New Task 284,2025-05-26
+,Landscape Plan,2,,,,unassigned,New Task 285,
+,Material Board,2,,,,unassigned,New Task 286,2025-05-6
+,Conceptual Design,3,,,,unassigned,New Task 287,
+,Design Development,3,,,,unassigned,New Task 288,2025-05-10
+,Permit Drawing,2,,,,unassigned,New Task 289,
+,Roof Plan,3,,,,unassigned,New Task 290,2025-05-17
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 291,
+,Section Drawing,2,,,,unassigned,New Task 292,
+,3D Model,2,,,,unassigned,New Task 293,2025-05-21
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 294,2025-05-29
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 295,
+,Construction Document,2,,,,unassigned,New Task 296,2025-05-4
+,Door & Window Schedule,1,,,,unassigned,New Task 297,
+,Design Development,2,,,,unassigned,New Task 298,2025-05-3
+,Elevation Drawing,2,,,,unassigned,New Task 299,
+,Material Board,3,,,,unassigned,New Task 300,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 301,2025-05-26
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 302,2025-05-21
+,Technical Specification,1,,,,unassigned,New Task 303,
+,Roof Plan,1,,,,unassigned,New Task 304,2025-05-23
+,Partition Plan,1,,,,unassigned,New Task 305,2025-05-1
+,Technical Specification,2,,,,unassigned,New Task 306,2025-05-28
+,Elevation Drawing,2,,,,unassigned,New Task 307,
+,3D Render,1,,,,unassigned,New Task 308,2025-05-30
+,Material Board,3,,,,unassigned,New Task 309,
+,Door & Window Schedule,3,,,,unassigned,New Task 310,2025-05-10
+,Door & Window Schedule,3,,,,unassigned,New Task 311,2025-05-18
+,3D Model,1,,,,unassigned,New Task 312,2025-05-8
+,3D Render,1,,,,unassigned,New Task 313,
+,Elevation Drawing,1,,,,unassigned,New Task 314,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 315,
+,Construction Document,2,,,,unassigned,New Task 316,2025-05-23
+,Technical Specification,3,,,,unassigned,New Task 317,
+,Furniture Layout Plan,1,,,,unassigned,New Task 318,2025-05-3
+,Roof Plan,1,,,,unassigned,New Task 319,2025-05-1
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 320,
+,Construction Document,3,,,,unassigned,New Task 321,
+,Floor Plan,3,,,,unassigned,New Task 322,
+,General Specification,2,,,,unassigned,New Task 323,2025-05-7
+,3D Render,2,,,,unassigned,New Task 324,2025-05-12
+,Landscape Plan,1,,,,unassigned,New Task 325,
+,Roof Plan,2,,,,unassigned,New Task 326,2025-05-18
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 327,
+,Site Plan,1,,,,unassigned,New Task 328,
+,Material Board,3,,,,unassigned,New Task 329,
+,Furniture Layout Plan,1,,,,unassigned,New Task 330,
+,3D Model,3,,,,unassigned,New Task 331,2025-05-13
+,Conceptual Design,2,,,,unassigned,New Task 332,2025-05-20
+,Landscape Plan,1,,,,unassigned,New Task 333,2025-05-27
+,Furniture Layout Plan,1,,,,unassigned,New Task 334,2025-05-27
+,Construction Document,3,,,,unassigned,New Task 335,2025-05-13
+,General Specification,2,,,,unassigned,New Task 336,
+,Design Development,1,,,,unassigned,New Task 337,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 338,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 339,2025-05-19
+,Furniture Layout Plan,3,,,,unassigned,New Task 340,
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 341,
+,Conceptual Design,2,,,,unassigned,New Task 342,
+,Door & Window Schedule,1,,,,unassigned,New Task 343,2025-05-10
+,Finish Schedule,2,,,,unassigned,New Task 344,
+,Conceptual Design,2,,,,unassigned,New Task 345,
+,Finish Schedule,1,,,,unassigned,New Task 346,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 347,
+,Partition Plan,1,,,,unassigned,New Task 348,
+,Hardscape Plan,2,,,,unassigned,New Task 349,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 350,
+,Furniture Layout Plan,1,,,,unassigned,New Task 351,2025-05-25
+,Roof Plan,2,,,,unassigned,New Task 352,
+,Partition Plan,1,,,,unassigned,New Task 353,2025-05-22
+,Permit Drawing,3,,,,unassigned,New Task 354,2025-05-2
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 355,2025-05-2
+,3D Model,2,,,,unassigned,New Task 356,
+,Roof Plan,3,,,,unassigned,New Task 357,
+,Technical Specification,3,,,,unassigned,New Task 358,2025-05-8
+,Furniture Layout Plan,3,,,,unassigned,New Task 359,2025-05-10
+,Interior Layout Plan,2,,,,unassigned,New Task 360,2025-05-19
+,Construction Document,2,,,,unassigned,New Task 361,2025-05-6
+,Finish Schedule,3,,,,unassigned,New Task 362,2025-05-12
+,Floor Plan,2,,,,unassigned,New Task 363,
+,Elevation Drawing,1,,,,unassigned,New Task 364,2025-05-30
+,Floor Plan,1,,,,unassigned,New Task 365,
+,Schematic Design,1,,,,unassigned,New Task 366,
+,Door & Window Schedule,2,,,,unassigned,New Task 367,2025-05-17
+,Interior Layout Plan,3,,,,unassigned,New Task 368,2025-05-19
+,Schematic Design,3,,,,unassigned,New Task 369,2025-05-10
+,Site Plan,3,,,,unassigned,New Task 370,2025-05-14
+,Interior Layout Plan,2,,,,unassigned,New Task 371,2025-05-25
+,Material Board,3,,,,unassigned,New Task 372,2025-05-13
+,Roof Plan,2,,,,unassigned,New Task 373,2025-05-2
+,General Specification,2,,,,unassigned,New Task 374,2025-05-18
+,Landscape Plan,1,,,,unassigned,New Task 375,2025-05-1
+,Technical Specification,3,,,,unassigned,New Task 376,2025-05-15
+,Floor Plan,2,,,,unassigned,New Task 377,
+,General Specification,2,,,,unassigned,New Task 378,
+,Conceptual Design,2,,,,unassigned,New Task 379,
+,Conceptual Design,1,,,,unassigned,New Task 380,
+,Site Plan,2,,,,unassigned,New Task 381,
+,Section Drawing,3,,,,unassigned,New Task 382,
+,Finish Schedule,3,,,,unassigned,New Task 383,
+,Design Development,2,,,,unassigned,New Task 384,
+,Construction Document,1,,,,unassigned,New Task 385,
+,Landscape Plan,2,,,,unassigned,New Task 386,2025-05-30
+,Material Board,2,,,,unassigned,New Task 387,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 388,
+,Technical Specification,1,,,,unassigned,New Task 389,2025-05-11
+,Hardscape Plan,1,,,,unassigned,New Task 390,
+,Schematic Design,2,,,,unassigned,New Task 391,2025-05-27
+,Door & Window Schedule,2,,,,unassigned,New Task 392,2025-05-17
+,General Specification,2,,,,unassigned,New Task 393,2025-05-18
+,Interior Layout Plan,3,,,,unassigned,New Task 394,2025-05-28
+,Furniture Layout Plan,3,,,,unassigned,New Task 395,2025-05-30
+,Permit Drawing,2,,,,unassigned,New Task 396,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 397,
+,Partition Plan,2,,,,unassigned,New Task 398,
+,Elevation Drawing,3,,,,unassigned,New Task 399,2025-05-4
+,Schematic Design,1,,,,unassigned,New Task 400,2025-05-16
+,Construction Document,1,,,,unassigned,New Task 401,
+,Design Development,2,,,,unassigned,New Task 402,2025-05-28
+,Conceptual Design,1,,,,unassigned,New Task 403,2025-05-6
+,Landscape Plan,3,,,,unassigned,New Task 404,
+,Interior Layout Plan,2,,,,unassigned,New Task 405,
+,Elevation Drawing,1,,,,unassigned,New Task 406,
+,3D Model,3,,,,unassigned,New Task 407,2025-05-21
+,3D Render,3,,,,unassigned,New Task 408,2025-05-16
+,Technical Specification,1,,,,unassigned,New Task 409,2025-05-10
+,General Specification,1,,,,unassigned,New Task 410,
+,Floor Plan,2,,,,unassigned,New Task 411,2025-05-26
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 412,
+,General Specification,1,,,,unassigned,New Task 413,
+,Roof Plan,3,,,,unassigned,New Task 414,
+,Interior Layout Plan,3,,,,unassigned,New Task 415,2025-05-1
+,General Specification,1,,,,unassigned,New Task 416,
+,Material Board,3,,,,unassigned,New Task 417,
+,Material Board,3,,,,unassigned,New Task 418,2025-05-7
+,Landscape Plan,1,,,,unassigned,New Task 419,2025-05-24
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 420,
+,Hardscape Plan,2,,,,unassigned,New Task 421,
+,Site Plan,2,,,,unassigned,New Task 422,2025-05-10
+,Furniture Layout Plan,2,,,,unassigned,New Task 423,
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 424,
+,General Specification,1,,,,unassigned,New Task 425,2025-05-27
+,Furniture Layout Plan,2,,,,unassigned,New Task 426,2025-05-18
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 427,2025-05-19
+,Virtual Reality,3,,,,unassigned,New Task 428,2025-05-7
+,Schematic Design,2,,,,unassigned,New Task 429,
+,Technical Specification,2,,,,unassigned,New Task 430,2025-05-17
+,Conceptual Design,3,,,,unassigned,New Task 431,2025-05-14
+,Finish Schedule,3,,,,unassigned,New Task 432,2025-05-18
+,General Specification,1,,,,unassigned,New Task 433,2025-05-24
+,Door & Window Schedule,2,,,,unassigned,New Task 434,2025-05-13
+,Design Development,2,,,,unassigned,New Task 435,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 436,2025-05-2
+,Permit Drawing,3,,,,unassigned,New Task 437,
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 438,2025-05-26
+,Hardscape Plan,3,,,,unassigned,New Task 439,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 440,
+,Material Board,2,,,,unassigned,New Task 441,2025-05-23
+,Permit Drawing,3,,,,unassigned,New Task 442,2025-05-17
+,Material Board,3,,,,unassigned,New Task 443,2025-05-3
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 444,2025-05-8
+,Technical Specification,3,,,,unassigned,New Task 445,2025-05-30
+,Other,3,,,,unassigned,New Task 446,2025-05-20
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 447,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 448,2025-05-24
+,Material Board,1,,,,unassigned,New Task 449,
+,Design Development,1,,,,unassigned,New Task 450,2025-05-30
+,Conceptual Design,3,,,,unassigned,New Task 451,2025-05-14
+,Door & Window Schedule,1,,,,unassigned,New Task 452,2025-05-14
+,Landscape Plan,3,,,,unassigned,New Task 453,
+,Design Development,1,,,,unassigned,New Task 454,
+,Design Development,2,,,,unassigned,New Task 455,
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 456,2025-05-8
+,Landscape Plan,3,,,,unassigned,New Task 457,2025-05-7
+,Technical Specification,1,,,,unassigned,New Task 458,2025-05-6
+,Other,2,,,,unassigned,New Task 459,
+,Design Development,1,,,,unassigned,New Task 460,
+,Elevation Drawing,3,,,,unassigned,New Task 461,2025-05-15
+,Construction Document,3,,,,unassigned,New Task 462,2025-05-22
+,Floor Plan,1,,,,unassigned,New Task 463,
+,Elevation Drawing,1,,,,unassigned,New Task 464,
+,Schematic Design,3,,,,unassigned,New Task 465,
+,Other,2,,,,unassigned,New Task 466,2025-05-10
+,Material Board,1,,,,unassigned,New Task 467,2025-05-24
+,Landscape Plan,3,,,,unassigned,New Task 468,2025-05-20
+,Floor Plan,2,,,,unassigned,New Task 469,2025-05-1
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 470,
+,Furniture Layout Plan,1,,,,unassigned,New Task 471,2025-05-17
+,Landscape Plan,2,,,,unassigned,New Task 472,
+,Landscape Plan,2,,,,unassigned,New Task 473,
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 474,2025-05-3
+,Section Drawing,1,,,,unassigned,New Task 475,
+,3D Model,3,,,,unassigned,New Task 476,2025-05-26
+,Door & Window Schedule,3,,,,unassigned,New Task 477,
+,Interior Layout Plan,2,,,,unassigned,New Task 478,2025-05-8
+,3D Model,2,,,,unassigned,New Task 479,
+,Interior Layout Plan,2,,,,unassigned,New Task 480,
+,3D Render,2,,,,unassigned,New Task 481,
+,Interior Layout Plan,2,,,,unassigned,New Task 482,2025-05-25
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 483,2025-05-30
+,Interior Layout Plan,3,,,,unassigned,New Task 484,2025-05-18
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 485,
+,Landscape Plan,2,,,,unassigned,New Task 486,
+,Landscape Plan,1,,,,unassigned,New Task 487,2025-05-6
+,3D Render,2,,,,unassigned,New Task 488,
+,Elevation Drawing,3,,,,unassigned,New Task 489,2025-05-6
+,Material Board,2,,,,unassigned,New Task 490,2025-05-28
+,Finish Schedule,1,,,,unassigned,New Task 491,
+,Section Drawing,3,,,,unassigned,New Task 492,2025-05-3
+,Hardscape Plan,3,,,,unassigned,New Task 493,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 494,2025-05-16
+,3D Render,1,,,,unassigned,New Task 495,
+,Virtual Reality,2,,,,unassigned,New Task 496,2025-05-21
+,Schematic Design,2,,,,unassigned,New Task 497,2025-05-29
+,Schematic Design,2,,,,unassigned,New Task 498,
+,Construction Document,1,,,,unassigned,New Task 499,2025-05-16
+,Technical Specification,3,,,,unassigned,New Task 500,2025-05-17
+,Interior Layout Plan,2,,,,unassigned,New Task 501,2025-05-12
+,Technical Specification,2,,,,unassigned,New Task 502,2025-05-10
+,General Specification,1,,,,unassigned,New Task 503,2025-05-24
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 504,2025-05-28
+,Landscape Plan,2,,,,unassigned,New Task 505,
+,Hardscape Plan,2,,,,unassigned,New Task 506,2025-05-25
+,General Specification,2,,,,unassigned,New Task 507,
+,Finish Schedule,3,,,,unassigned,New Task 508,2025-05-16
+,General Specification,1,,,,unassigned,New Task 509,2025-05-27
+,Other,1,,,,unassigned,New Task 510,2025-05-30
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 511,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 512,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 513,
+,General Specification,3,,,,unassigned,New Task 514,2025-05-1
+,3D Render,1,,,,unassigned,New Task 515,2025-05-25
+,Partition Plan,1,,,,unassigned,New Task 516,2025-05-6
+,Interior Layout Plan,1,,,,unassigned,New Task 517,2025-05-26
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 518,
+,Partition Plan,3,,,,unassigned,New Task 519,
+,Construction Document,2,,,,unassigned,New Task 520,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 521,
+,General Specification,2,,,,unassigned,New Task 522,
+,Virtual Reality,1,,,,unassigned,New Task 523,
+,Door & Window Schedule,2,,,,unassigned,New Task 524,
+,3D Render,1,,,,unassigned,New Task 525,2025-05-21
+,Finish Schedule,2,,,,unassigned,New Task 526,
+,Door & Window Schedule,1,,,,unassigned,New Task 527,2025-05-11
+,Permit Drawing,1,,,,unassigned,New Task 528,
+,Furniture Layout Plan,1,,,,unassigned,New Task 529,2025-05-16
+,Furniture Layout Plan,2,,,,unassigned,New Task 530,
+,Elevation Drawing,2,,,,unassigned,New Task 531,2025-05-14
+,Roof Plan,3,,,,unassigned,New Task 532,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 533,
+,Floor Plan,1,,,,unassigned,New Task 534,
+,Landscape Plan,1,,,,unassigned,New Task 535,
+,General Specification,2,,,,unassigned,New Task 536,2025-05-12
+,Site Plan,1,,,,unassigned,New Task 537,
+,3D Model,2,,,,unassigned,New Task 538,
+,Finish Schedule,3,,,,unassigned,New Task 539,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 540,
+,General Specification,2,,,,unassigned,New Task 541,
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 542,2025-05-25
+,3D Render,1,,,,unassigned,New Task 543,2025-05-17
+,Interior Layout Plan,1,,,,unassigned,New Task 544,2025-05-20
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 545,
+,General Specification,1,,,,unassigned,New Task 546,
+,Finish Schedule,2,,,,unassigned,New Task 547,
+,Permit Drawing,2,,,,unassigned,New Task 548,2025-05-1
+,3D Render,2,,,,unassigned,New Task 549,
+,Site Plan,2,,,,unassigned,New Task 550,
+,3D Render,1,,,,unassigned,New Task 551,2025-05-28
+,Section Drawing,1,,,,unassigned,New Task 552,2025-05-8
+,Site Plan,3,,,,unassigned,New Task 553,
+,Permit Drawing,3,,,,unassigned,New Task 554,
+,Partition Plan,3,,,,unassigned,New Task 555,2025-05-19
+,Material Board,1,,,,unassigned,New Task 556,2025-05-25
+,3D Model,2,,,,unassigned,New Task 557,2025-05-17
+,Interior Layout Plan,3,,,,unassigned,New Task 558,
+,Section Drawing,3,,,,unassigned,New Task 559,2025-05-7
+,Site Plan,2,,,,unassigned,New Task 560,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 561,
+,3D Model,1,,,,unassigned,New Task 562,
+,Door & Window Schedule,1,,,,unassigned,New Task 563,2025-05-12
+,Design Development,1,,,,unassigned,New Task 564,2025-05-15
+,Section Drawing,1,,,,unassigned,New Task 565,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 566,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 567,
+,3D Model,1,,,,unassigned,New Task 568,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 569,2025-05-9
+,Site Plan,2,,,,unassigned,New Task 570,2025-05-7
+,Design Development,3,,,,unassigned,New Task 571,2025-05-24
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 572,2025-05-1
+,Door & Window Schedule,2,,,,unassigned,New Task 573,
+,Virtual Reality,2,,,,unassigned,New Task 574,2025-05-20
+,Schematic Design,1,,,,unassigned,New Task 575,2025-05-18
+,Schematic Design,1,,,,unassigned,New Task 576,
+,Elevation Drawing,3,,,,unassigned,New Task 577,
+,3D Render,1,,,,unassigned,New Task 578,
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 579,2025-05-5
+,Site Plan,1,,,,unassigned,New Task 580,2025-05-22
+,Site Plan,1,,,,unassigned,New Task 581,2025-05-18
+,Floor Plan,2,,,,unassigned,New Task 582,
+,General Specification,1,,,,unassigned,New Task 583,
+,Partition Plan,2,,,,unassigned,New Task 584,2025-05-19
+,General Specification,2,,,,unassigned,New Task 585,2025-05-9
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 586,2025-05-27
+,Roof Plan,2,,,,unassigned,New Task 587,2025-05-8
+,Material Board,2,,,,unassigned,New Task 588,2025-05-8
+,General Specification,1,,,,unassigned,New Task 589,
+,Elevation Drawing,2,,,,unassigned,New Task 590,2025-05-16
+,Floor Plan,3,,,,unassigned,New Task 591,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 592,2025-05-27
+,Other,1,,,,unassigned,New Task 593,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 594,
+,Construction Document,1,,,,unassigned,New Task 595,
+,3D Model,1,,,,unassigned,New Task 596,2025-05-2
+,Hardscape Plan,2,,,,unassigned,New Task 597,2025-05-26
+,Schematic Design,2,,,,unassigned,New Task 598,
+,Furniture Layout Plan,3,,,,unassigned,New Task 599,
+,General Specification,2,,,,unassigned,New Task 600,
+,Material Board,1,,,,unassigned,New Task 601,2025-05-11
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 602,
+,Hardscape Plan,1,,,,unassigned,New Task 603,2025-05-2
+,Partition Plan,1,,,,unassigned,New Task 604,
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 605,
+,Technical Specification,2,,,,unassigned,New Task 606,
+,General Specification,1,,,,unassigned,New Task 607,
+,Technical Specification,3,,,,unassigned,New Task 608,
+,Interior Layout Plan,1,,,,unassigned,New Task 609,2025-05-21
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 610,2025-05-9
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 611,
+,Other,3,,,,unassigned,New Task 612,2025-05-11
+,Furniture Layout Plan,1,,,,unassigned,New Task 613,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 614,2025-05-13
+,Technical Specification,2,,,,unassigned,New Task 615,2025-05-21
+,3D Model,3,,,,unassigned,New Task 616,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 617,2025-05-15
+,Other,2,,,,unassigned,New Task 618,
+,3D Render,3,,,,unassigned,New Task 619,2025-05-13
+,Design Development,1,,,,unassigned,New Task 620,2025-05-23
+,Conceptual Design,2,,,,unassigned,New Task 621,
+,Other,1,,,,unassigned,New Task 622,2025-05-7
+,Section Drawing,1,,,,unassigned,New Task 623,2025-05-10
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 624,2025-05-25
+,Roof Plan,3,,,,unassigned,New Task 625,2025-05-14
+,Conceptual Design,2,,,,unassigned,New Task 626,2025-05-11
+,Finish Schedule,1,,,,unassigned,New Task 627,2025-05-26
+,3D Model,2,,,,unassigned,New Task 628,
+,Site Plan,1,,,,unassigned,New Task 629,2025-05-8
+,Other,1,,,,unassigned,New Task 630,
+,Permit Drawing,1,,,,unassigned,New Task 631,2025-05-30
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 632,2025-05-26
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 633,2025-05-13
+,Other,3,,,,unassigned,New Task 634,
+,Door & Window Schedule,1,,,,unassigned,New Task 635,2025-05-9
+,Permit Drawing,2,,,,unassigned,New Task 636,2025-05-8
+,3D Render,2,,,,unassigned,New Task 637,
+,Material Board,2,,,,unassigned,New Task 638,
+,Hardscape Plan,1,,,,unassigned,New Task 639,
+,Construction Document,1,,,,unassigned,New Task 640,
+,Virtual Reality,1,,,,unassigned,New Task 641,2025-05-29
+,3D Model,1,,,,unassigned,New Task 642,2025-05-27
+,Landscape Plan,2,,,,unassigned,New Task 643,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 644,2025-05-20
+,Design Development,2,,,,unassigned,New Task 645,2025-05-1
+,3D Render,1,,,,unassigned,New Task 646,2025-05-30
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 647,2025-05-24
+,Permit Drawing,3,,,,unassigned,New Task 648,2025-05-19
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 649,2025-05-10
+,Section Drawing,1,,,,unassigned,New Task 650,
+,Interior Layout Plan,2,,,,unassigned,New Task 651,2025-05-24
+,Construction Document,3,,,,unassigned,New Task 652,2025-05-7
+,Landscape Plan,2,,,,unassigned,New Task 653,
+,Construction Document,2,,,,unassigned,New Task 654,2025-05-25
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 655,2025-05-4
+,Interior Layout Plan,3,,,,unassigned,New Task 656,2025-05-5
+,Landscape Plan,3,,,,unassigned,New Task 657,2025-05-13
+,Elevation Drawing,2,,,,unassigned,New Task 658,2025-05-29
+,General Specification,2,,,,unassigned,New Task 659,
+,Finish Schedule,1,,,,unassigned,New Task 660,2025-05-27
+,Section Drawing,2,,,,unassigned,New Task 661,2025-05-5
+,Interior Layout Plan,1,,,,unassigned,New Task 662,
+,Floor Plan,1,,,,unassigned,New Task 663,
+,3D Render,1,,,,unassigned,New Task 664,
+,Landscape Plan,3,,,,unassigned,New Task 665,2025-05-27
+,Furniture Layout Plan,3,,,,unassigned,New Task 666,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 667,
+,Elevation Drawing,3,,,,unassigned,New Task 668,
+,Door & Window Schedule,2,,,,unassigned,New Task 669,
+,Material Board,1,,,,unassigned,New Task 670,
+,Virtual Reality,3,,,,unassigned,New Task 671,2025-05-4
+,Construction Document,3,,,,unassigned,New Task 672,2025-05-7
+,Door & Window Schedule,1,,,,unassigned,New Task 673,
+,Conceptual Design,3,,,,unassigned,New Task 674,2025-05-23
+,Roof Plan,2,,,,unassigned,New Task 675,
+,Door & Window Schedule,2,,,,unassigned,New Task 676,2025-05-20
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 677,2025-05-5
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 678,2025-05-5
+,Elevation Drawing,1,,,,unassigned,New Task 679,2025-05-23
+,Roof Plan,2,,,,unassigned,New Task 680,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 681,2025-05-5
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 682,
+,Elevation Drawing,2,,,,unassigned,New Task 683,2025-05-7
+,Conceptual Design,3,,,,unassigned,New Task 684,2025-05-26
+,Material Board,1,,,,unassigned,New Task 685,
+,Section Drawing,3,,,,unassigned,New Task 686,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 687,2025-05-9
+,Floor Plan,2,,,,unassigned,New Task 688,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 689,2025-05-12
+,Roof Plan,2,,,,unassigned,New Task 690,
+,Partition Plan,2,,,,unassigned,New Task 691,
+,Site Plan,1,,,,unassigned,New Task 692,
+,Hardscape Plan,3,,,,unassigned,New Task 693,
+,Section Drawing,3,,,,unassigned,New Task 694,2025-05-24
+,3D Model,2,,,,unassigned,New Task 695,2025-05-19
+,Virtual Reality,1,,,,unassigned,New Task 696,2025-05-7
+,Floor Plan,3,,,,unassigned,New Task 697,
+,Site Plan,2,,,,unassigned,New Task 698,
+,Elevation Drawing,2,,,,unassigned,New Task 699,2025-05-29
+,Door & Window Schedule,3,,,,unassigned,New Task 700,2025-05-22
+,Door & Window Schedule,2,,,,unassigned,New Task 701,2025-05-12
+,Conceptual Design,1,,,,unassigned,New Task 702,2025-05-13
+,Section Drawing,2,,,,unassigned,New Task 703,2025-05-28
+,Floor Plan,1,,,,unassigned,New Task 704,2025-05-26
+,Door & Window Schedule,2,,,,unassigned,New Task 705,2025-05-22
+,Hardscape Plan,2,,,,unassigned,New Task 706,
+,Virtual Reality,3,,,,unassigned,New Task 707,
+,Construction Document,2,,,,unassigned,New Task 708,
+,Permit Drawing,2,,,,unassigned,New Task 709,
+,Partition Plan,2,,,,unassigned,New Task 710,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 711,2025-05-11
+,Door & Window Schedule,1,,,,unassigned,New Task 712,
+,Design Development,2,,,,unassigned,New Task 713,2025-05-8
+,Material Board,2,,,,unassigned,New Task 714,2025-05-26
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 715,2025-05-22
+,Site Plan,2,,,,unassigned,New Task 716,2025-05-8
+,Conceptual Design,3,,,,unassigned,New Task 717,
+,General Specification,3,,,,unassigned,New Task 718,2025-05-22
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 719,2025-05-9
+,Virtual Reality,2,,,,unassigned,New Task 720,
+,Furniture Layout Plan,2,,,,unassigned,New Task 721,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 722,2025-05-20
+,Furniture Layout Plan,3,,,,unassigned,New Task 723,2025-05-13
+,Roof Plan,2,,,,unassigned,New Task 724,
+,Section Drawing,2,,,,unassigned,New Task 725,
+,Door & Window Schedule,2,,,,unassigned,New Task 726,
+,Interior Layout Plan,1,,,,unassigned,New Task 727,2025-05-17
+,Elevation Drawing,3,,,,unassigned,New Task 728,
+,Technical Specification,2,,,,unassigned,New Task 729,2025-05-8
+,Interior Layout Plan,3,,,,unassigned,New Task 730,2025-05-3
+,Conceptual Design,2,,,,unassigned,New Task 731,
+,Roof Plan,1,,,,unassigned,New Task 732,
+,Other,2,,,,unassigned,New Task 733,
+,Floor Plan,3,,,,unassigned,New Task 734,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 735,
+,Site Plan,3,,,,unassigned,New Task 736,2025-05-9
+,Conceptual Design,1,,,,unassigned,New Task 737,2025-05-1
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 738,
+,Construction Document,3,,,,unassigned,New Task 739,
+,Door & Window Schedule,2,,,,unassigned,New Task 740,2025-05-4
+,Partition Plan,2,,,,unassigned,New Task 741,
+,Site Plan,3,,,,unassigned,New Task 742,2025-05-28
+,Site Plan,2,,,,unassigned,New Task 743,2025-05-17
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 744,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 745,
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 746,
+,Interior Layout Plan,2,,,,unassigned,New Task 747,2025-05-26
+,Section Drawing,3,,,,unassigned,New Task 748,
+,Conceptual Design,3,,,,unassigned,New Task 749,2025-05-18
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 750,2025-05-2
+,Door & Window Schedule,2,,,,unassigned,New Task 751,2025-05-2
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 752,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 753,
+,Other,2,,,,unassigned,New Task 754,2025-05-19
+,Technical Specification,1,,,,unassigned,New Task 755,
+,Design Development,3,,,,unassigned,New Task 756,
+,Site Plan,1,,,,unassigned,New Task 757,
+,Elevation Drawing,3,,,,unassigned,New Task 758,2025-05-28
+,Permit Drawing,2,,,,unassigned,New Task 759,
+,Design Development,3,,,,unassigned,New Task 760,2025-05-5
+,Landscape Plan,1,,,,unassigned,New Task 761,2025-05-4
+,3D Render,1,,,,unassigned,New Task 762,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 763,2025-05-9
+,Virtual Reality,2,,,,unassigned,New Task 764,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 765,
+,Finish Schedule,2,,,,unassigned,New Task 766,
+,Site Plan,1,,,,unassigned,New Task 767,2025-05-2
+,Elevation Drawing,3,,,,unassigned,New Task 768,2025-05-9
+,Design Development,2,,,,unassigned,New Task 769,2025-05-26
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 770,2025-05-4
+,Other,2,,,,unassigned,New Task 771,
+,Roof Plan,3,,,,unassigned,New Task 772,
+,Partition Plan,1,,,,unassigned,New Task 773,
+,Virtual Reality,3,,,,unassigned,New Task 774,
+,Landscape Plan,2,,,,unassigned,New Task 775,2025-05-21
+,Other,2,,,,unassigned,New Task 776,
+,3D Model,2,,,,unassigned,New Task 777,2025-05-27
+,Design Development,1,,,,unassigned,New Task 778,2025-05-10
+,Roof Plan,3,,,,unassigned,New Task 779,2025-05-28
+,Permit Drawing,2,,,,unassigned,New Task 780,2025-05-16
+,Permit Drawing,2,,,,unassigned,New Task 781,
+,Elevation Drawing,3,,,,unassigned,New Task 782,
+,Other,2,,,,unassigned,New Task 783,
+,3D Model,3,,,,unassigned,New Task 784,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 785,2025-05-11
+,Door & Window Schedule,1,,,,unassigned,New Task 786,
+,3D Model,1,,,,unassigned,New Task 787,
+,Site Plan,3,,,,unassigned,New Task 788,
+,Design Development,1,,,,unassigned,New Task 789,
+,Conceptual Design,3,,,,unassigned,New Task 790,
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 791,2025-05-26
+,Furniture Layout Plan,1,,,,unassigned,New Task 792,
+,Permit Drawing,2,,,,unassigned,New Task 793,2025-05-1
+,Conceptual Design,2,,,,unassigned,New Task 794,
+,Conceptual Design,1,,,,unassigned,New Task 795,2025-05-5
+,Door & Window Schedule,1,,,,unassigned,New Task 796,
+,3D Model,3,,,,unassigned,New Task 797,
+,Technical Specification,1,,,,unassigned,New Task 798,2025-05-16
+,Schematic Design,1,,,,unassigned,New Task 799,2025-05-13
+,Door & Window Schedule,1,,,,unassigned,New Task 800,2025-05-1
+,Interior Layout Plan,1,,,,unassigned,New Task 801,2025-05-22
+,Design Development,3,,,,unassigned,New Task 802,
+,Landscape Plan,2,,,,unassigned,New Task 803,2025-05-13
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 804,
+,Partition Plan,1,,,,unassigned,New Task 805,
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 806,2025-05-23
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 807,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 808,
+,Design Development,2,,,,unassigned,New Task 809,
+,Schematic Design,2,,,,unassigned,New Task 810,
+,General Specification,2,,,,unassigned,New Task 811,2025-05-2
+,Roof Plan,1,,,,unassigned,New Task 812,
+,Floor Plan,1,,,,unassigned,New Task 813,2025-05-21
+,Furniture Layout Plan,3,,,,unassigned,New Task 814,2025-05-14
+,Schematic Design,1,,,,unassigned,New Task 815,2025-05-18
+,Material Board,2,,,,unassigned,New Task 816,2025-05-2
+,Virtual Reality,1,,,,unassigned,New Task 817,2025-05-25
+,Schematic Design,1,,,,unassigned,New Task 818,2025-05-11
+,Roof Plan,2,,,,unassigned,New Task 819,2025-05-22
+,Permit Drawing,3,,,,unassigned,New Task 820,2025-05-1
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 821,
+,Hardscape Plan,2,,,,unassigned,New Task 822,2025-05-15
+,Material Board,1,,,,unassigned,New Task 823,2025-05-10
+,Interior Layout Plan,1,,,,unassigned,New Task 824,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 825,
+,Door & Window Schedule,2,,,,unassigned,New Task 826,2025-05-8
+,Elevation Drawing,2,,,,unassigned,New Task 827,2025-05-1
+,Section Drawing,3,,,,unassigned,New Task 828,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 829,
+,Site Plan,2,,,,unassigned,New Task 830,
+,General Specification,1,,,,unassigned,New Task 831,
+,Site Plan,3,,,,unassigned,New Task 832,
+,Site Plan,1,,,,unassigned,New Task 833,
+,Floor Plan,1,,,,unassigned,New Task 834,2025-05-21
+,General Specification,1,,,,unassigned,New Task 835,2025-05-11
+,Material Board,2,,,,unassigned,New Task 836,
+,Virtual Reality,3,,,,unassigned,New Task 837,
+,Section Drawing,3,,,,unassigned,New Task 838,2025-05-23
+,Finish Schedule,2,,,,unassigned,New Task 839,2025-05-30
+,Reflected Ceiling Plan,1,,,,unassigned,New Task 840,
+,Conceptual Design,3,,,,unassigned,New Task 841,2025-05-23
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 842,
+,Elevation Drawing,1,,,,unassigned,New Task 843,
+,Lighting & Fixture Plan,3,,,,unassigned,New Task 844,2025-05-25
+,Partition Plan,1,,,,unassigned,New Task 845,
+,Other,2,,,,unassigned,New Task 846,
+,Partition Plan,3,,,,unassigned,New Task 847,
+,Finish Schedule,2,,,,unassigned,New Task 848,2025-05-12
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 849,
+,General Specification,2,,,,unassigned,New Task 850,2025-05-7
+,Design Development,2,,,,unassigned,New Task 851,
+,Hardscape Plan,3,,,,unassigned,New Task 852,
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 853,2025-05-11
+,Finish Schedule,2,,,,unassigned,New Task 854,
+,General Specification,3,,,,unassigned,New Task 855,
+,Finish Schedule,1,,,,unassigned,New Task 856,2025-05-6
+,Schematic Design,3,,,,unassigned,New Task 857,
+,Roof Plan,3,,,,unassigned,New Task 858,
+,Landscape Plan,1,,,,unassigned,New Task 859,
+,Elevation Drawing,2,,,,unassigned,New Task 860,2025-05-26
+,3D Model,3,,,,unassigned,New Task 861,
+,Reflected Ceiling Plan,2,,,,unassigned,New Task 862,
+,Roof Plan,1,,,,unassigned,New Task 863,2025-05-26
+,Interior Layout Plan,1,,,,unassigned,New Task 864,2025-05-27
+,Door & Window Schedule,2,,,,unassigned,New Task 865,2025-05-2
+,Floor Plan,1,,,,unassigned,New Task 866,
+,Floor Plan,3,,,,unassigned,New Task 867,
+,Elevation Drawing,2,,,,unassigned,New Task 868,2025-05-16
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 869,
+,Schematic Design,2,,,,unassigned,New Task 870,2025-05-26
+,Conceptual Design,2,,,,unassigned,New Task 871,
+,Door & Window Schedule,2,,,,unassigned,New Task 872,2025-05-25
+,Floor Plan,1,,,,unassigned,New Task 873,
+,Partition Plan,2,,,,unassigned,New Task 874,2025-05-27
+,Finish Schedule,2,,,,unassigned,New Task 875,2025-05-24
+,Conceptual Design,3,,,,unassigned,New Task 876,2025-05-22
+,Technical Specification,2,,,,unassigned,New Task 877,2025-05-10
+,Partition Plan,2,,,,unassigned,New Task 878,2025-05-27
+,Furniture Layout Plan,1,,,,unassigned,New Task 879,2025-05-11
+,Hardscape Plan,3,,,,unassigned,New Task 880,
+,Schematic Design,1,,,,unassigned,New Task 881,
+,Partition Plan,2,,,,unassigned,New Task 882,
+,Permit Drawing,3,,,,unassigned,New Task 883,2025-05-27
+,3D Model,1,,,,unassigned,New Task 884,2025-05-25
+,Construction Document,1,,,,unassigned,New Task 885,2025-05-4
+,Section Drawing,3,,,,unassigned,New Task 886,2025-05-17
+,Design Development,3,,,,unassigned,New Task 887,2025-05-3
+,Interior Layout Plan,2,,,,unassigned,New Task 888,2025-05-17
+,Technical Specification,3,,,,unassigned,New Task 889,
+,Door & Window Schedule,3,,,,unassigned,New Task 890,
+,Roof Plan,1,,,,unassigned,New Task 891,
+,Material Board,1,,,,unassigned,New Task 892,
+,Conceptual Design,2,,,,unassigned,New Task 893,2025-05-27
+,Roof Plan,3,,,,unassigned,New Task 894,
+,Conceptual Design,1,,,,unassigned,New Task 895,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 896,
+,Finish Schedule,1,,,,unassigned,New Task 897,2025-05-1
+,Zoning & Building Code Compliance,3,,,,unassigned,New Task 898,
+,Construction Document,3,,,,unassigned,New Task 899,
+,Landscape Plan,3,,,,unassigned,New Task 900,
+,Partition Plan,1,,,,unassigned,New Task 901,
+,Floor Plan,2,,,,unassigned,New Task 902,2025-05-15
+,Partition Plan,3,,,,unassigned,New Task 903,
+,Partition Plan,2,,,,unassigned,New Task 904,2025-05-17
+,Section Drawing,2,,,,unassigned,New Task 905,
+,Finish Schedule,3,,,,unassigned,New Task 906,2025-05-4
+,Floor Plan,3,,,,unassigned,New Task 907,2025-05-29
+,Section Drawing,2,,,,unassigned,New Task 908,2025-05-25
+,Hardscape Plan,1,,,,unassigned,New Task 909,
+,Zoning & Building Code Compliance,2,,,,unassigned,New Task 910,
+,Design Development,3,,,,unassigned,New Task 911,
+,Furniture Layout Plan,1,,,,unassigned,New Task 912,2025-05-4
+,Site Plan,3,,,,unassigned,New Task 913,2025-05-1
+,Furniture Layout Plan,1,,,,unassigned,New Task 914,
+,Landscape Plan,2,,,,unassigned,New Task 915,2025-05-25
+,Landscape Plan,1,,,,unassigned,New Task 916,
+,3D Render,3,,,,unassigned,New Task 917,2025-05-27
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 918,2025-05-30
+,Finish Schedule,2,,,,unassigned,New Task 919,2025-05-5
+,Material Board,1,,,,unassigned,New Task 920,2025-05-8
+,Finish Schedule,3,,,,unassigned,New Task 921,
+,Partition Plan,2,,,,unassigned,New Task 922,2025-05-19
+,Elevation Drawing,2,,,,unassigned,New Task 923,
+,Design Development,2,,,,unassigned,New Task 924,2025-05-18
+,Conceptual Design,1,,,,unassigned,New Task 925,
+,Partition Plan,2,,,,unassigned,New Task 926,
+,Furniture Layout Plan,2,,,,unassigned,New Task 927,2025-05-24
+,Landscape Plan,3,,,,unassigned,New Task 928,2025-05-30
+,Interior Layout Plan,3,,,,unassigned,New Task 929,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 930,
+,Elevation Drawing,2,,,,unassigned,New Task 931,2025-05-3
+,General Specification,2,,,,unassigned,New Task 932,2025-05-22
+,Lighting & Fixture Plan,1,,,,unassigned,New Task 933,
+,Site Plan,3,,,,unassigned,New Task 934,
+,Door & Window Schedule,1,,,,unassigned,New Task 935,
+,Door & Window Schedule,3,,,,unassigned,New Task 936,
+,Roof Plan,2,,,,unassigned,New Task 937,2025-05-17
+,Door & Window Schedule,1,,,,unassigned,New Task 938,
+,Elevation Drawing,1,,,,unassigned,New Task 939,2025-05-14
+,Landscape Plan,3,,,,unassigned,New Task 940,2025-05-30
+,Reflected Ceiling Plan,3,,,,unassigned,New Task 941,2025-05-21
+,Construction Document,1,,,,unassigned,New Task 942,2025-05-28
+,Door & Window Schedule,2,,,,unassigned,New Task 943,2025-05-1
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 944,
+,Roof Plan,3,,,,unassigned,New Task 945,
+,Design Development,1,,,,unassigned,New Task 946,2025-05-10
+,Conceptual Design,2,,,,unassigned,New Task 947,
+,Other,1,,,,unassigned,New Task 948,
+,3D Render,3,,,,unassigned,New Task 949,
+,Other,2,,,,unassigned,New Task 950,2025-05-30
+,Door & Window Schedule,3,,,,unassigned,New Task 951,2025-05-10
+,Technical Specification,2,,,,unassigned,New Task 952,
+,Conceptual Design,3,,,,unassigned,New Task 953,2025-05-14
+,Partition Plan,1,,,,unassigned,New Task 954,2025-05-12
+,3D Model,2,,,,unassigned,New Task 955,
+,Floor Plan,3,,,,unassigned,New Task 956,
+,Hardscape Plan,3,,,,unassigned,New Task 957,
+,Conceptual Design,1,,,,unassigned,New Task 958,
+,Floor Plan,2,,,,unassigned,New Task 959,
+,Virtual Reality,2,,,,unassigned,New Task 960,
+,Lighting & Fixture Plan,2,,,,unassigned,New Task 961,
+,Floor Plan,3,,,,unassigned,New Task 962,2025-05-4
+,Elevation Drawing,2,,,,unassigned,New Task 963,2025-05-6
+,Floor Plan,2,,,,unassigned,New Task 964,
+,Door & Window Schedule,1,,,,unassigned,New Task 965,2025-05-5
+,Landscape Plan,1,,,,unassigned,New Task 966,2025-05-9
+,Furniture Layout Plan,1,,,,unassigned,New Task 967,2025-05-24
+,Custom Millwork & Joinery Drawing,1,,,,unassigned,New Task 968,2025-05-22
+,Landscape Plan,1,,,,unassigned,New Task 969,2025-05-18
+,Custom Millwork & Joinery Drawing,2,,,,unassigned,New Task 970,
+,Partition Plan,3,,,,unassigned,New Task 971,
+,General Specification,3,,,,unassigned,New Task 972,2025-05-15
+,General Specification,3,,,,unassigned,New Task 973,
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 974,2025-05-25
+,Conceptual Design,1,,,,unassigned,New Task 975,
+,Partition Plan,3,,,,unassigned,New Task 976,
+,General Specification,2,,,,unassigned,New Task 977,
+,Floor Plan,3,,,,unassigned,New Task 978,2025-05-19
+,Schematic Design,1,,,,unassigned,New Task 979,
+,Construction Document,2,,,,unassigned,New Task 980,2025-05-15
+,Elevation Drawing,1,,,,unassigned,New Task 981,
+,Schematic Design,3,,,,unassigned,New Task 982,2025-05-20
+,Technical Specification,2,,,,unassigned,New Task 983,2025-05-3
+,Finish Schedule,1,,,,unassigned,New Task 984,2025-05-16
+,Site Plan,3,,,,unassigned,New Task 985,2025-05-3
+,Construction Document,2,,,,unassigned,New Task 986,2025-05-18
+,Furniture Layout Plan,3,,,,unassigned,New Task 987,
+,Design Development,1,,,,unassigned,New Task 988,2025-05-7
+,Construction Document,1,,,,unassigned,New Task 989,2025-05-13
+,Zoning & Building Code Compliance,1,,,,unassigned,New Task 990,
+,Roof Plan,2,,,,unassigned,New Task 991,2025-05-20
+,Construction Document,1,,,,unassigned,New Task 992,
+,Roof Plan,2,,,,unassigned,New Task 993,2025-05-19
+,Custom Millwork & Joinery Drawing,3,,,,unassigned,New Task 994,2025-05-29
+,Permit Drawing,3,,,,unassigned,New Task 995,
+,Section Drawing,3,,,,unassigned,New Task 996,
+,Landscape Plan,1,,,,unassigned,New Task 997,2025-05-8
+,Elevation Drawing,1,,,,unassigned,New Task 998,2025-05-21
+,Furniture Layout Plan,3,,,,unassigned,New Task 999,2025-05-11
+,Elevation Drawing,2,,,,unassigned,New Task 1000,
