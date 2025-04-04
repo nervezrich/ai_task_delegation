@@ -1,72 +1,53 @@
 import pandas as pd
-from db.database import load_csv, save_csv
+from db.database import save_csv
 from db.queries import fetch_successful_tasks, fetch_unassigned_tasks
-from sklearn.metrics.pairwise import cosine_similarity
+from .feature_processing import compute_similarity  # Importing the function
 
-def assign_task(new_tasks):
-    """Assign one or multiple tasks to the best-matching users based on past successful tasks."""
-    
-    # Fetch past successful tasks (only with quality_score ≥ 8)
+def assign_task(requested_tasks):
+    """Assign only the tasks selected in the frontend to the best-matching users based on past successful tasks."""
+
+    # Fetch past successful tasks (prioritize quality_score ≥ 8)
     past_tasks = fetch_successful_tasks()
     if past_tasks.empty:  
         return {"message": "No past tasks available for comparison."}
-    
+
+    # Sort past tasks by quality score distance from 8 (higher scores are prioritized)
+    past_tasks["score_distance"] = abs(past_tasks["quality_score"] - 8)
+    past_tasks = past_tasks.sort_values(by=["score_distance"])
     past_tasks = past_tasks.to_dict(orient="records")
 
-    # Fetch all unassigned tasks from tasks.csv
-    all_unassigned_tasks = fetch_unassigned_tasks()  # Returns list of dicts
+    # Fetch all unassigned tasks (to validate if the selected tasks exist)
+    all_unassigned_tasks = fetch_unassigned_tasks()
+    
+    # Convert all unassigned tasks to a dictionary for fast lookup
+    unassigned_tasks_dict = {task["task_id"]: task for task in all_unassigned_tasks}
 
-    # Validate requested task IDs
-    valid_task_ids = {task["task_id"] for task in all_unassigned_tasks}
+    # Validate requested tasks (only allow tasks that exist in the unassigned list)
+    valid_tasks = [task for task in requested_tasks if task["task_id"] in unassigned_tasks_dict]
 
-    # If only one task is given, wrap it in a list
-    if isinstance(new_tasks, dict):  
-        new_tasks = [new_tasks]
-
-    # Filter out invalid task IDs
-    valid_tasks = [task for task in new_tasks if task["task_id"] in valid_task_ids]
     if not valid_tasks:
         return {"message": "No valid tasks found for assignment."}
 
-    # Convert task attributes into numerical format
-    type_task_mapping = {task: i for i, task in enumerate(set(task["type_of_task"] for task in past_tasks))}
-    priority_mapping = {"low": 0, "neutral": 1, "high": 2}
-
-    past_task_vectors = [
-        [type_task_mapping[task["type_of_task"]], priority_mapping[task["priority_level"].lower()]]
-        for task in past_tasks
-        if task["type_of_task"] in type_task_mapping and task["priority_level"].lower() in priority_mapping
-    ]
-
+    # Prepare past task data for similarity computation
+    past_task_data = [{"type_of_task": task["type_of_task"], "priority_level": task["priority_level"]} for task in past_tasks]
+    
+    # Extract user IDs for tracking task ownership
     user_ids = [task["user_id"] for task in past_tasks]
-
-    if not past_task_vectors:
-        return {"message": "No valid past tasks found for similarity comparison."}
 
     assigned_results = []
     for task in valid_tasks:
-        # Convert the new task into a vector
-        new_task_vector = [
-            type_task_mapping.get(task["type_of_task"], -1),
-            priority_mapping.get(task["priority_level"].lower(), -1)
-        ]
-
-        if -1 in new_task_vector:
-            assigned_results.append({
-                "task_id": task["task_id"],
-                "message": "Invalid task attributes, cannot match."
-            })
-            continue
-
-        # Compute cosine similarity
-        similarities = cosine_similarity([new_task_vector], past_task_vectors)[0]
-
-        # Assign to the best match or closest match if no perfect similarity
-        if max(similarities) > 0:
-            best_match_index = similarities.argmax()
-            best_user = user_ids[best_match_index] 
-        else:
-            best_user = user_ids[similarities.argmax()]  # Closest match (fallback)
+        # Compute similarity using the function from feature_processing
+        similarities = compute_similarity(
+            {"type_of_task": task["type_of_task"], "priority_level": task["priority_level"]},
+            past_task_data
+        )[0]
+        
+        # Ensure similarities is a 1D array
+        similarities = similarities.flatten()  # Convert matrix to 1D array
+        
+        # Assign to the best match
+        best_match_index = similarities.argmax()
+        best_user = user_ids[best_match_index]
 
         # Log the assignment into task history
         task_record = {
@@ -80,6 +61,7 @@ def assign_task(new_tasks):
             "due_date": task["due_date"]
         }
 
+        # Load existing task history, append new record, and save
         df = pd.read_csv("data/task_history.csv")
         df = df._append(task_record, ignore_index=True)
         save_csv(df, "data/task_history.csv")
@@ -87,7 +69,7 @@ def assign_task(new_tasks):
         assigned_results.append({
             "task_id": task["task_id"],
             "assigned_user": best_user,
-            "similarity_score": float(similarities[similarities.argmax()])
+            "similarity_score": float(similarities[best_match_index])
         })
 
     return {"assignments": assigned_results}
