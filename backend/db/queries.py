@@ -24,15 +24,15 @@ import pandas as pd
 from .database import load_csv, save_csv
 
 def fetch_successful_tasks():
-    """ Fetch past successful tasks (quality_score ≥ 8) from CSV """
-    df = load_csv("data/task_history.csv")
-    if df is not None:
-        return df[df["quality_score"] >= 8.00][["user_id", "quality_score", "type_of_task", "priority_level"]]
-    return pd.DataFrame(columns=["user_id", "quality_score", "type_of_task", "priority_level"])
+    """ Fetch past successful tasks (quality_score ≥ 0.8) from CSV """
+    df = load_csv("data/th.csv")
+    # if df is not None:
+    #     return df[df["quality_score"] >= 0.80][["user_id", "quality_score", "type_of_task", "priority_level"]]
+    return df.to_dict(orient="records")
 
 def fetch_past_tasks():
     """ Fetch all users from CSV """
-    df = load_csv("data/task_history.csv")
+    df = load_csv("data/th.csv")
     return df.to_dict(orient="records") if df is not None else []
 
 def fetch_unassigned_tasks():
@@ -43,7 +43,7 @@ def fetch_unassigned_tasks():
 
     # Load task_history.csv (contains already assigned tasks)
     try:
-        task_history_df = pd.read_csv("data/task_history.csv")
+        task_history_df = pd.read_csv("data/th.csv")
     except FileNotFoundError:
         task_history_df = pd.DataFrame(columns=["task_id"])  # Create an empty dataframe if file doesn't exist
 
@@ -57,14 +57,14 @@ def fetch_unassigned_tasks():
 
 def fetch_users_tasks():
     """ Fetch all users from CSV """
-    df = load_csv("data/task_history.csv")
+    df = load_csv("data/th.csv")
     return df.to_dict(orient="records") if df is not None else []
 
 def update_task_score(user_id, task_id, score):
     """ Update task quality score after task completion """
-    df = pd.read_csv("data/task_history.csv")
+    df = pd.read_csv("data/th.csv")
     df.loc[(df["user_id"] == user_id) & (df["task_id"] == task_id), "quality_score"] = score
-    save_csv(df, "data/task_history.csv")
+    save_csv(df, "data/th.csv")
     return {"message": "Task quality score updated."}
 
 

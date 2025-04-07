@@ -36,18 +36,18 @@ task_templates = [
 
 priority_levels = ["Low", "Neutral", "High"]
 
-# Generate tasks.csv (400 tasks)
-tasks_data = []
-for _ in range(400):
-    task_id = str(uuid.uuid4())
-    title, description = random.choice(task_templates)
-    type_of_task = random.choice(task_types)
-    priority_level = random.choice(priority_levels)
-    due_date = (datetime.now() + timedelta(days=random.randint(1, 30))).strftime("%Y-%m-%d")
+# # Generate tasks.csv (400 tasks)
+# tasks_data = []
+# for _ in range(400):
+#     task_id = str(uuid.uuid4())
+#     title, description = random.choice(task_templates)
+#     type_of_task = random.choice(task_types)
+#     priority_level = random.choice(priority_levels)
+#     due_date = (datetime.now() + timedelta(days=random.randint(1, 30))).strftime("%Y-%m-%d")
 
-    tasks_data.append([task_id, title, description, type_of_task, priority_level, due_date])
+#     tasks_data.append([task_id, title, description, type_of_task, priority_level, due_date])
 
-tasks_df = pd.DataFrame(tasks_data, columns=["task_id", "title", "description", "type_of_task", "priority_level", "due_date"])
+# tasks_df = pd.DataFrame(tasks_data, columns=["task_id", "title", "description", "type_of_task", "priority_level", "due_date"])
 
 # Generate tasks_history.csv (400 completed tasks from 10 users)
 users = [str(uuid.uuid4()) for _ in range(10)]
@@ -55,29 +55,49 @@ user_names = [f"User {_+1}" for _ in range(10)]
 
 # Sample completed tasks from tasks_df
 tasks_history_data = []
-sampled_tasks = tasks_df.sample(n=400, replace=False).copy()  # Ensure no duplication
+# sampled_tasks = tasks_df.sample(n=400, replace=False).copy()  # Ensure no duplication
 
-for index, row in sampled_tasks.iterrows():
+# for index, row in sampled_tasks.iterrows():
+#     user_index = random.randint(0, 9)
+#     user_id = users[user_index]
+#     name = user_names[user_index]
+#     quality_score = round(random.uniform(0.6, 1.00), 2)  # Higher quality scores to reflect skilled users
+    
+#     # Add user details to the task history
+#     tasks_history_data.append([
+#         user_id, name, quality_score, 
+#         row["task_id"]
+#     ])
+
+# tasks_history_df = pd.DataFrame(tasks_history_data, columns=[
+#     "user_id", "name", "quality_score", "task_id"
+# ])
+
+
+th_data = []
+for _ in range(400):
     user_index = random.randint(0, 9)
     user_id = users[user_index]
     name = user_names[user_index]
-    quality_score = round(random.uniform(0.6, 1.00), 2)  # Higher quality scores to reflect skilled users
-    
-    # Add user details to the task history
-    tasks_history_data.append([
-        user_id, name, quality_score, 
-        row["task_id"]
-    ])
+    quality_score = round(random.uniform(0.6, 1.00), 2) 
+    task_id = str(uuid.uuid4())
+    title, description = random.choice(task_templates)
+    type_of_task = random.choice(task_types)
+    priority_level = random.choice(priority_levels)
+    due_date = (datetime.now() + timedelta(days=random.randint(1, 30))).strftime("%Y-%m-%d")
 
-tasks_history_df = pd.DataFrame(tasks_history_data, columns=[
-    "user_id", "name", "quality_score", "task_id"
-])
+    th_data.append([user_id, name, quality_score, task_id, title, description, type_of_task, priority_level, due_date])
+
+tasks_history_df = pd.DataFrame(th_data, columns=["user_id", "name", "quality_score", "task_id", "title", "description", "type_of_task", "priority_level", "due_date"])
 
 # Save files
 tasks_file_path = "data/tasks.csv"
-tasks_history_file_path = "data/tasks_history.csv"
+tasks_history_file_path = "data/task_history.csv"
+th_file_path = "data/th.csv"
 
-tasks_df.to_csv(tasks_file_path, index=False)
-tasks_history_df.to_csv(tasks_history_file_path, index=False)
+# tasks_df.to_csv(tasks_file_path, index=False)
+# tasks_history_df.to_csv(tasks_history_file_path, index=False)
+tasks_history_df.to_csv(th_file_path, index=False)
 
-tasks_file_path, tasks_history_file_path
+# tasks_file_path, tasks_history_file_path
+th_file_path

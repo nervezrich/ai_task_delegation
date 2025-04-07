@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from models.cbf_model import assign_task
 from db.queries import save_csv, fetch_unassigned_tasks, fetch_users_tasks
+from models.cbf_model import assign_task
 from ai.train import retrain_model
 import pandas as pd
 
@@ -78,7 +78,7 @@ class UpdateScoreRequest(BaseModel):
 @router.post("/update_quality_score")
 def update_quality_score(request: UpdateScoreRequest):
     """ Update the quality score of a user's past task """
-    file_path = "data/task_history.csv"
+    file_path = "data/th.csv"
     
     try:
         df = pd.read_csv(file_path)

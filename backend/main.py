@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
-from api.endpoints import router
+from api.endpoint import router
 
 app = FastAPI()
 

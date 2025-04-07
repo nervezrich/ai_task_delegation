@@ -12,7 +12,7 @@ def assign_task(requested_tasks):
         return {"message": "No past tasks available for comparison."}
 
     # Sort past tasks by quality score distance from 8 (higher scores are prioritized)
-    past_tasks["score_distance"] = abs(past_tasks["quality_score"] - 8)
+    past_tasks["score_distance"] = abs(past_tasks["quality_score"] - 0.8)
     past_tasks = past_tasks.sort_values(by=["score_distance"])
     past_tasks = past_tasks.to_dict(orient="records")
 
@@ -62,9 +62,9 @@ def assign_task(requested_tasks):
         }
 
         # Load existing task history, append new record, and save
-        df = pd.read_csv("data/task_history.csv")
+        df = pd.read_csv("data/th.csv")
         df = df._append(task_record, ignore_index=True)
-        save_csv(df, "data/task_history.csv")
+        save_csv(df, "data/th.csv")
 
         assigned_results.append({
             "task_id": task["task_id"],
@@ -73,3 +73,7 @@ def assign_task(requested_tasks):
         })
 
     return {"assignments": assigned_results}
+
+
+
+
