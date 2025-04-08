@@ -48,8 +48,8 @@ def assign_tasks_endpoint(requested_tasks: list[dict]):
             invalid_tasks.append(task_id)  # Task ID not found
 
     # # If there are no valid tasks to assign, return an error
-    # if not valid_tasks:
-    #     raise HTTPException(status_code=400, detail="No valid tasks found for assignment.")
+    if not valid_tasks:
+        raise HTTPException(status_code=400, detail="No valid tasks found for assignment.")
 
     # Assign only valid tasks
     assigned_tasks = assign_task(valid_tasks)

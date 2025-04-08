@@ -1,13 +1,13 @@
 import pandas as pd
 from db.database import save_csv
-from db.queries import fetch_successful_tasks, fetch_unassigned_tasks
+from db.queries import fetch_users_tasks, fetch_unassigned_tasks
 from .feature_processing import compute_similarity  # Importing the function
 
 def assign_task(requested_tasks):
     """Assign only the tasks selected in the frontend to the best-matching users based on past successful tasks."""
 
     # Fetch past successful tasks (prioritize quality_score ≥ 8)
-    past_tasks = fetch_successful_tasks()
+    past_tasks = fetch_users_tasks()
     if past_tasks.empty:  
         return {"message": "No past tasks available for comparison."}
 

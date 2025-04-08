@@ -1,9 +1,9 @@
 from models.cbf_model import assign_task
-from db.queries import fetch_past_tasks
+from db.queries import fetch_users_tasks
 
 def retrain_model():
     """ Retrains the AI model by updating user-task similarities """
-    past_tasks = fetch_past_tasks()
+    past_tasks = fetch_users_tasks()
     
     # Check if the past_tasks list is empty
     if not past_tasks:

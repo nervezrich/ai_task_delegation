@@ -28,7 +28,7 @@ def fetch_successful_tasks():
     df = load_csv("data/th.csv")
     # if df is not None:
     #     return df[df["quality_score"] >= 0.80][["user_id", "quality_score", "type_of_task", "priority_level"]]
-    return df.to_dict(orient="records")
+    return df.to_dict(orient="records") if df is not None else []
 
 def fetch_past_tasks():
     """ Fetch all users from CSV """
@@ -57,7 +57,7 @@ def fetch_unassigned_tasks():
 
 def fetch_users_tasks():
     """ Fetch all users from CSV """
-    df = load_csv("data/th.csv")
+    df = pd.read_csv("backend/data/th.csv")
     return df.to_dict(orient="records") if df is not None else []
 
 def update_task_score(user_id, task_id, score):

@@ -75,7 +75,7 @@ tasks_history_data = []
 
 
 th_data = []
-for _ in range(400):
+for _ in range(2000):
     user_index = random.randint(0, 9)
     user_id = users[user_index]
     name = user_names[user_index]
@@ -93,7 +93,7 @@ tasks_history_df = pd.DataFrame(th_data, columns=["user_id", "name", "quality_sc
 # Save files
 tasks_file_path = "data/tasks.csv"
 tasks_history_file_path = "data/task_history.csv"
-th_file_path = "data/th.csv"
+th_file_path = "backend/data/th.csv"
 
 # tasks_df.to_csv(tasks_file_path, index=False)
 # tasks_history_df.to_csv(tasks_history_file_path, index=False)
