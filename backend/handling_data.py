@@ -1,5 +1,5 @@
 import pandas as pd
-from backend.db.queries import fetch_users_tasks
+from db.queries import fetch_users_tasks
 
 # Load the task history CSV
 successful_tasks = fetch_users_tasks()

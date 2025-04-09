@@ -1,26 +1,44 @@
-# from .database import get_db_connection
-
-# def fetch_successful_tasks():
-#     conn = get_db_connection()
-#     if conn:
-#         cursor = conn.cursor()
-#         cursor.execute("SELECT user_id, quality_score, type_of_task, priority_level FROM task_history WHERE quality_score >= 8")
-#         result = cursor.fetchall()
-#         conn.close()
-#         return result
-#     return []
-
-# def fetch_users():
-#     conn = get_db_connection()
-#     if conn:
-#         cursor = conn.cursor()
-#         cursor.execute("SELECT user_id, name, skills FROM users")
-#         result = cursor.fetchall()
-#         conn.close()
-#         return result
-#     return []
-
+from .database import get_db_connection
 import pandas as pd
+
+def fetch_past_tasks(ProjectID):
+    conn = get_db_connection()
+    if conn:
+        try:
+            cursor = conn.cursor()
+            query = """
+                SELECT 
+                    p."UserID",
+                    u."first_name",
+                    u."last_name",
+                    p."TaskID",
+                    t."title",
+                    t."description",
+                    t."typeOfTask",
+                    t."priorityLevel",
+                    t."dueDate",
+                    p."QualityScore"
+                FROM 
+                    "Performance" p
+                JOIN "Tasks" t ON p."TaskID" = t."taskId"
+                JOIN "User" u ON p."UserID" = u."UserID"
+                WHERE 
+                    p."ProjectID" = %s
+            """
+            cursor.execute(query, (ProjectID,))
+            result = cursor.fetchall()
+            conn.close()
+            return pd.DataFrame(result)
+        except Exception as e:
+            print("Error fetching past tasks:", e)
+            conn.close()
+            return []
+    return []
+
+
+print(fetch_past_tasks("3e0cf46a-af2f-4e0e-922e-d7144983e859"))
+
+
 from .database import load_csv, save_csv
 
 def fetch_successful_tasks():
@@ -57,7 +75,7 @@ def fetch_unassigned_tasks():
 
 def fetch_users_tasks():
     """ Fetch all users from CSV """
-    df = pd.read_csv("backend/data/th.csv")
+    df = pd.read_csv("data/th.csv")
     return df.to_dict(orient="records") if df is not None else []
 
 def update_task_score(user_id, task_id, score):

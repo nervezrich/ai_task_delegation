@@ -1,17 +1,22 @@
-# import psycopg2
-# import os
-# from config.settings import DATABASE_URL
-
-# def get_db_connection():
-#     try:
-#         conn = psycopg2.connect(DATABASE_URL)
-#         return conn
-#     except Exception as e:
-#         print(f"Database connection error: {e}")
-#         return None
-
-import pandas as pd
+import psycopg2
 import os
+from dotenv import load_dotenv
+import pandas as pd
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get the DATABASE_URL from environment
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+def get_db_connection():
+    try:
+        conn = psycopg2.connect(DATABASE_URL)
+        return conn
+    except Exception as e:
+        print(f"Database connection error: {e}")
+        return None
+
 
 # Define file paths
 TASKS_CSV = os.path.join("data", "tasks.csv")

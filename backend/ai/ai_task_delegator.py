@@ -3,17 +3,17 @@
 import joblib
 import numpy as np
 import pandas as pd
-from db.queries import fetch_users_tasks
+from db.queries import fetch_past_tasks
 from db.database import save_csv
 
 # Load model and tools
-model = joblib.load("backend/ml/random_forest_task_assigner.joblib")
-encoder = joblib.load("backend/ml/encoder.joblib")
-scaler = joblib.load("backend/ml/scaler.joblib")
-reverse_map = joblib.load("backend/ml/user_id_reverse_map.joblib")
+model = joblib.load("ml/random_forest_task_assigner.joblib")
+encoder = joblib.load("ml/encoder.joblib")
+scaler = joblib.load("ml/scaler.joblib")
+reverse_map = joblib.load("ml/user_id_reverse_map.joblib")
 
 def assign_task_ai(requested_tasks):
-    successful_tasks = fetch_users_tasks()
+    successful_tasks = fetch_past_tasks()
 
     # Convert to DataFrame if it's a list
     if isinstance(successful_tasks, list):
@@ -53,7 +53,7 @@ def assign_task_ai(requested_tasks):
         user_id = reverse_map[pred_label]
 
         # Save to CSV
-        history = pd.read_csv("backend/data/th.csv")
+        history = pd.read_csv("data/th.csv")
         record = {
             "user_id": user_id,
             "quality_score": 0,
@@ -65,7 +65,7 @@ def assign_task_ai(requested_tasks):
             "due_date": task["due_date"]
         }
         history = history._append(record, ignore_index=True)
-        save_csv(history, "backend/data/th.csv")
+        save_csv(history, "data/th.csv")
 
         assigned.append({
             "task_id": task["task_id"],
