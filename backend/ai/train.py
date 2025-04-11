@@ -1,15 +1,36 @@
-from models.cbf_model import assign_task
-from db.queries import fetch_users_tasks
+# train.py
+import os
+from data_preprocessing import load_data, preprocess_data
+from model import tune_model, evaluate_model, learning_curve_plot
+from sklearn.model_selection import train_test_split
+import joblib
 
-def retrain_model():
-    """ Retrains the AI model by updating user-task similarities """
-    past_tasks = fetch_users_tasks()
-    
-    # Check if the past_tasks list is empty
-    if not past_tasks:
-        return {"message": "No data available for retraining."}
+def train_model():
+    # Load and preprocess data
+    data_file = 'data/task_user_pairs.csv'
+    if not os.path.exists(data_file):
+        raise FileNotFoundError(f"Dataset file not found at {data_file}")
 
-    # Pass the entire list of tasks at once to assign_task
-    updated_recommendations = assign_task(past_tasks)
-    
-    return {"message": "Model retrained successfully.", "updated_recommendations": updated_recommendations}
+    df = load_data(data_file)
+    X, y, pipeline = preprocess_data(df)
+
+    # Split the data
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    print("Building and tuning the model...")
+    model = tune_model(X_train, y_train)
+
+    # Save the model and pipeline
+    joblib.dump(model, 'ml/task_delegation_model.pkl')
+    joblib.dump(pipeline, 'ml/preprocessing_pipeline.pkl')
+    print("Model and preprocessing pipeline saved.")
+
+    print("Evaluating the model...")
+    evaluate_model(model, X_test, y_test)
+
+    print("Plotting learning curve...")
+    learning_curve_plot(model, X_train, y_train)
+
+
+if __name__ == "__main__":
+    train_model()

@@ -8,6 +8,8 @@ __pycache__/
 venv/
 env/
 .venv/
+.env
 
 # Joblib model files
 *.joblib
+*.pkl
